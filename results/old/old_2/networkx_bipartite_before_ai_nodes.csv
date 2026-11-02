@@ -1,0 +1,30 @@
+node,node_type,bipartite
+Ukraine,community,0
+liwc_anger,emotion,1
+China,community,0
+wordnet_feeling,emotion,1
+Serbia,community,0
+lm_uncertainty,emotion,1
+Hong Kong,community,0
+Germany,community,0
+United States,community,0
+liwc_anxiety,emotion,1
+Australia,community,0
+Japan,community,0
+United Kingdom,community,0
+Viet Nam,community,0
+Israel,community,0
+Canada,community,0
+Korea,community,0
+France,community,0
+wordnet_anxiety,emotion,1
+Italy,community,0
+Turkey,community,0
+Spain,community,0
+India,community,0
+Mexico,community,0
+Brazil,community,0
+wordnet_anger,emotion,1
+wordnet_optimism,emotion,1
+wordnet_hope,emotion,1
+wordnet_fear,emotion,1

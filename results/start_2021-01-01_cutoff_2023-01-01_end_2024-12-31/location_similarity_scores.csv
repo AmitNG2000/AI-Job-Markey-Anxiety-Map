@@ -1,0 +1,381 @@
+period,location_a_country_code,location_a_name,location_a_label,location_a_interaction_count,location_b_country_code,location_b_name,location_b_label,location_b_interaction_count,shared_feeling_count,similarity_weight,location_pair_label,similarity_score,similarity_rank
+before_ai,CH,China,China (CH),375614984,GM,Germany,Germany (GM),49814420,9,79.81077194213867,China (CH) ↔ Germany (GM),79.81077194213867,1
+before_ai,AF,Afghanistan,Afghanistan (AF),21253458,UP,Ukraine,Ukraine (UP),93635955,9,79.49556505680084,Afghanistan (AF) ↔ Ukraine (UP),79.49556505680084,2
+before_ai,AF,Afghanistan,Afghanistan (AF),21253458,CH,China,China (CH),375614984,9,77.14138078689575,Afghanistan (AF) ↔ China (CH),77.14138078689575,3
+before_ai,AF,Afghanistan,Afghanistan (AF),21253458,GM,Germany,Germany (GM),49814420,9,74.7421395778656,Afghanistan (AF) ↔ Germany (GM),74.7421395778656,4
+before_ai,GM,Germany,Germany (GM),49814420,UP,Ukraine,Ukraine (UP),93635955,9,71.81004083156586,Germany (GM) ↔ Ukraine (UP),71.81004083156586,5
+before_ai,AF,Afghanistan,Afghanistan (AF),21253458,RS,Russia,Russia (RS),118898978,9,71.34412693977356,Afghanistan (AF) ↔ Russia (RS),71.34412693977356,6
+before_ai,RS,Russia,Russia (RS),118898978,UP,Ukraine,Ukraine (UP),93635955,9,71.05116093158722,Russia (RS) ↔ Ukraine (UP),71.05116093158722,7
+before_ai,CH,China,China (CH),375614984,UP,Ukraine,Ukraine (UP),93635955,9,70.08429563045502,China (CH) ↔ Ukraine (UP),70.08429563045502,8
+before_ai,GM,Germany,Germany (GM),49814420,RS,Russia,Russia (RS),118898978,9,69.28352046012878,Germany (GM) ↔ Russia (RS),69.28352046012878,9
+before_ai,CH,China,China (CH),375614984,RS,Russia,Russia (RS),118898978,9,68.14721465110779,China (CH) ↔ Russia (RS),68.14721465110779,10
+before_ai,AF,Afghanistan,Afghanistan (AF),21253458,IS,Israel,Israel (IS),25932928,9,65.31337606906891,Afghanistan (AF) ↔ Israel (IS),65.31337606906891,11
+before_ai,GM,Germany,Germany (GM),49814420,IS,Israel,Israel (IS),25932928,9,65.23616778850555,Germany (GM) ↔ Israel (IS),65.23616778850555,12
+before_ai,CH,China,China (CH),375614984,IS,Israel,Israel (IS),25932928,9,65.18645656108856,China (CH) ↔ Israel (IS),65.18645656108856,13
+before_ai,CH,China,China (CH),375614984,JA,Japan,Japan (JA),26748146,9,64.83551406860352,China (CH) ↔ Japan (JA),64.83551406860352,14
+before_ai,IS,Israel,Israel (IS),25932928,RS,Russia,Russia (RS),118898978,9,64.72448861598969,Israel (IS) ↔ Russia (RS),64.72448861598969,15
+before_ai,IS,Israel,Israel (IS),25932928,UP,Ukraine,Ukraine (UP),93635955,9,64.6375857591629,Israel (IS) ↔ Ukraine (UP),64.6375857591629,16
+before_ai,GM,Germany,Germany (GM),49814420,JA,Japan,Japan (JA),26748146,9,64.56798100471497,Germany (GM) ↔ Japan (JA),64.56798100471497,17
+before_ai,AS,Australia,Australia (AS),31693690,GM,Germany,Germany (GM),49814420,9,64.30988681316376,Australia (AS) ↔ Germany (GM),64.30988681316376,18
+before_ai,AS,Australia,Australia (AS),31693690,CH,China,China (CH),375614984,9,64.26017558574677,Australia (AS) ↔ China (CH),64.26017558574677,19
+before_ai,AF,Afghanistan,Afghanistan (AF),21253458,AS,Australia,Australia (AS),31693690,9,63.76336467266083,Afghanistan (AF) ↔ Australia (AS),63.76336467266083,20
+before_ai,AF,Afghanistan,Afghanistan (AF),21253458,JA,Japan,Japan (JA),26748146,9,63.02324366569519,Afghanistan (AF) ↔ Japan (JA),63.02324366569519,21
+before_ai,AS,Australia,Australia (AS),31693690,RS,Russia,Russia (RS),118898978,9,62.51791870594025,Australia (AS) ↔ Russia (RS),62.51791870594025,22
+before_ai,AS,Australia,Australia (AS),31693690,UP,Ukraine,Ukraine (UP),93635955,9,61.97681438922882,Australia (AS) ↔ Ukraine (UP),61.97681438922882,23
+before_ai,CH,China,China (CH),375614984,VM,Vietnam,Vietnam (VM),26191967,9,60.91023015975952,China (CH) ↔ Vietnam (VM),60.91023015975952,24
+before_ai,GM,Germany,Germany (GM),49814420,VM,Vietnam,Vietnam (VM),26191967,9,60.90991806983948,Germany (GM) ↔ Vietnam (VM),60.90991806983948,25
+before_ai,AS,Australia,Australia (AS),31693690,IS,Israel,Israel (IS),25932928,9,60.60062921047211,Australia (AS) ↔ Israel (IS),60.60062921047211,26
+before_ai,JA,Japan,Japan (JA),26748146,UP,Ukraine,Ukraine (UP),93635955,9,60.25228297710419,Japan (JA) ↔ Ukraine (UP),60.25228297710419,27
+before_ai,AS,Australia,Australia (AS),31693690,JA,Japan,Japan (JA),26748146,9,60.243438839912415,Australia (AS) ↔ Japan (JA),60.243438839912415,28
+before_ai,UP,Ukraine,Ukraine (UP),93635955,VM,Vietnam,Vietnam (VM),26191967,9,59.84622776508331,Ukraine (UP) ↔ Vietnam (VM),59.84622776508331,29
+before_ai,JA,Japan,Japan (JA),26748146,RS,Russia,Russia (RS),118898978,9,59.718806982040405,Japan (JA) ↔ Russia (RS),59.718806982040405,30
+before_ai,CH,China,China (CH),375614984,UK,United Kingdom,United Kingdom (UK),95703000,9,59.66255068778992,China (CH) ↔ United Kingdom (UK),59.66255068778992,31
+before_ai,GM,Germany,Germany (GM),49814420,UK,United Kingdom,United Kingdom (UK),95703000,9,59.66255068778992,Germany (GM) ↔ United Kingdom (UK),59.66255068778992,31
+before_ai,AF,Afghanistan,Afghanistan (AF),21253458,VM,Vietnam,Vietnam (VM),26191967,9,59.65258240699768,Afghanistan (AF) ↔ Vietnam (VM),59.65258240699768,33
+before_ai,JA,Japan,Japan (JA),26748146,VM,Vietnam,Vietnam (VM),26191967,9,59.56045866012573,Japan (JA) ↔ Vietnam (VM),59.56045866012573,34
+before_ai,IS,Israel,Israel (IS),25932928,JA,Japan,Japan (JA),26748146,9,59.1123605966568,Israel (IS) ↔ Japan (JA),59.1123605966568,35
+before_ai,AF,Afghanistan,Afghanistan (AF),21253458,UK,United Kingdom,United Kingdom (UK),95703000,9,59.007633447647095,Afghanistan (AF) ↔ United Kingdom (UK),59.007633447647095,36
+before_ai,AS,Australia,Australia (AS),31693690,VM,Vietnam,Vietnam (VM),26191967,9,58.86458456516266,Australia (AS) ↔ Vietnam (VM),58.86458456516266,37
+before_ai,RS,Russia,Russia (RS),118898978,UK,United Kingdom,United Kingdom (UK),95703000,9,58.590635776519775,Russia (RS) ↔ United Kingdom (UK),58.590635776519775,38
+before_ai,RS,Russia,Russia (RS),118898978,VM,Vietnam,Vietnam (VM),26191967,9,58.58752751350403,Russia (RS) ↔ Vietnam (VM),58.58752751350403,39
+before_ai,AS,Australia,Australia (AS),31693690,UK,United Kingdom,United Kingdom (UK),95703000,9,58.188199162483215,Australia (AS) ↔ United Kingdom (UK),58.188199162483215,40
+before_ai,IS,Israel,Israel (IS),25932928,VM,Vietnam,Vietnam (VM),26191967,9,58.06124150753021,Israel (IS) ↔ Vietnam (VM),58.06124150753021,41
+before_ai,IS,Israel,Israel (IS),25932928,UK,United Kingdom,United Kingdom (UK),95703000,9,57.94009029865265,Israel (IS) ↔ United Kingdom (UK),57.94009029865265,42
+before_ai,UK,United Kingdom,United Kingdom (UK),95703000,UP,Ukraine,Ukraine (UP),93635955,9,57.83352315425873,United Kingdom (UK) ↔ Ukraine (UP),57.83352315425873,43
+before_ai,JA,Japan,Japan (JA),26748146,UK,United Kingdom,United Kingdom (UK),95703000,9,57.476863384246826,Japan (JA) ↔ United Kingdom (UK),57.476863384246826,44
+before_ai,GM,Germany,Germany (GM),49814420,US,United States,United States (US),443072595,9,56.61729657649994,Germany (GM) ↔ United States (US),56.61729657649994,45
+before_ai,CH,China,China (CH),375614984,US,United States,United States (US),443072595,9,56.09267246723175,China (CH) ↔ United States (US),56.09267246723175,46
+before_ai,JA,Japan,Japan (JA),26748146,US,United States,United States (US),443072595,9,55.61351454257965,Japan (JA) ↔ United States (US),55.61351454257965,47
+before_ai,UK,United Kingdom,United Kingdom (UK),95703000,VM,Vietnam,Vietnam (VM),26191967,9,55.40833115577698,United Kingdom (UK) ↔ Vietnam (VM),55.40833115577698,48
+before_ai,AS,Australia,Australia (AS),31693690,US,United States,United States (US),443072595,9,54.95667588710785,Australia (AS) ↔ United States (US),54.95667588710785,49
+before_ai,UK,United Kingdom,United Kingdom (UK),95703000,US,United States,United States (US),443072595,9,54.83060300350189,United Kingdom (UK) ↔ United States (US),54.83060300350189,50
+before_ai,UP,Ukraine,Ukraine (UP),93635955,US,United States,United States (US),443072595,9,54.55630695819855,Ukraine (UP) ↔ United States (US),54.55630695819855,51
+before_ai,RS,Russia,Russia (RS),118898978,US,United States,United States (US),443072595,9,54.44507563114166,Russia (RS) ↔ United States (US),54.44507563114166,52
+before_ai,AF,Afghanistan,Afghanistan (AF),21253458,US,United States,United States (US),443072595,9,54.30982530117035,Afghanistan (AF) ↔ United States (US),54.30982530117035,53
+before_ai,US,United States,United States (US),443072595,VM,Vietnam,Vietnam (VM),26191967,9,53.82582867145538,United States (US) ↔ Vietnam (VM),53.82582867145538,54
+before_ai,IS,Israel,Israel (IS),25932928,US,United States,United States (US),443072595,9,53.47414028644562,Israel (IS) ↔ United States (US),53.47414028644562,55
+before_ai,AF,Afghanistan,Afghanistan (AF),21253458,KS,South Korea,South Korea (KS),19053701,9,52.42594373226166,Afghanistan (AF) ↔ South Korea (KS),52.42594373226166,56
+before_ai,AS,Australia,Australia (AS),31693690,KS,South Korea,South Korea (KS),19053701,9,52.42594373226166,Australia (AS) ↔ South Korea (KS),52.42594373226166,56
+before_ai,CH,China,China (CH),375614984,KS,South Korea,South Korea (KS),19053701,9,52.42594373226166,China (CH) ↔ South Korea (KS),52.42594373226166,56
+before_ai,GM,Germany,Germany (GM),49814420,KS,South Korea,South Korea (KS),19053701,9,52.42594373226166,Germany (GM) ↔ South Korea (KS),52.42594373226166,56
+before_ai,JA,Japan,Japan (JA),26748146,KS,South Korea,South Korea (KS),19053701,9,52.42594373226166,Japan (JA) ↔ South Korea (KS),52.42594373226166,56
+before_ai,KS,South Korea,South Korea (KS),19053701,UK,United Kingdom,United Kingdom (UK),95703000,9,52.42594373226166,South Korea (KS) ↔ United Kingdom (UK),52.42594373226166,56
+before_ai,KS,South Korea,South Korea (KS),19053701,VM,Vietnam,Vietnam (VM),26191967,9,52.343568444252014,South Korea (KS) ↔ Vietnam (VM),52.343568444252014,62
+before_ai,KS,South Korea,South Korea (KS),19053701,RS,Russia,Russia (RS),118898978,9,52.336947321891785,South Korea (KS) ↔ Russia (RS),52.336947321891785,63
+before_ai,KS,South Korea,South Korea (KS),19053701,UP,Ukraine,Ukraine (UP),93635955,9,51.982603669166565,South Korea (KS) ↔ Ukraine (UP),51.982603669166565,64
+before_ai,IS,Israel,Israel (IS),25932928,KS,South Korea,South Korea (KS),19053701,9,51.86174762248993,Israel (IS) ↔ South Korea (KS),51.86174762248993,65
+before_ai,KS,South Korea,South Korea (KS),19053701,US,United States,United States (US),443072595,9,51.29560601711273,South Korea (KS) ↔ United States (US),51.29560601711273,66
+before_ai,AS,Australia,Australia (AS),31693690,CA,Canada,Canada (CA),37004986,9,51.06812012195587,Australia (AS) ↔ Canada (CA),51.06812012195587,67
+before_ai,CA,Canada,Canada (CA),37004986,CH,China,China (CH),375614984,9,51.06812012195587,Canada (CA) ↔ China (CH),51.06812012195587,67
+before_ai,CA,Canada,Canada (CA),37004986,GM,Germany,Germany (GM),49814420,9,51.06812012195587,Canada (CA) ↔ Germany (GM),51.06812012195587,67
+before_ai,AF,Afghanistan,Afghanistan (AF),21253458,CA,Canada,Canada (CA),37004986,9,50.65777838230133,Afghanistan (AF) ↔ Canada (CA),50.65777838230133,70
+before_ai,CA,Canada,Canada (CA),37004986,UK,United Kingdom,United Kingdom (UK),95703000,9,50.49747669696808,Canada (CA) ↔ United Kingdom (UK),50.49747669696808,71
+before_ai,CH,China,China (CH),375614984,IT,Italy,Italy (IT),32215511,9,50.410847544670105,China (CH) ↔ Italy (IT),50.410847544670105,72
+before_ai,GM,Germany,Germany (GM),49814420,IT,Italy,Italy (IT),32215511,9,50.410847544670105,Germany (GM) ↔ Italy (IT),50.410847544670105,72
+before_ai,IT,Italy,Italy (IT),32215511,RS,Russia,Russia (RS),118898978,9,50.410847544670105,Italy (IT) ↔ Russia (RS),50.410847544670105,72
+before_ai,CA,Canada,Canada (CA),37004986,RS,Russia,Russia (RS),118898978,9,50.20907485485077,Canada (CA) ↔ Russia (RS),50.20907485485077,75
+before_ai,IT,Italy,Italy (IT),32215511,UP,Ukraine,Ukraine (UP),93635955,9,50.20756113529205,Italy (IT) ↔ Ukraine (UP),50.20756113529205,76
+before_ai,IT,Italy,Italy (IT),32215511,JA,Japan,Japan (JA),26748146,9,50.15714085102081,Italy (IT) ↔ Japan (JA),50.15714085102081,77
+before_ai,AS,Australia,Australia (AS),31693690,IT,Italy,Italy (IT),32215511,9,50.06237041950226,Australia (AS) ↔ Italy (IT),50.06237041950226,78
+before_ai,IT,Italy,Italy (IT),32215511,VM,Vietnam,Vietnam (VM),26191967,9,49.983007073402405,Italy (IT) ↔ Vietnam (VM),49.983007073402405,79
+before_ai,CA,Canada,Canada (CA),37004986,UP,Ukraine,Ukraine (UP),93635955,9,49.97994077205658,Canada (CA) ↔ Ukraine (UP),49.97994077205658,80
+before_ai,AF,Afghanistan,Afghanistan (AF),21253458,IT,Italy,Italy (IT),32215511,9,49.87643206119537,Afghanistan (AF) ↔ Italy (IT),49.87643206119537,81
+before_ai,CA,Canada,Canada (CA),37004986,IS,Israel,Israel (IS),25932928,9,49.87465155124664,Canada (CA) ↔ Israel (IS),49.87465155124664,82
+before_ai,CA,Canada,Canada (CA),37004986,JA,Japan,Japan (JA),26748146,9,49.85923683643341,Canada (CA) ↔ Japan (JA),49.85923683643341,83
+before_ai,CA,Canada,Canada (CA),37004986,US,United States,United States (US),443072595,9,49.82174551486969,Canada (CA) ↔ United States (US),49.82174551486969,84
+before_ai,IT,Italy,Italy (IT),32215511,UK,United Kingdom,United Kingdom (UK),95703000,9,49.80760371685028,Italy (IT) ↔ United Kingdom (UK),49.80760371685028,85
+before_ai,IS,Israel,Israel (IS),25932928,IT,Italy,Italy (IT),32215511,9,49.54588520526886,Israel (IS) ↔ Italy (IT),49.54588520526886,86
+before_ai,CA,Canada,Canada (CA),37004986,VM,Vietnam,Vietnam (VM),26191967,9,49.23179113864899,Canada (CA) ↔ Vietnam (VM),49.23179113864899,87
+before_ai,CH,China,China (CH),375614984,TU,Turkey,Turkey (TU),33311304,9,49.218257427215576,China (CH) ↔ Turkey (TU),49.218257427215576,88
+before_ai,GM,Germany,Germany (GM),49814420,TU,Turkey,Turkey (TU),33311304,9,49.218257427215576,Germany (GM) ↔ Turkey (TU),49.218257427215576,88
+before_ai,RS,Russia,Russia (RS),118898978,TU,Turkey,Turkey (TU),33311304,9,49.218257427215576,Russia (RS) ↔ Turkey (TU),49.218257427215576,88
+before_ai,AF,Afghanistan,Afghanistan (AF),21253458,TU,Turkey,Turkey (TU),33311304,9,49.18185114860535,Afghanistan (AF) ↔ Turkey (TU),49.18185114860535,91
+before_ai,TU,Turkey,Turkey (TU),33311304,UP,Ukraine,Ukraine (UP),93635955,9,49.06872379779816,Turkey (TU) ↔ Ukraine (UP),49.06872379779816,92
+before_ai,IS,Israel,Israel (IS),25932928,TU,Turkey,Turkey (TU),33311304,9,49.03004992008209,Israel (IS) ↔ Turkey (TU),49.03004992008209,93
+before_ai,IT,Italy,Italy (IT),32215511,US,United States,United States (US),443072595,9,48.876694560050964,Italy (IT) ↔ United States (US),48.876694560050964,94
+before_ai,TU,Turkey,Turkey (TU),33311304,UK,United Kingdom,United Kingdom (UK),95703000,9,48.54422950744629,Turkey (TU) ↔ United Kingdom (UK),48.54422950744629,95
+before_ai,IT,Italy,Italy (IT),32215511,KS,South Korea,South Korea (KS),19053701,9,48.53351151943207,Italy (IT) ↔ South Korea (KS),48.53351151943207,96
+before_ai,CA,Canada,Canada (CA),37004986,KS,South Korea,South Korea (KS),19053701,9,47.811795592308044,Canada (CA) ↔ South Korea (KS),47.811795592308044,97
+before_ai,JA,Japan,Japan (JA),26748146,TU,Turkey,Turkey (TU),33311304,9,47.799500942230225,Japan (JA) ↔ Turkey (TU),47.799500942230225,98
+before_ai,AF,Afghanistan,Afghanistan (AF),21253458,FR,France,France (FR),37326111,9,47.59783709049225,Afghanistan (AF) ↔ France (FR),47.59783709049225,99
+before_ai,AS,Australia,Australia (AS),31693690,FR,France,France (FR),37326111,9,47.59783709049225,Australia (AS) ↔ France (FR),47.59783709049225,99
+before_ai,CH,China,China (CH),375614984,FR,France,France (FR),37326111,9,47.59783709049225,China (CH) ↔ France (FR),47.59783709049225,99
+before_ai,FR,France,France (FR),37326111,GM,Germany,Germany (GM),49814420,9,47.59783709049225,France (FR) ↔ Germany (GM),47.59783709049225,99
+before_ai,FR,France,France (FR),37326111,JA,Japan,Japan (JA),26748146,9,47.59783709049225,France (FR) ↔ Japan (JA),47.59783709049225,99
+before_ai,FR,France,France (FR),37326111,RS,Russia,Russia (RS),118898978,9,47.59783709049225,France (FR) ↔ Russia (RS),47.59783709049225,99
+before_ai,FR,France,France (FR),37326111,UK,United Kingdom,United Kingdom (UK),95703000,9,47.59783709049225,France (FR) ↔ United Kingdom (UK),47.59783709049225,99
+before_ai,FR,France,France (FR),37326111,VM,Vietnam,Vietnam (VM),26191967,9,47.59783709049225,France (FR) ↔ Vietnam (VM),47.59783709049225,99
+before_ai,FR,France,France (FR),37326111,IS,Israel,Israel (IS),25932928,9,47.48746883869171,France (FR) ↔ Israel (IS),47.48746883869171,107
+before_ai,FR,France,France (FR),37326111,KS,South Korea,South Korea (KS),19053701,9,47.4826465845108,France (FR) ↔ South Korea (KS),47.4826465845108,108
+before_ai,FR,France,France (FR),37326111,UP,Ukraine,Ukraine (UP),93635955,9,47.40636622905731,France (FR) ↔ Ukraine (UP),47.40636622905731,109
+before_ai,AS,Australia,Australia (AS),31693690,TU,Turkey,Turkey (TU),33311304,9,47.280117988586426,Australia (AS) ↔ Turkey (TU),47.280117988586426,110
+before_ai,FR,France,France (FR),37326111,US,United States,United States (US),443072595,9,47.25177872180939,France (FR) ↔ United States (US),47.25177872180939,111
+before_ai,FR,France,France (FR),37326111,IT,Italy,Italy (IT),32215511,9,47.22932016849518,France (FR) ↔ Italy (IT),47.22932016849518,112
+before_ai,CA,Canada,Canada (CA),37004986,IT,Italy,Italy (IT),32215511,9,46.89385735988617,Canada (CA) ↔ Italy (IT),46.89385735988617,113
+before_ai,TU,Turkey,Turkey (TU),33311304,VM,Vietnam,Vietnam (VM),26191967,9,46.582600831985474,Turkey (TU) ↔ Vietnam (VM),46.582600831985474,114
+before_ai,TU,Turkey,Turkey (TU),33311304,US,United States,United States (US),443072595,9,46.280694365501404,Turkey (TU) ↔ United States (US),46.280694365501404,115
+before_ai,KS,South Korea,South Korea (KS),19053701,TU,Turkey,Turkey (TU),33311304,9,45.969929933547974,South Korea (KS) ↔ Turkey (TU),45.969929933547974,116
+before_ai,IT,Italy,Italy (IT),32215511,TU,Turkey,Turkey (TU),33311304,9,45.91666781902313,Italy (IT) ↔ Turkey (TU),45.91666781902313,117
+before_ai,CA,Canada,Canada (CA),37004986,FR,France,France (FR),37326111,9,45.778770089149475,Canada (CA) ↔ France (FR),45.778770089149475,118
+before_ai,FR,France,France (FR),37326111,TU,Turkey,Turkey (TU),33311304,9,45.40744233131409,France (FR) ↔ Turkey (TU),45.40744233131409,119
+before_ai,CA,Canada,Canada (CA),37004986,TU,Turkey,Turkey (TU),33311304,9,44.56617605686188,Canada (CA) ↔ Turkey (TU),44.56617605686188,120
+before_ai,AF,Afghanistan,Afghanistan (AF),21253458,MX,Mexico,Mexico (MX),24375915,9,44.25723588466644,Afghanistan (AF) ↔ Mexico (MX),44.25723588466644,121
+before_ai,AS,Australia,Australia (AS),31693690,MX,Mexico,Mexico (MX),24375915,9,44.25723588466644,Australia (AS) ↔ Mexico (MX),44.25723588466644,121
+before_ai,CH,China,China (CH),375614984,MX,Mexico,Mexico (MX),24375915,9,44.25723588466644,China (CH) ↔ Mexico (MX),44.25723588466644,121
+before_ai,GM,Germany,Germany (GM),49814420,MX,Mexico,Mexico (MX),24375915,9,44.25723588466644,Germany (GM) ↔ Mexico (MX),44.25723588466644,121
+before_ai,JA,Japan,Japan (JA),26748146,MX,Mexico,Mexico (MX),24375915,9,44.25723588466644,Japan (JA) ↔ Mexico (MX),44.25723588466644,121
+before_ai,MX,Mexico,Mexico (MX),24375915,RS,Russia,Russia (RS),118898978,9,44.25723588466644,Mexico (MX) ↔ Russia (RS),44.25723588466644,121
+before_ai,MX,Mexico,Mexico (MX),24375915,UK,United Kingdom,United Kingdom (UK),95703000,9,44.25723588466644,Mexico (MX) ↔ United Kingdom (UK),44.25723588466644,121
+before_ai,MX,Mexico,Mexico (MX),24375915,UP,Ukraine,Ukraine (UP),93635955,9,44.25723588466644,Mexico (MX) ↔ Ukraine (UP),44.25723588466644,121
+before_ai,MX,Mexico,Mexico (MX),24375915,VM,Vietnam,Vietnam (VM),26191967,9,44.25723588466644,Mexico (MX) ↔ Vietnam (VM),44.25723588466644,121
+before_ai,IS,Israel,Israel (IS),25932928,MX,Mexico,Mexico (MX),24375915,9,44.245909094810486,Israel (IS) ↔ Mexico (MX),44.245909094810486,130
+before_ai,FR,France,France (FR),37326111,MX,Mexico,Mexico (MX),24375915,9,44.23139703273773,France (FR) ↔ Mexico (MX),44.23139703273773,131
+before_ai,KS,South Korea,South Korea (KS),19053701,MX,Mexico,Mexico (MX),24375915,9,44.20363652706146,South Korea (KS) ↔ Mexico (MX),44.20363652706146,132
+before_ai,IT,Italy,Italy (IT),32215511,MX,Mexico,Mexico (MX),24375915,9,44.175225615501404,Italy (IT) ↔ Mexico (MX),44.175225615501404,133
+before_ai,MX,Mexico,Mexico (MX),24375915,US,United States,United States (US),443072595,9,43.94605815410614,Mexico (MX) ↔ United States (US),43.94605815410614,134
+before_ai,AS,Australia,Australia (AS),31693690,SP,Spain,Spain (SP),23991997,9,43.72567617893219,Australia (AS) ↔ Spain (SP),43.72567617893219,135
+before_ai,CH,China,China (CH),375614984,SP,Spain,Spain (SP),23991997,9,43.72567617893219,China (CH) ↔ Spain (SP),43.72567617893219,135
+before_ai,GM,Germany,Germany (GM),49814420,SP,Spain,Spain (SP),23991997,9,43.72567617893219,Germany (GM) ↔ Spain (SP),43.72567617893219,135
+before_ai,JA,Japan,Japan (JA),26748146,SP,Spain,Spain (SP),23991997,9,43.72567617893219,Japan (JA) ↔ Spain (SP),43.72567617893219,135
+before_ai,SP,Spain,Spain (SP),23991997,US,United States,United States (US),443072595,9,43.72567617893219,Spain (SP) ↔ United States (US),43.72567617893219,135
+before_ai,SP,Spain,Spain (SP),23991997,UK,United Kingdom,United Kingdom (UK),95703000,9,43.70907485485077,Spain (SP) ↔ United Kingdom (UK),43.70907485485077,140
+before_ai,AF,Afghanistan,Afghanistan (AF),21253458,SP,Spain,Spain (SP),23991997,9,43.67662513256073,Afghanistan (AF) ↔ Spain (SP),43.67662513256073,141
+before_ai,KS,South Korea,South Korea (KS),19053701,SP,Spain,Spain (SP),23991997,9,43.66013991832733,South Korea (KS) ↔ Spain (SP),43.66013991832733,142
+before_ai,SP,Spain,Spain (SP),23991997,VM,Vietnam,Vietnam (VM),26191967,9,43.653814911842346,Spain (SP) ↔ Vietnam (VM),43.653814911842346,143
+before_ai,RS,Russia,Russia (RS),118898978,SP,Spain,Spain (SP),23991997,9,43.64719378948212,Russia (RS) ↔ Spain (SP),43.64719378948212,144
+before_ai,MX,Mexico,Mexico (MX),24375915,TU,Turkey,Turkey (TU),33311304,9,43.62462556362152,Mexico (MX) ↔ Turkey (TU),43.62462556362152,145
+before_ai,IT,Italy,Italy (IT),32215511,SP,Spain,Spain (SP),23991997,9,43.57585895061493,Italy (IT) ↔ Spain (SP),43.57585895061493,146
+before_ai,SP,Spain,Spain (SP),23991997,UP,Ukraine,Ukraine (UP),93635955,9,43.41805970668793,Spain (SP) ↔ Ukraine (UP),43.41805970668793,147
+before_ai,FR,France,France (FR),37326111,SP,Spain,Spain (SP),23991997,9,43.28624641895294,France (FR) ↔ Spain (SP),43.28624641895294,148
+before_ai,IS,Israel,Israel (IS),25932928,SP,Spain,Spain (SP),23991997,9,43.26775777339935,Israel (IS) ↔ Spain (SP),43.26775777339935,149
+before_ai,CA,Canada,Canada (CA),37004986,SP,Spain,Spain (SP),23991997,9,43.10621654987335,Canada (CA) ↔ Spain (SP),43.10621654987335,150
+before_ai,CA,Canada,Canada (CA),37004986,MX,Mexico,Mexico (MX),24375915,9,42.49230968952179,Canada (CA) ↔ Mexico (MX),42.49230968952179,151
+before_ai,MX,Mexico,Mexico (MX),24375915,SP,Spain,Spain (SP),23991997,9,42.423749804496765,Mexico (MX) ↔ Spain (SP),42.423749804496765,152
+before_ai,AF,Afghanistan,Afghanistan (AF),21253458,IN,India,India (IN),47048745,9,42.39232075214386,Afghanistan (AF) ↔ India (IN),42.39232075214386,153
+before_ai,AS,Australia,Australia (AS),31693690,IN,India,India (IN),47048745,9,42.39232075214386,Australia (AS) ↔ India (IN),42.39232075214386,153
+before_ai,CH,China,China (CH),375614984,IN,India,India (IN),47048745,9,42.39232075214386,China (CH) ↔ India (IN),42.39232075214386,153
+before_ai,GM,Germany,Germany (GM),49814420,IN,India,India (IN),47048745,9,42.39232075214386,Germany (GM) ↔ India (IN),42.39232075214386,153
+before_ai,IN,India,India (IN),47048745,JA,Japan,Japan (JA),26748146,9,42.39232075214386,India (IN) ↔ Japan (JA),42.39232075214386,153
+before_ai,IN,India,India (IN),47048745,KS,South Korea,South Korea (KS),19053701,9,42.39232075214386,India (IN) ↔ South Korea (KS),42.39232075214386,153
+before_ai,IN,India,India (IN),47048745,RS,Russia,Russia (RS),118898978,9,42.39232075214386,India (IN) ↔ Russia (RS),42.39232075214386,153
+before_ai,IN,India,India (IN),47048745,UK,United Kingdom,United Kingdom (UK),95703000,9,42.39232075214386,India (IN) ↔ United Kingdom (UK),42.39232075214386,153
+before_ai,IN,India,India (IN),47048745,VM,Vietnam,Vietnam (VM),26191967,9,42.39232075214386,India (IN) ↔ Vietnam (VM),42.39232075214386,153
+before_ai,FR,France,France (FR),37326111,IN,India,India (IN),47048745,9,42.38767182826996,France (FR) ↔ India (IN),42.38767182826996,162
+before_ai,IN,India,India (IN),47048745,UP,Ukraine,Ukraine (UP),93635955,9,42.34888422489166,India (IN) ↔ Ukraine (UP),42.34888422489166,163
+before_ai,IN,India,India (IN),47048745,US,United States,United States (US),443072595,9,42.32654511928558,India (IN) ↔ United States (US),42.32654511928558,164
+before_ai,SP,Spain,Spain (SP),23991997,TU,Turkey,Turkey (TU),33311304,9,42.31243312358856,Spain (SP) ↔ Turkey (TU),42.31243312358856,165
+before_ai,IN,India,India (IN),47048745,IS,Israel,Israel (IS),25932928,9,42.29636538028717,India (IN) ↔ Israel (IS),42.29636538028717,166
+before_ai,IN,India,India (IN),47048745,IT,Italy,Italy (IT),32215511,9,42.26730668544769,India (IN) ↔ Italy (IT),42.26730668544769,167
+before_ai,IN,India,India (IN),47048745,MX,Mexico,Mexico (MX),24375915,9,41.85425817966461,India (IN) ↔ Mexico (MX),41.85425817966461,168
+before_ai,IN,India,India (IN),47048745,TU,Turkey,Turkey (TU),33311304,9,41.466556549072266,India (IN) ↔ Turkey (TU),41.466556549072266,169
+before_ai,IN,India,India (IN),47048745,SP,Spain,Spain (SP),23991997,9,41.19254457950592,India (IN) ↔ Spain (SP),41.19254457950592,170
+before_ai,CA,Canada,Canada (CA),37004986,IN,India,India (IN),47048745,9,40.85353648662567,Canada (CA) ↔ India (IN),40.85353648662567,171
+before_ai,BR,Brazil,Brazil (BR),26239676,CH,China,China (CH),375614984,9,37.20593869686127,Brazil (BR) ↔ China (CH),37.20593869686127,172
+before_ai,BR,Brazil,Brazil (BR),26239676,GM,Germany,Germany (GM),49814420,9,37.20593869686127,Brazil (BR) ↔ Germany (GM),37.20593869686127,172
+before_ai,BR,Brazil,Brazil (BR),26239676,UP,Ukraine,Ukraine (UP),93635955,9,37.20593869686127,Brazil (BR) ↔ Ukraine (UP),37.20593869686127,172
+before_ai,BR,Brazil,Brazil (BR),26239676,US,United States,United States (US),443072595,9,37.14629352092743,Brazil (BR) ↔ United States (US),37.14629352092743,175
+before_ai,BR,Brazil,Brazil (BR),26239676,JA,Japan,Japan (JA),26748146,9,36.93302524089813,Brazil (BR) ↔ Japan (JA),36.93302524089813,176
+before_ai,BR,Brazil,Brazil (BR),26239676,RS,Russia,Russia (RS),118898978,9,36.79399836063385,Brazil (BR) ↔ Russia (RS),36.79399836063385,177
+before_ai,BR,Brazil,Brazil (BR),26239676,IT,Italy,Italy (IT),32215511,9,36.63425385951996,Brazil (BR) ↔ Italy (IT),36.63425385951996,178
+before_ai,BR,Brazil,Brazil (BR),26239676,TU,Turkey,Turkey (TU),33311304,9,36.52280604839325,Brazil (BR) ↔ Turkey (TU),36.52280604839325,179
+before_ai,AF,Afghanistan,Afghanistan (AF),21253458,BR,Brazil,Brazil (BR),26239676,9,36.48639976978302,Afghanistan (AF) ↔ Brazil (BR),36.48639976978302,180
+before_ai,BR,Brazil,Brazil (BR),26239676,IS,Israel,Israel (IS),25932928,9,36.4439617395401,Brazil (BR) ↔ Israel (IS),36.4439617395401,181
+before_ai,AS,Australia,Australia (AS),31693690,BR,Brazil,Brazil (BR),26239676,9,36.404762625694275,Australia (AS) ↔ Brazil (BR),36.404762625694275,182
+before_ai,BR,Brazil,Brazil (BR),26239676,VM,Vietnam,Vietnam (VM),26191967,9,36.39682495594025,Brazil (BR) ↔ Vietnam (VM),36.39682495594025,183
+before_ai,BR,Brazil,Brazil (BR),26239676,UK,United Kingdom,United Kingdom (UK),95703000,9,36.38512170314789,Brazil (BR) ↔ United Kingdom (UK),36.38512170314789,184
+before_ai,BR,Brazil,Brazil (BR),26239676,CA,Canada,Canada (CA),37004986,9,36.280940651893616,Brazil (BR) ↔ Canada (CA),36.280940651893616,185
+before_ai,BR,Brazil,Brazil (BR),26239676,FR,France,France (FR),37326111,9,36.11143910884857,Brazil (BR) ↔ France (FR),36.11143910884857,186
+before_ai,BR,Brazil,Brazil (BR),26239676,KS,South Korea,South Korea (KS),19053701,9,36.024009108543396,Brazil (BR) ↔ South Korea (KS),36.024009108543396,187
+before_ai,BR,Brazil,Brazil (BR),26239676,IN,India,India (IN),47048745,9,35.89188802242279,Brazil (BR) ↔ India (IN),35.89188802242279,188
+before_ai,BR,Brazil,Brazil (BR),26239676,SP,Spain,Spain (SP),23991997,9,35.77765691280365,Brazil (BR) ↔ Spain (SP),35.77765691280365,189
+before_ai,BR,Brazil,Brazil (BR),26239676,MX,Mexico,Mexico (MX),24375915,9,35.77082288265228,Brazil (BR) ↔ Mexico (MX),35.77082288265228,190
+after_ai,RS,Russia,Russia (RS),167872653,UP,Ukraine,Ukraine (UP),105951806,9,140.4476523399353,Russia (RS) ↔ Ukraine (UP),140.4476523399353,1
+after_ai,IS,Israel,Israel (IS),130217432,RS,Russia,Russia (RS),167872653,9,113.22383213043213,Israel (IS) ↔ Russia (RS),113.22383213043213,2
+after_ai,IS,Israel,Israel (IS),130217432,UP,Ukraine,Ukraine (UP),105951806,9,111.65266799926758,Israel (IS) ↔ Ukraine (UP),111.65266799926758,3
+after_ai,CH,China,China (CH),339829187,RS,Russia,Russia (RS),167872653,9,79.46562552452087,China (CH) ↔ Russia (RS),79.46562552452087,4
+after_ai,CH,China,China (CH),339829187,UP,Ukraine,Ukraine (UP),105951806,9,79.30039763450623,China (CH) ↔ Ukraine (UP),79.30039763450623,5
+after_ai,CH,China,China (CH),339829187,IS,Israel,Israel (IS),130217432,9,78.5726706981659,China (CH) ↔ Israel (IS),78.5726706981659,6
+after_ai,UP,Ukraine,Ukraine (UP),105951806,US,United States,United States (US),414315406,9,59.461475014686584,Ukraine (UP) ↔ United States (US),59.461475014686584,7
+after_ai,RS,Russia,Russia (RS),167872653,US,United States,United States (US),414315406,9,59.222347378730774,Russia (RS) ↔ United States (US),59.222347378730774,8
+after_ai,CH,China,China (CH),339829187,US,United States,United States (US),414315406,9,58.77960789203644,China (CH) ↔ United States (US),58.77960789203644,9
+after_ai,IS,Israel,Israel (IS),130217432,US,United States,United States (US),414315406,9,58.434167981147766,Israel (IS) ↔ United States (US),58.434167981147766,10
+after_ai,CH,China,China (CH),339829187,JA,Japan,Japan (JA),30593148,9,57.11521863937378,China (CH) ↔ Japan (JA),57.11521863937378,11
+after_ai,JA,Japan,Japan (JA),30593148,RS,Russia,Russia (RS),167872653,9,57.11521863937378,Japan (JA) ↔ Russia (RS),57.11521863937378,11
+after_ai,JA,Japan,Japan (JA),30593148,UP,Ukraine,Ukraine (UP),105951806,9,57.11521863937378,Japan (JA) ↔ Ukraine (UP),57.11521863937378,11
+after_ai,IS,Israel,Israel (IS),130217432,JA,Japan,Japan (JA),30593148,9,56.89793276786804,Israel (IS) ↔ Japan (JA),56.89793276786804,14
+after_ai,JA,Japan,Japan (JA),30593148,US,United States,United States (US),414315406,9,55.30023896694183,Japan (JA) ↔ United States (US),55.30023896694183,15
+after_ai,CH,China,China (CH),339829187,GM,Germany,Germany (GM),68022183,9,55.161643385887146,China (CH) ↔ Germany (GM),55.161643385887146,16
+after_ai,GM,Germany,Germany (GM),68022183,IS,Israel,Israel (IS),130217432,9,55.161643385887146,Germany (GM) ↔ Israel (IS),55.161643385887146,16
+after_ai,GM,Germany,Germany (GM),68022183,RS,Russia,Russia (RS),167872653,9,55.161643385887146,Germany (GM) ↔ Russia (RS),55.161643385887146,16
+after_ai,GM,Germany,Germany (GM),68022183,UP,Ukraine,Ukraine (UP),105951806,9,55.161643385887146,Germany (GM) ↔ Ukraine (UP),55.161643385887146,16
+after_ai,CH,China,China (CH),339829187,UK,United Kingdom,United Kingdom (UK),96525975,9,54.86340522766113,China (CH) ↔ United Kingdom (UK),54.86340522766113,20
+after_ai,RS,Russia,Russia (RS),167872653,UK,United Kingdom,United Kingdom (UK),96525975,9,54.86340522766113,Russia (RS) ↔ United Kingdom (UK),54.86340522766113,20
+after_ai,UK,United Kingdom,United Kingdom (UK),96525975,UP,Ukraine,Ukraine (UP),105951806,9,54.86340522766113,United Kingdom (UK) ↔ Ukraine (UP),54.86340522766113,20
+after_ai,IS,Israel,Israel (IS),130217432,UK,United Kingdom,United Kingdom (UK),96525975,9,54.72491502761841,Israel (IS) ↔ United Kingdom (UK),54.72491502761841,23
+after_ai,EG,Egypt,Egypt (EG),24710549,IS,Israel,Israel (IS),130217432,9,54.482107520103455,Egypt (EG) ↔ Israel (IS),54.482107520103455,24
+after_ai,EG,Egypt,Egypt (EG),24710549,RS,Russia,Russia (RS),167872653,9,54.482107520103455,Egypt (EG) ↔ Russia (RS),54.482107520103455,24
+after_ai,EG,Egypt,Egypt (EG),24710549,UP,Ukraine,Ukraine (UP),105951806,9,54.482107520103455,Egypt (EG) ↔ Ukraine (UP),54.482107520103455,24
+after_ai,CA,Canada,Canada (CA),61164629,CH,China,China (CH),339829187,9,54.26272511482239,Canada (CA) ↔ China (CH),54.26272511482239,27
+after_ai,CA,Canada,Canada (CA),61164629,RS,Russia,Russia (RS),167872653,9,54.26272511482239,Canada (CA) ↔ Russia (RS),54.26272511482239,27
+after_ai,CA,Canada,Canada (CA),61164629,UP,Ukraine,Ukraine (UP),105951806,9,54.26272511482239,Canada (CA) ↔ Ukraine (UP),54.26272511482239,27
+after_ai,CA,Canada,Canada (CA),61164629,IS,Israel,Israel (IS),130217432,9,54.0086395740509,Canada (CA) ↔ Israel (IS),54.0086395740509,30
+after_ai,JA,Japan,Japan (JA),30593148,UK,United Kingdom,United Kingdom (UK),96525975,9,53.450899839401245,Japan (JA) ↔ United Kingdom (UK),53.450899839401245,31
+after_ai,CA,Canada,Canada (CA),61164629,US,United States,United States (US),414315406,9,53.40878129005432,Canada (CA) ↔ United States (US),53.40878129005432,32
+after_ai,RS,Russia,Russia (RS),167872653,TU,Turkey,Turkey (TU),43001700,9,53.252848386764526,Russia (RS) ↔ Turkey (TU),53.252848386764526,33
+after_ai,TU,Turkey,Turkey (TU),43001700,UP,Ukraine,Ukraine (UP),105951806,9,53.252848386764526,Turkey (TU) ↔ Ukraine (UP),53.252848386764526,33
+after_ai,UK,United Kingdom,United Kingdom (UK),96525975,US,United States,United States (US),414315406,9,53.16514718532562,United Kingdom (UK) ↔ United States (US),53.16514718532562,35
+after_ai,GM,Germany,Germany (GM),68022183,US,United States,United States (US),414315406,9,53.139567732810974,Germany (GM) ↔ United States (US),53.139567732810974,36
+after_ai,AS,Australia,Australia (AS),57185487,CH,China,China (CH),339829187,9,52.890742897987366,Australia (AS) ↔ China (CH),52.890742897987366,37
+after_ai,AS,Australia,Australia (AS),57185487,IS,Israel,Israel (IS),130217432,9,52.890742897987366,Australia (AS) ↔ Israel (IS),52.890742897987366,37
+after_ai,AS,Australia,Australia (AS),57185487,RS,Russia,Russia (RS),167872653,9,52.890742897987366,Australia (AS) ↔ Russia (RS),52.890742897987366,37
+after_ai,AS,Australia,Australia (AS),57185487,UP,Ukraine,Ukraine (UP),105951806,9,52.890742897987366,Australia (AS) ↔ Ukraine (UP),52.890742897987366,37
+after_ai,AS,Australia,Australia (AS),57185487,US,United States,United States (US),414315406,9,52.768468499183655,Australia (AS) ↔ United States (US),52.768468499183655,41
+after_ai,GM,Germany,Germany (GM),68022183,UK,United Kingdom,United Kingdom (UK),96525975,9,52.693002343177795,Germany (GM) ↔ United Kingdom (UK),52.693002343177795,42
+after_ai,GM,Germany,Germany (GM),68022183,JA,Japan,Japan (JA),30593148,9,52.59961378574371,Germany (GM) ↔ Japan (JA),52.59961378574371,43
+after_ai,IS,Israel,Israel (IS),130217432,TU,Turkey,Turkey (TU),43001700,9,52.54809761047363,Israel (IS) ↔ Turkey (TU),52.54809761047363,44
+after_ai,AS,Australia,Australia (AS),57185487,JA,Japan,Japan (JA),30593148,9,52.37443721294403,Australia (AS) ↔ Japan (JA),52.37443721294403,45
+after_ai,AS,Australia,Australia (AS),57185487,UK,United Kingdom,United Kingdom (UK),96525975,9,52.13278067111969,Australia (AS) ↔ United Kingdom (UK),52.13278067111969,46
+after_ai,CH,China,China (CH),339829187,TU,Turkey,Turkey (TU),43001700,9,51.74520659446716,China (CH) ↔ Turkey (TU),51.74520659446716,47
+after_ai,AS,Australia,Australia (AS),57185487,GM,Germany,Germany (GM),68022183,9,51.46669828891754,Australia (AS) ↔ Germany (GM),51.46669828891754,48
+after_ai,CA,Canada,Canada (CA),61164629,GM,Germany,Germany (GM),68022183,9,51.13393449783325,Canada (CA) ↔ Germany (GM),51.13393449783325,49
+after_ai,CH,China,China (CH),339829187,EG,Egypt,Egypt (EG),24710549,9,51.11038434505463,China (CH) ↔ Egypt (EG),51.11038434505463,50
+after_ai,CA,Canada,Canada (CA),61164629,UK,United Kingdom,United Kingdom (UK),96525975,9,50.98679971694946,Canada (CA) ↔ United Kingdom (UK),50.98679971694946,51
+after_ai,CA,Canada,Canada (CA),61164629,JA,Japan,Japan (JA),30593148,9,50.97444248199463,Canada (CA) ↔ Japan (JA),50.97444248199463,52
+after_ai,EG,Egypt,Egypt (EG),24710549,GM,Germany,Germany (GM),68022183,9,50.96309685707092,Egypt (EG) ↔ Germany (GM),50.96309685707092,53
+after_ai,AS,Australia,Australia (AS),57185487,CA,Canada,Canada (CA),61164629,9,50.675007343292236,Australia (AS) ↔ Canada (CA),50.675007343292236,54
+after_ai,GM,Germany,Germany (GM),68022183,TU,Turkey,Turkey (TU),43001700,9,50.53570282459259,Germany (GM) ↔ Turkey (TU),50.53570282459259,55
+after_ai,EG,Egypt,Egypt (EG),24710549,TU,Turkey,Turkey (TU),43001700,9,50.27200162410736,Egypt (EG) ↔ Turkey (TU),50.27200162410736,56
+after_ai,EG,Egypt,Egypt (EG),24710549,UK,United Kingdom,United Kingdom (UK),96525975,9,50.05049979686737,Egypt (EG) ↔ United Kingdom (UK),50.05049979686737,57
+after_ai,JA,Japan,Japan (JA),30593148,TU,Turkey,Turkey (TU),43001700,9,50.021312952041626,Japan (JA) ↔ Turkey (TU),50.021312952041626,58
+after_ai,CH,China,China (CH),339829187,FR,France,France (FR),45621487,9,49.9110563993454,China (CH) ↔ France (FR),49.9110563993454,59
+after_ai,FR,France,France (FR),45621487,IS,Israel,Israel (IS),130217432,9,49.9110563993454,France (FR) ↔ Israel (IS),49.9110563993454,59
+after_ai,FR,France,France (FR),45621487,JA,Japan,Japan (JA),30593148,9,49.9110563993454,France (FR) ↔ Japan (JA),49.9110563993454,59
+after_ai,FR,France,France (FR),45621487,RS,Russia,Russia (RS),167872653,9,49.9110563993454,France (FR) ↔ Russia (RS),49.9110563993454,59
+after_ai,FR,France,France (FR),45621487,UK,United Kingdom,United Kingdom (UK),96525975,9,49.9110563993454,France (FR) ↔ United Kingdom (UK),49.9110563993454,59
+after_ai,FR,France,France (FR),45621487,UP,Ukraine,Ukraine (UP),105951806,9,49.9110563993454,France (FR) ↔ Ukraine (UP),49.9110563993454,59
+after_ai,TU,Turkey,Turkey (TU),43001700,US,United States,United States (US),414315406,9,49.76634228229523,Turkey (TU) ↔ United States (US),49.76634228229523,65
+after_ai,EG,Egypt,Egypt (EG),24710549,JA,Japan,Japan (JA),30593148,9,49.73959815502167,Egypt (EG) ↔ Japan (JA),49.73959815502167,66
+after_ai,FR,France,France (FR),45621487,GM,Germany,Germany (GM),68022183,9,49.69614064693451,France (FR) ↔ Germany (GM),49.69614064693451,67
+after_ai,TU,Turkey,Turkey (TU),43001700,UK,United Kingdom,United Kingdom (UK),96525975,9,49.60474610328674,Turkey (TU) ↔ United Kingdom (UK),49.60474610328674,68
+after_ai,FR,France,France (FR),45621487,US,United States,United States (US),414315406,9,49.449910163879395,France (FR) ↔ United States (US),49.449910163879395,69
+after_ai,EG,Egypt,Egypt (EG),24710549,US,United States,United States (US),414315406,9,49.028117418289185,Egypt (EG) ↔ United States (US),49.028117418289185,70
+after_ai,AS,Australia,Australia (AS),57185487,FR,France,France (FR),45621487,9,48.98872470855713,Australia (AS) ↔ France (FR),48.98872470855713,71
+after_ai,EG,Egypt,Egypt (EG),24710549,FR,France,France (FR),45621487,9,48.96229064464569,Egypt (EG) ↔ France (FR),48.96229064464569,72
+after_ai,AS,Australia,Australia (AS),57185487,EG,Egypt,Egypt (EG),24710549,9,48.41037726402283,Australia (AS) ↔ Egypt (EG),48.41037726402283,73
+after_ai,CH,China,China (CH),339829187,MX,Mexico,Mexico (MX),34534988,9,48.0645797252655,China (CH) ↔ Mexico (MX),48.0645797252655,74
+after_ai,GM,Germany,Germany (GM),68022183,MX,Mexico,Mexico (MX),34534988,9,48.0645797252655,Germany (GM) ↔ Mexico (MX),48.0645797252655,74
+after_ai,IS,Israel,Israel (IS),130217432,MX,Mexico,Mexico (MX),34534988,9,48.0645797252655,Israel (IS) ↔ Mexico (MX),48.0645797252655,74
+after_ai,JA,Japan,Japan (JA),30593148,MX,Mexico,Mexico (MX),34534988,9,48.0645797252655,Japan (JA) ↔ Mexico (MX),48.0645797252655,74
+after_ai,MX,Mexico,Mexico (MX),34534988,RS,Russia,Russia (RS),167872653,9,48.0645797252655,Mexico (MX) ↔ Russia (RS),48.0645797252655,74
+after_ai,MX,Mexico,Mexico (MX),34534988,UK,United Kingdom,United Kingdom (UK),96525975,9,48.0645797252655,Mexico (MX) ↔ United Kingdom (UK),48.0645797252655,74
+after_ai,MX,Mexico,Mexico (MX),34534988,UP,Ukraine,Ukraine (UP),105951806,9,48.0645797252655,Mexico (MX) ↔ Ukraine (UP),48.0645797252655,74
+after_ai,FR,France,France (FR),45621487,MX,Mexico,Mexico (MX),34534988,9,47.98968195915222,France (FR) ↔ Mexico (MX),47.98968195915222,81
+after_ai,AS,Australia,Australia (AS),57185487,TU,Turkey,Turkey (TU),43001700,9,47.966870188713074,Australia (AS) ↔ Turkey (TU),47.966870188713074,82
+after_ai,EG,Egypt,Egypt (EG),24710549,MX,Mexico,Mexico (MX),34534988,9,47.92013144493103,Egypt (EG) ↔ Mexico (MX),47.92013144493103,83
+after_ai,CA,Canada,Canada (CA),61164629,FR,France,France (FR),45621487,9,47.63838720321655,Canada (CA) ↔ France (FR),47.63838720321655,84
+after_ai,MX,Mexico,Mexico (MX),34534988,US,United States,United States (US),414315406,9,47.596840620040894,Mexico (MX) ↔ United States (US),47.596840620040894,85
+after_ai,FR,France,France (FR),45621487,TU,Turkey,Turkey (TU),43001700,9,47.42672049999237,France (FR) ↔ Turkey (TU),47.42672049999237,86
+after_ai,CA,Canada,Canada (CA),61164629,EG,Egypt,Egypt (EG),24710549,9,47.24392867088318,Canada (CA) ↔ Egypt (EG),47.24392867088318,87
+after_ai,CA,Canada,Canada (CA),61164629,TU,Turkey,Turkey (TU),43001700,9,47.20819640159607,Canada (CA) ↔ Turkey (TU),47.20819640159607,88
+after_ai,AS,Australia,Australia (AS),57185487,MX,Mexico,Mexico (MX),34534988,9,47.159444093704224,Australia (AS) ↔ Mexico (MX),47.159444093704224,89
+after_ai,MX,Mexico,Mexico (MX),34534988,TU,Turkey,Turkey (TU),43001700,9,46.6189820766449,Mexico (MX) ↔ Turkey (TU),46.6189820766449,90
+after_ai,CA,Canada,Canada (CA),61164629,MX,Mexico,Mexico (MX),34534988,9,45.89887249469757,Canada (CA) ↔ Mexico (MX),45.89887249469757,91
+after_ai,CH,China,China (CH),339829187,GR,Greece,Greece (GR),27803360,9,44.68175685405731,China (CH) ↔ Greece (GR),44.68175685405731,92
+after_ai,GR,Greece,Greece (GR),27803360,RS,Russia,Russia (RS),167872653,9,44.68175685405731,Greece (GR) ↔ Russia (RS),44.68175685405731,92
+after_ai,GR,Greece,Greece (GR),27803360,UP,Ukraine,Ukraine (UP),105951806,9,44.68175685405731,Greece (GR) ↔ Ukraine (UP),44.68175685405731,92
+after_ai,GR,Greece,Greece (GR),27803360,IS,Israel,Israel (IS),130217432,9,44.612621426582336,Greece (GR) ↔ Israel (IS),44.612621426582336,95
+after_ai,CH,China,China (CH),339829187,VM,Vietnam,Vietnam (VM),40485688,9,44.58577382564545,China (CH) ↔ Vietnam (VM),44.58577382564545,96
+after_ai,GM,Germany,Germany (GM),68022183,VM,Vietnam,Vietnam (VM),40485688,9,44.58577382564545,Germany (GM) ↔ Vietnam (VM),44.58577382564545,96
+after_ai,IS,Israel,Israel (IS),130217432,VM,Vietnam,Vietnam (VM),40485688,9,44.58577382564545,Israel (IS) ↔ Vietnam (VM),44.58577382564545,96
+after_ai,JA,Japan,Japan (JA),30593148,VM,Vietnam,Vietnam (VM),40485688,9,44.58577382564545,Japan (JA) ↔ Vietnam (VM),44.58577382564545,96
+after_ai,RS,Russia,Russia (RS),167872653,VM,Vietnam,Vietnam (VM),40485688,9,44.58577382564545,Russia (RS) ↔ Vietnam (VM),44.58577382564545,96
+after_ai,UK,United Kingdom,United Kingdom (UK),96525975,VM,Vietnam,Vietnam (VM),40485688,9,44.58577382564545,United Kingdom (UK) ↔ Vietnam (VM),44.58577382564545,96
+after_ai,UP,Ukraine,Ukraine (UP),105951806,VM,Vietnam,Vietnam (VM),40485688,9,44.58577382564545,Ukraine (UP) ↔ Vietnam (VM),44.58577382564545,96
+after_ai,US,United States,United States (US),414315406,VM,Vietnam,Vietnam (VM),40485688,9,44.58577382564545,United States (US) ↔ Vietnam (VM),44.58577382564545,96
+after_ai,AS,Australia,Australia (AS),57185487,VM,Vietnam,Vietnam (VM),40485688,9,44.53603482246399,Australia (AS) ↔ Vietnam (VM),44.53603482246399,104
+after_ai,GR,Greece,Greece (GR),27803360,JA,Japan,Japan (JA),30593148,9,44.41989743709564,Greece (GR) ↔ Japan (JA),44.41989743709564,105
+after_ai,AS,Australia,Australia (AS),57185487,GR,Greece,Greece (GR),27803360,9,44.41891825199127,Australia (AS) ↔ Greece (GR),44.41891825199127,106
+after_ai,TU,Turkey,Turkey (TU),43001700,VM,Vietnam,Vietnam (VM),40485688,9,44.35145032405853,Turkey (TU) ↔ Vietnam (VM),44.35145032405853,107
+after_ai,GR,Greece,Greece (GR),27803360,TU,Turkey,Turkey (TU),43001700,9,44.31892645359039,Greece (GR) ↔ Turkey (TU),44.31892645359039,108
+after_ai,GR,Greece,Greece (GR),27803360,US,United States,United States (US),414315406,9,44.29664385318756,Greece (GR) ↔ United States (US),44.29664385318756,109
+after_ai,GM,Germany,Germany (GM),68022183,GR,Greece,Greece (GR),27803360,9,44.26790726184845,Germany (GM) ↔ Greece (GR),44.26790726184845,110
+after_ai,CA,Canada,Canada (CA),61164629,VM,Vietnam,Vietnam (VM),40485688,9,44.254265785217285,Canada (CA) ↔ Vietnam (VM),44.254265785217285,111
+after_ai,EG,Egypt,Egypt (EG),24710549,GR,Greece,Greece (GR),27803360,9,44.09026765823364,Egypt (EG) ↔ Greece (GR),44.09026765823364,112
+after_ai,GR,Greece,Greece (GR),27803360,UK,United Kingdom,United Kingdom (UK),96525975,9,44.08097016811371,Greece (GR) ↔ United Kingdom (UK),44.08097016811371,113
+after_ai,CH,China,China (CH),339829187,IN,India,India (IN),65845072,9,44.00468099117279,China (CH) ↔ India (IN),44.00468099117279,114
+after_ai,IN,India,India (IN),65845072,IS,Israel,Israel (IS),130217432,9,44.00468099117279,India (IN) ↔ Israel (IS),44.00468099117279,114
+after_ai,IN,India,India (IN),65845072,RS,Russia,Russia (RS),167872653,9,44.00468099117279,India (IN) ↔ Russia (RS),44.00468099117279,114
+after_ai,IN,India,India (IN),65845072,UP,Ukraine,Ukraine (UP),105951806,9,44.00468099117279,India (IN) ↔ Ukraine (UP),44.00468099117279,114
+after_ai,EG,Egypt,Egypt (EG),24710549,IN,India,India (IN),65845072,9,43.98226881027222,Egypt (EG) ↔ India (IN),43.98226881027222,118
+after_ai,IN,India,India (IN),65845072,UK,United Kingdom,United Kingdom (UK),96525975,9,43.9599632024765,India (IN) ↔ United Kingdom (UK),43.9599632024765,119
+after_ai,GM,Germany,Germany (GM),68022183,IN,India,India (IN),65845072,9,43.95542323589325,Germany (GM) ↔ India (IN),43.95542323589325,120
+after_ai,FR,France,France (FR),45621487,GR,Greece,Greece (GR),27803360,9,43.85067653656006,France (FR) ↔ Greece (GR),43.85067653656006,121
+after_ai,IN,India,India (IN),65845072,JA,Japan,Japan (JA),30593148,9,43.761632323265076,India (IN) ↔ Japan (JA),43.761632323265076,122
+after_ai,EG,Egypt,Egypt (EG),24710549,VM,Vietnam,Vietnam (VM),40485688,9,43.67029511928558,Egypt (EG) ↔ Vietnam (VM),43.67029511928558,123
+after_ai,FR,France,France (FR),45621487,VM,Vietnam,Vietnam (VM),40485688,9,43.655948996543884,France (FR) ↔ Vietnam (VM),43.655948996543884,124
+after_ai,IN,India,India (IN),65845072,TU,Turkey,Turkey (TU),43001700,9,43.57689321041107,India (IN) ↔ Turkey (TU),43.57689321041107,125
+after_ai,MX,Mexico,Mexico (MX),34534988,VM,Vietnam,Vietnam (VM),40485688,9,43.52299082279205,Mexico (MX) ↔ Vietnam (VM),43.52299082279205,126
+after_ai,FR,France,France (FR),45621487,IN,India,India (IN),65845072,9,43.36041617393494,France (FR) ↔ India (IN),43.36041617393494,127
+after_ai,GR,Greece,Greece (GR),27803360,MX,Mexico,Mexico (MX),34534988,9,43.31227374076843,Greece (GR) ↔ Mexico (MX),43.31227374076843,128
+after_ai,IN,India,India (IN),65845072,MX,Mexico,Mexico (MX),34534988,9,43.29788267612457,India (IN) ↔ Mexico (MX),43.29788267612457,129
+after_ai,CA,Canada,Canada (CA),61164629,GR,Greece,Greece (GR),27803360,9,43.23464643955231,Canada (CA) ↔ Greece (GR),43.23464643955231,130
+after_ai,IN,India,India (IN),65845072,US,United States,United States (US),414315406,9,42.89926993846893,India (IN) ↔ United States (US),42.89926993846893,131
+after_ai,AS,Australia,Australia (AS),57185487,IN,India,India (IN),65845072,9,42.43808448314667,Australia (AS) ↔ India (IN),42.43808448314667,132
+after_ai,GR,Greece,Greece (GR),27803360,VM,Vietnam,Vietnam (VM),40485688,9,42.01814007759094,Greece (GR) ↔ Vietnam (VM),42.01814007759094,133
+after_ai,AS,Australia,Australia (AS),57185487,SP,Spain,Spain (SP),37766273,9,41.72561430931091,Australia (AS) ↔ Spain (SP),41.72561430931091,134
+after_ai,CH,China,China (CH),339829187,SP,Spain,Spain (SP),37766273,9,41.72561430931091,China (CH) ↔ Spain (SP),41.72561430931091,134
+after_ai,EG,Egypt,Egypt (EG),24710549,SP,Spain,Spain (SP),37766273,9,41.72561430931091,Egypt (EG) ↔ Spain (SP),41.72561430931091,134
+after_ai,FR,France,France (FR),45621487,SP,Spain,Spain (SP),37766273,9,41.72561430931091,France (FR) ↔ Spain (SP),41.72561430931091,134
+after_ai,GM,Germany,Germany (GM),68022183,SP,Spain,Spain (SP),37766273,9,41.72561430931091,Germany (GM) ↔ Spain (SP),41.72561430931091,134
+after_ai,IS,Israel,Israel (IS),130217432,SP,Spain,Spain (SP),37766273,9,41.72561430931091,Israel (IS) ↔ Spain (SP),41.72561430931091,134
+after_ai,JA,Japan,Japan (JA),30593148,SP,Spain,Spain (SP),37766273,9,41.72561430931091,Japan (JA) ↔ Spain (SP),41.72561430931091,134
+after_ai,RS,Russia,Russia (RS),167872653,SP,Spain,Spain (SP),37766273,9,41.72561430931091,Russia (RS) ↔ Spain (SP),41.72561430931091,134
+after_ai,SP,Spain,Spain (SP),37766273,TU,Turkey,Turkey (TU),43001700,9,41.72561430931091,Spain (SP) ↔ Turkey (TU),41.72561430931091,134
+after_ai,SP,Spain,Spain (SP),37766273,UK,United Kingdom,United Kingdom (UK),96525975,9,41.72561430931091,Spain (SP) ↔ United Kingdom (UK),41.72561430931091,134
+after_ai,SP,Spain,Spain (SP),37766273,UP,Ukraine,Ukraine (UP),105951806,9,41.72561430931091,Spain (SP) ↔ Ukraine (UP),41.72561430931091,134
+after_ai,SP,Spain,Spain (SP),37766273,US,United States,United States (US),414315406,9,41.72561430931091,Spain (SP) ↔ United States (US),41.72561430931091,134
+after_ai,MX,Mexico,Mexico (MX),34534988,SP,Spain,Spain (SP),37766273,9,41.66772127151489,Mexico (MX) ↔ Spain (SP),41.66772127151489,146
+after_ai,GR,Greece,Greece (GR),27803360,SP,Spain,Spain (SP),37766273,9,41.598472356796265,Greece (GR) ↔ Spain (SP),41.598472356796265,147
+after_ai,CA,Canada,Canada (CA),61164629,SP,Spain,Spain (SP),37766273,9,41.41704058647156,Canada (CA) ↔ Spain (SP),41.41704058647156,148
+after_ai,SP,Spain,Spain (SP),37766273,VM,Vietnam,Vietnam (VM),40485688,9,41.31906223297119,Spain (SP) ↔ Vietnam (VM),41.31906223297119,149
+after_ai,GR,Greece,Greece (GR),27803360,IN,India,India (IN),65845072,9,41.29610621929169,Greece (GR) ↔ India (IN),41.29610621929169,150
+after_ai,CA,Canada,Canada (CA),61164629,IN,India,India (IN),65845072,9,41.177512884140015,Canada (CA) ↔ India (IN),41.177512884140015,151
+after_ai,AS,Australia,Australia (AS),57185487,IT,Italy,Italy (IT),43605295,9,40.8372757434845,Australia (AS) ↔ Italy (IT),40.8372757434845,152
+after_ai,CA,Canada,Canada (CA),61164629,IT,Italy,Italy (IT),43605295,9,40.8372757434845,Canada (CA) ↔ Italy (IT),40.8372757434845,152
+after_ai,CH,China,China (CH),339829187,IT,Italy,Italy (IT),43605295,9,40.8372757434845,China (CH) ↔ Italy (IT),40.8372757434845,152
+after_ai,EG,Egypt,Egypt (EG),24710549,IT,Italy,Italy (IT),43605295,9,40.8372757434845,Egypt (EG) ↔ Italy (IT),40.8372757434845,152
+after_ai,FR,France,France (FR),45621487,IT,Italy,Italy (IT),43605295,9,40.8372757434845,France (FR) ↔ Italy (IT),40.8372757434845,152
+after_ai,GM,Germany,Germany (GM),68022183,IT,Italy,Italy (IT),43605295,9,40.8372757434845,Germany (GM) ↔ Italy (IT),40.8372757434845,152
+after_ai,IS,Israel,Israel (IS),130217432,IT,Italy,Italy (IT),43605295,9,40.8372757434845,Israel (IS) ↔ Italy (IT),40.8372757434845,152
+after_ai,IT,Italy,Italy (IT),43605295,JA,Japan,Japan (JA),30593148,9,40.8372757434845,Italy (IT) ↔ Japan (JA),40.8372757434845,152
+after_ai,IT,Italy,Italy (IT),43605295,RS,Russia,Russia (RS),167872653,9,40.8372757434845,Italy (IT) ↔ Russia (RS),40.8372757434845,152
+after_ai,IT,Italy,Italy (IT),43605295,UK,United Kingdom,United Kingdom (UK),96525975,9,40.8372757434845,Italy (IT) ↔ United Kingdom (UK),40.8372757434845,152
+after_ai,IT,Italy,Italy (IT),43605295,UP,Ukraine,Ukraine (UP),105951806,9,40.8372757434845,Italy (IT) ↔ Ukraine (UP),40.8372757434845,152
+after_ai,IT,Italy,Italy (IT),43605295,US,United States,United States (US),414315406,9,40.8372757434845,Italy (IT) ↔ United States (US),40.8372757434845,152
+after_ai,IT,Italy,Italy (IT),43605295,MX,Mexico,Mexico (MX),34534988,9,40.805933237075806,Italy (IT) ↔ Mexico (MX),40.805933237075806,164
+after_ai,IN,India,India (IN),65845072,IT,Italy,Italy (IT),43605295,9,40.641250133514404,India (IN) ↔ Italy (IT),40.641250133514404,165
+after_ai,IN,India,India (IN),65845072,SP,Spain,Spain (SP),37766273,9,40.5633248090744,India (IN) ↔ Spain (SP),40.5633248090744,166
+after_ai,IT,Italy,Italy (IT),43605295,TU,Turkey,Turkey (TU),43001700,9,40.483640909194946,Italy (IT) ↔ Turkey (TU),40.483640909194946,167
+after_ai,IN,India,India (IN),65845072,VM,Vietnam,Vietnam (VM),40485688,9,40.434410572052,India (IN) ↔ Vietnam (VM),40.434410572052,168
+after_ai,GR,Greece,Greece (GR),27803360,IT,Italy,Italy (IT),43605295,9,40.411906361579895,Greece (GR) ↔ Italy (IT),40.411906361579895,169
+after_ai,IT,Italy,Italy (IT),43605295,SP,Spain,Spain (SP),37766273,9,40.258087158203125,Italy (IT) ↔ Spain (SP),40.258087158203125,170
+after_ai,IT,Italy,Italy (IT),43605295,VM,Vietnam,Vietnam (VM),40485688,9,40.071922063827515,Italy (IT) ↔ Vietnam (VM),40.071922063827515,171
+after_ai,BR,Brazil,Brazil (BR),30658737,CH,China,China (CH),339829187,9,37.87488150596619,Brazil (BR) ↔ China (CH),37.87488150596619,172
+after_ai,BR,Brazil,Brazil (BR),30658737,IS,Israel,Israel (IS),130217432,9,37.87488150596619,Brazil (BR) ↔ Israel (IS),37.87488150596619,172
+after_ai,BR,Brazil,Brazil (BR),30658737,RS,Russia,Russia (RS),167872653,9,37.87488150596619,Brazil (BR) ↔ Russia (RS),37.87488150596619,172
+after_ai,BR,Brazil,Brazil (BR),30658737,UP,Ukraine,Ukraine (UP),105951806,9,37.87488150596619,Brazil (BR) ↔ Ukraine (UP),37.87488150596619,172
+after_ai,BR,Brazil,Brazil (BR),30658737,US,United States,United States (US),414315406,9,37.87488150596619,Brazil (BR) ↔ United States (US),37.87488150596619,172
+after_ai,BR,Brazil,Brazil (BR),30658737,GM,Germany,Germany (GM),68022183,9,37.6858172416687,Brazil (BR) ↔ Germany (GM),37.6858172416687,177
+after_ai,BR,Brazil,Brazil (BR),30658737,TU,Turkey,Turkey (TU),43001700,9,37.68363165855408,Brazil (BR) ↔ Turkey (TU),37.68363165855408,178
+after_ai,BR,Brazil,Brazil (BR),30658737,CA,Canada,Canada (CA),61164629,9,37.53906321525574,Brazil (BR) ↔ Canada (CA),37.53906321525574,179
+after_ai,BR,Brazil,Brazil (BR),30658737,JA,Japan,Japan (JA),30593148,9,37.513864278793335,Brazil (BR) ↔ Japan (JA),37.513864278793335,180
+after_ai,AS,Australia,Australia (AS),57185487,BR,Brazil,Brazil (BR),30658737,9,37.22546982765198,Australia (AS) ↔ Brazil (BR),37.22546982765198,181
+after_ai,BR,Brazil,Brazil (BR),30658737,GR,Greece,Greece (GR),27803360,9,37.169222593307495,Brazil (BR) ↔ Greece (GR),37.169222593307495,182
+after_ai,BR,Brazil,Brazil (BR),30658737,EG,Egypt,Egypt (EG),24710549,9,37.09422969818115,Brazil (BR) ↔ Egypt (EG),37.09422969818115,183
+after_ai,BR,Brazil,Brazil (BR),30658737,UK,United Kingdom,United Kingdom (UK),96525975,9,37.071510791778564,Brazil (BR) ↔ United Kingdom (UK),37.071510791778564,184
+after_ai,BR,Brazil,Brazil (BR),30658737,FR,France,France (FR),45621487,9,36.968608379364014,Brazil (BR) ↔ France (FR),36.968608379364014,185
+after_ai,BR,Brazil,Brazil (BR),30658737,VM,Vietnam,Vietnam (VM),40485688,9,36.673192262649536,Brazil (BR) ↔ Vietnam (VM),36.673192262649536,186
+after_ai,BR,Brazil,Brazil (BR),30658737,MX,Mexico,Mexico (MX),34534988,9,36.59181535243988,Brazil (BR) ↔ Mexico (MX),36.59181535243988,187
+after_ai,BR,Brazil,Brazil (BR),30658737,SP,Spain,Spain (SP),37766273,9,36.53992223739624,Brazil (BR) ↔ Spain (SP),36.53992223739624,188
+after_ai,BR,Brazil,Brazil (BR),30658737,IN,India,India (IN),65845072,9,36.52372074127197,Brazil (BR) ↔ India (IN),36.52372074127197,189
+after_ai,BR,Brazil,Brazil (BR),30658737,IT,Italy,Italy (IT),43605295,9,36.502100348472595,Brazil (BR) ↔ Italy (IT),36.502100348472595,190

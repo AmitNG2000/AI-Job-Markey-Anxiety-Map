@@ -1,0 +1,121 @@
+source,target,weight,shared_emotions,period
+Poland,Serbia,0.9998407341178723,9,before_ai
+Poland,Bahamas,0.9995209441660688,9,before_ai
+Poland,Belarus,0.9995111285404379,9,before_ai
+Serbia,Belarus,0.9994519881992272,9,before_ai
+Serbia,Estonia,0.9993835309704965,9,before_ai
+Serbia,Bahamas,0.9992731013651807,9,before_ai
+Jordan,"Venezuela, Bolivarian Republic of",0.9998243037829295,9,before_ai
+Jordan,Colombia,0.9996342040034253,9,before_ai
+Jordan,Liberia,0.9996017269581893,9,before_ai
+Jordan,Senegal,0.9994426799014318,9,before_ai
+Jordan,Morocco,0.9994227360157072,9,before_ai
+Jordan,Zimbabwe,0.9992560148048388,9,before_ai
+Jordan,Lebanon,0.9992382281356547,9,before_ai
+"Venezuela, Bolivarian Republic of",Colombia,0.9997048864633186,9,before_ai
+"Venezuela, Bolivarian Republic of",Morocco,0.9996181734185219,9,before_ai
+"Venezuela, Bolivarian Republic of",Pakistan,0.9994542464104907,9,before_ai
+"Venezuela, Bolivarian Republic of",Liberia,0.9993091774209768,9,before_ai
+"Venezuela, Bolivarian Republic of",Netherlands Antilles,0.9992713130790256,9,before_ai
+"Venezuela, Bolivarian Republic of",Senegal,0.9992272140127442,9,before_ai
+"Venezuela, Bolivarian Republic of",Zimbabwe,0.9992056556968368,9,before_ai
+Argentina,Ghana,0.9998090035416626,9,before_ai
+Argentina,Uruguay,0.9996803807748373,9,before_ai
+Argentina,Mauritius,0.9995992462096236,9,before_ai
+Argentina,Panama,0.9995038059990221,9,before_ai
+Argentina,Mexico,0.9993078509241244,9,before_ai
+Ghana,Mauritius,0.9996992125045725,9,before_ai
+Ghana,Uruguay,0.99961760446893,9,before_ai
+Ghana,Malaysia,0.9995496557369925,9,before_ai
+Ghana,Panama,0.999527614004716,9,before_ai
+Ghana,Mexico,0.9995092232608647,9,before_ai
+Ghana,Nepal,0.999191083023485,9,before_ai
+Egypt,Greece,0.9997528661524112,9,before_ai
+Egypt,Kenya,0.9994925119564125,9,before_ai
+Egypt,Uganda,0.9993772266412462,9,before_ai
+Egypt,Cyprus,0.9992347513647661,9,before_ai
+Egypt,Lesotho,0.9992274392441467,9,before_ai
+Egypt,Philippines,0.9991714487822074,9,before_ai
+Greece,Cyprus,0.9996374375355792,9,before_ai
+Greece,Lesotho,0.9993721056258658,9,before_ai
+Greece,Kenya,0.999370105242047,9,before_ai
+Greece,Philippines,0.9992260211986044,9,before_ai
+Qatar,Saudi Arabia,0.9997182055068594,9,before_ai
+Qatar,Uzbekistan,0.9995202376064927,9,before_ai
+Qatar,Bosnian,0.9992835381459243,9,before_ai
+Saudi Arabia,Uzbekistan,0.9995847501070866,9,before_ai
+Saudi Arabia,Algeria,0.9993247559001845,9,before_ai
+Saudi Arabia,Rwanda,0.9992072058053604,9,before_ai
+Colombia,Liberia,0.9995430258181157,9,before_ai
+Colombia,Zimbabwe,0.9994092274434162,9,before_ai
+Colombia,Pakistan,0.9993577009667355,9,before_ai
+Colombia,Morocco,0.9993408172668732,9,before_ai
+Colombia,Albania,0.9993347724860139,9,before_ai
+Colombia,Netherlands Antilles,0.9992879323647488,9,before_ai
+Mauritius,Panama,0.9995201641160328,9,before_ai
+Mauritius,Malaysia,0.9993630932538539,9,before_ai
+Mauritius,Uruguay,0.9993581677959232,9,before_ai
+Mauritius,Maldives,0.9992809932082706,9,before_ai
+Uruguay,Panama,0.99957041894796,9,before_ai
+Uruguay,Mexico,0.9992572413981301,9,before_ai
+India,Philippines,0.9996260061003476,9,before_ai
+India,Italy,0.999566175026791,9,before_ai
+India,Lesotho,0.9992109586539559,9,before_ai
+Philippines,Italy,0.9993281724989557,9,before_ai
+Philippines,Lesotho,0.9992889186481917,9,before_ai
+Philippines,Ecuador,0.9992095988455505,9,before_ai
+Morocco,Netherlands Antilles,0.9991947720111558,9,before_ai
+Mayotte,Samoa,0.9996155763004427,9,before_ai
+Korea,Viet Nam,0.999615573209415,9,before_ai
+Korea,Cambodia,0.9994126924157559,9,before_ai
+Korea,Malta,0.9991568593609558,9,before_ai
+Viet Nam,Tonga,0.9992014660495441,9,before_ai
+Algeria,Sweden,0.9996150168552538,9,before_ai
+Algeria,Uzbekistan,0.9993073997682935,9,before_ai
+Algeria,Bulgaria,0.999291818666174,9,before_ai
+Sweden,Bulgaria,0.9994870747235751,9,before_ai
+Sweden,Uzbekistan,0.999257243175165,9,before_ai
+Sweden,Rwanda,0.9992062116846064,9,before_ai
+Liberia,Zimbabwe,0.9994298678287599,9,before_ai
+Liberia,Senegal,0.9993966851172619,9,before_ai
+Uzbekistan,Rwanda,0.9993315069762411,9,before_ai
+Panama,Lesotho,0.9994434389178448,9,before_ai
+Mali,Sudan,0.9995614334531472,9,before_ai
+Mali,South Sudan,0.999522640137861,9,before_ai
+Malaysia,New Zealand,0.9991789986710595,9,before_ai
+Jamaica,Saint Lucia,0.9995489074544728,9,before_ai
+Mauritania,Norway,0.9995381757300073,9,before_ai
+Mauritania,Sri Lanka,0.9995265885719142,9,before_ai
+Norway,Netherlands Antilles,0.9992438472732046,9,before_ai
+Oman,Paraguay,0.9995316049428067,9,before_ai
+Oman,Ecuador,0.9992196260146339,9,before_ai
+Sri Lanka,West Bank,0.999443848603672,9,before_ai
+South Sudan,Afghanistan,0.9994414956445498,9,before_ai
+Honduras,Kenya,0.9995217298606581,9,before_ai
+Honduras,Uganda,0.9994879796375892,9,before_ai
+Honduras,Holy See,0.9994039316179953,9,before_ai
+Kenya,Zimbabwe,0.9993312569678147,9,before_ai
+Kenya,Uganda,0.999154863583862,9,before_ai
+Bahamas,Belarus,0.999391625591076,9,before_ai
+Brazil,Portugal,0.9994794847985602,9,before_ai
+Portugal,Madagascar,0.9994189571948449,9,before_ai
+Portugal,Croatia,0.9992510817007012,9,before_ai
+North Macedonia,Serbian,0.9994643132609077,9,before_ai
+France,"Korea, Democratic People's Republic of",0.9994548277271001,9,before_ai
+Senegal,Kuwait,0.999362870060391,9,before_ai
+Senegal,Gambia,0.9992443773172371,9,before_ai
+Costa Rica,New Zealand,0.9994285108928381,9,before_ai
+Ireland,United Kingdom,0.9994088866730234,9,before_ai
+Ireland,Marshall Islands,0.9993897889369121,9,before_ai
+Ireland,Grenada,0.9993629297014172,9,before_ai
+Ireland,Japan,0.9991986860609341,9,before_ai
+United Kingdom,Marshall Islands,0.9992091127144707,9,before_ai
+Congo,Czech,0.9994029024073652,9,before_ai
+Cameroon,Kosovo,0.9993997904589798,9,before_ai
+Benin,Guatemala,0.9993918095799891,9,before_ai
+Antigua,Vanuatu,0.9993666263441047,9,before_ai
+Burundi,Ethiopia,0.9993354716485813,9,before_ai
+Ethiopia,Syrian Arab Republic,0.9993187581324056,9,before_ai
+Rwanda,"Iran, Islamic Republic of",0.9992427236128263,9,before_ai
+Dominican Republic,Gabon,0.9993031737556132,9,before_ai
+"Iran, Islamic Republic of",Niger,0.9992393252655508,9,before_ai

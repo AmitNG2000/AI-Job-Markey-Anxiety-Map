@@ -1,0 +1,361 @@
+period,location_country_code,location_name,location_label,interaction_count,emotion,emotion_label,weight
+after_ai,US,United States,United States (US),414315406,wordnet_feeling_avg,WordNet overall feeling,19.504837
+after_ai,US,United States,United States (US),414315406,lm_uncertainty_avg,LM uncertainty,11.784717
+after_ai,US,United States,United States (US),414315406,liwc_anger_avg,LIWC anger,7.98563
+after_ai,US,United States,United States (US),414315406,liwc_anxiety_avg,LIWC anxiety,4.993268
+after_ai,US,United States,United States (US),414315406,wordnet_anger_avg,WordNet anger,4.072091
+after_ai,US,United States,United States (US),414315406,wordnet_anxiety_avg,WordNet anxiety,3.8417244
+after_ai,US,United States,United States (US),414315406,wordnet_hope_avg,WordNet hope,3.3829188
+after_ai,US,United States,United States (US),414315406,wordnet_optimism_avg,WordNet optimism,2.0507994
+after_ai,US,United States,United States (US),414315406,wordnet_fear_avg,WordNet fear,1.8454896
+after_ai,CH,China,China (CH),339829187,wordnet_feeling_avg,WordNet overall feeling,31.684986
+after_ai,CH,China,China (CH),339829187,lm_uncertainty_avg,LM uncertainty,14.515743
+after_ai,CH,China,China (CH),339829187,liwc_anger_avg,LIWC anger,10.022891
+after_ai,CH,China,China (CH),339829187,liwc_anxiety_avg,LIWC anxiety,7.555797
+after_ai,CH,China,China (CH),339829187,wordnet_anger_avg,WordNet anger,4.1038127
+after_ai,CH,China,China (CH),339829187,wordnet_hope_avg,WordNet hope,3.4358594
+after_ai,CH,China,China (CH),339829187,wordnet_anxiety_avg,WordNet anxiety,3.1598573
+after_ai,CH,China,China (CH),339829187,wordnet_optimism_avg,WordNet optimism,2.6689608
+after_ai,CH,China,China (CH),339829187,wordnet_fear_avg,WordNet fear,2.3177178
+after_ai,RS,Russia,Russia (RS),167872653,wordnet_feeling_avg,WordNet overall feeling,53.016495
+after_ai,RS,Russia,Russia (RS),167872653,liwc_anger_avg,LIWC anger,43.16174
+after_ai,RS,Russia,Russia (RS),167872653,lm_uncertainty_avg,LM uncertainty,26.537378
+after_ai,RS,Russia,Russia (RS),167872653,wordnet_anger_avg,WordNet anger,23.51465
+after_ai,RS,Russia,Russia (RS),167872653,liwc_anxiety_avg,LIWC anxiety,10.446376
+after_ai,RS,Russia,Russia (RS),167872653,wordnet_hope_avg,WordNet hope,4.161269
+after_ai,RS,Russia,Russia (RS),167872653,wordnet_anxiety_avg,WordNet anxiety,3.6025968
+after_ai,RS,Russia,Russia (RS),167872653,wordnet_optimism_avg,WordNet optimism,2.8290288
+after_ai,RS,Russia,Russia (RS),167872653,wordnet_fear_avg,WordNet fear,2.6174638
+after_ai,IS,Israel,Israel (IS),130217432,liwc_anger_avg,LIWC anger,35.468914
+after_ai,IS,Israel,Israel (IS),130217432,wordnet_feeling_avg,WordNet overall feeling,32.09994
+after_ai,IS,Israel,Israel (IS),130217432,lm_uncertainty_avg,LM uncertainty,19.354551
+after_ai,IS,Israel,Israel (IS),130217432,liwc_anxiety_avg,LIWC anxiety,10.40826
+after_ai,IS,Israel,Israel (IS),130217432,wordnet_anger_avg,WordNet anger,4.477315
+after_ai,IS,Israel,Israel (IS),130217432,wordnet_hope_avg,WordNet hope,4.284753
+after_ai,IS,Israel,Israel (IS),130217432,wordnet_anxiety_avg,WordNet anxiety,2.8144174
+after_ai,IS,Israel,Israel (IS),130217432,wordnet_optimism_avg,WordNet optimism,2.366777
+after_ai,IS,Israel,Israel (IS),130217432,wordnet_fear_avg,WordNet fear,2.0723867
+after_ai,UP,Ukraine,Ukraine (UP),105951806,liwc_anger_avg,LIWC anger,49.941402
+after_ai,UP,Ukraine,Ukraine (UP),105951806,wordnet_feeling_avg,WordNet overall feeling,40.09349
+after_ai,UP,Ukraine,Ukraine (UP),105951806,lm_uncertainty_avg,LM uncertainty,25.068241
+after_ai,UP,Ukraine,Ukraine (UP),105951806,wordnet_anger_avg,WordNet anger,10.5417
+after_ai,UP,Ukraine,Ukraine (UP),105951806,liwc_anxiety_avg,LIWC anxiety,9.289898
+after_ai,UP,Ukraine,Ukraine (UP),105951806,wordnet_optimism_avg,WordNet optimism,5.1213145
+after_ai,UP,Ukraine,Ukraine (UP),105951806,wordnet_anxiety_avg,WordNet anxiety,3.847145
+after_ai,UP,Ukraine,Ukraine (UP),105951806,wordnet_hope_avg,WordNet hope,3.7084675
+after_ai,UP,Ukraine,Ukraine (UP),105951806,wordnet_fear_avg,WordNet fear,2.15249
+after_ai,UK,United Kingdom,United Kingdom (UK),96525975,wordnet_feeling_avg,WordNet overall feeling,17.38406
+after_ai,UK,United Kingdom,United Kingdom (UK),96525975,lm_uncertainty_avg,LM uncertainty,9.891333
+after_ai,UK,United Kingdom,United Kingdom (UK),96525975,liwc_anger_avg,LIWC anger,8.985725
+after_ai,UK,United Kingdom,United Kingdom (UK),96525975,liwc_anxiety_avg,LIWC anxiety,5.6174226
+after_ai,UK,United Kingdom,United Kingdom (UK),96525975,wordnet_hope_avg,WordNet hope,3.0987716
+after_ai,UK,United Kingdom,United Kingdom (UK),96525975,wordnet_anger_avg,WordNet anger,3.046074
+after_ai,UK,United Kingdom,United Kingdom (UK),96525975,wordnet_anxiety_avg,WordNet anxiety,2.9529076
+after_ai,UK,United Kingdom,United Kingdom (UK),96525975,wordnet_optimism_avg,WordNet optimism,1.9676139
+after_ai,UK,United Kingdom,United Kingdom (UK),96525975,wordnet_fear_avg,WordNet fear,1.9194977
+after_ai,GM,Germany,Germany (GM),68022183,wordnet_feeling_avg,WordNet overall feeling,16.756857
+after_ai,GM,Germany,Germany (GM),68022183,lm_uncertainty_avg,LM uncertainty,10.680578
+after_ai,GM,Germany,Germany (GM),68022183,liwc_anger_avg,LIWC anger,9.996366
+after_ai,GM,Germany,Germany (GM),68022183,liwc_anxiety_avg,LIWC anxiety,4.906172
+after_ai,GM,Germany,Germany (GM),68022183,wordnet_anger_avg,WordNet anger,3.6603804
+after_ai,GM,Germany,Germany (GM),68022183,wordnet_hope_avg,WordNet hope,2.7409344
+after_ai,GM,Germany,Germany (GM),68022183,wordnet_anxiety_avg,WordNet anxiety,2.5414636
+after_ai,GM,Germany,Germany (GM),68022183,wordnet_optimism_avg,WordNet optimism,2.0220628
+after_ai,GM,Germany,Germany (GM),68022183,wordnet_fear_avg,WordNet fear,1.8568298
+after_ai,IN,India,India (IN),65845072,wordnet_feeling_avg,WordNet overall feeling,12.914511
+after_ai,IN,India,India (IN),65845072,liwc_anger_avg,LIWC anger,9.030443
+after_ai,IN,India,India (IN),65845072,lm_uncertainty_avg,LM uncertainty,7.401676
+after_ai,IN,India,India (IN),65845072,liwc_anxiety_avg,LIWC anxiety,4.081488
+after_ai,IN,India,India (IN),65845072,wordnet_anger_avg,WordNet anger,2.6180193
+after_ai,IN,India,India (IN),65845072,wordnet_hope_avg,WordNet hope,2.2480915
+after_ai,IN,India,India (IN),65845072,wordnet_anxiety_avg,WordNet anxiety,2.059972
+after_ai,IN,India,India (IN),65845072,wordnet_fear_avg,WordNet fear,1.9060875
+after_ai,IN,India,India (IN),65845072,wordnet_optimism_avg,WordNet optimism,1.7443924
+after_ai,CA,Canada,Canada (CA),61164629,wordnet_feeling_avg,WordNet overall feeling,17.142452
+after_ai,CA,Canada,Canada (CA),61164629,lm_uncertainty_avg,LM uncertainty,12.58411
+after_ai,CA,Canada,Canada (CA),61164629,liwc_anger_avg,LIWC anger,6.4528265
+after_ai,CA,Canada,Canada (CA),61164629,liwc_anxiety_avg,LIWC anxiety,5.047818
+after_ai,CA,Canada,Canada (CA),61164629,wordnet_anger_avg,WordNet anger,3.5136263
+after_ai,CA,Canada,Canada (CA),61164629,wordnet_anxiety_avg,WordNet anxiety,3.068503
+after_ai,CA,Canada,Canada (CA),61164629,wordnet_hope_avg,WordNet hope,2.911912
+after_ai,CA,Canada,Canada (CA),61164629,wordnet_optimism_avg,WordNet optimism,1.8849406
+after_ai,CA,Canada,Canada (CA),61164629,wordnet_fear_avg,WordNet fear,1.6565361
+after_ai,AS,Australia,Australia (AS),57185487,wordnet_feeling_avg,WordNet overall feeling,17.675236
+after_ai,AS,Australia,Australia (AS),57185487,lm_uncertainty_avg,LM uncertainty,9.9987
+after_ai,AS,Australia,Australia (AS),57185487,liwc_anger_avg,LIWC anger,7.5980415
+after_ai,AS,Australia,Australia (AS),57185487,liwc_anxiety_avg,LIWC anxiety,4.8367133
+after_ai,AS,Australia,Australia (AS),57185487,wordnet_anger_avg,WordNet anger,3.200033
+after_ai,AS,Australia,Australia (AS),57185487,wordnet_hope_avg,WordNet hope,3.0461593
+after_ai,AS,Australia,Australia (AS),57185487,wordnet_anxiety_avg,WordNet anxiety,2.5908935
+after_ai,AS,Australia,Australia (AS),57185487,wordnet_optimism_avg,WordNet optimism,2.1730738
+after_ai,AS,Australia,Australia (AS),57185487,wordnet_fear_avg,WordNet fear,1.7718927
+after_ai,FR,France,France (FR),45621487,wordnet_feeling_avg,WordNet overall feeling,15.713213
+after_ai,FR,France,France (FR),45621487,lm_uncertainty_avg,LM uncertainty,9.043142
+after_ai,FR,France,France (FR),45621487,liwc_anger_avg,LIWC anger,8.44141
+after_ai,FR,France,France (FR),45621487,liwc_anxiety_avg,LIWC anxiety,4.7523313
+after_ai,FR,France,France (FR),45621487,wordnet_hope_avg,WordNet hope,2.9558501
+after_ai,FR,France,France (FR),45621487,wordnet_anger_avg,WordNet anger,2.9431715
+after_ai,FR,France,France (FR),45621487,wordnet_anxiety_avg,WordNet anxiety,2.280314
+after_ai,FR,France,France (FR),45621487,wordnet_optimism_avg,WordNet optimism,1.9307684
+after_ai,FR,France,France (FR),45621487,wordnet_fear_avg,WordNet fear,1.8508558
+after_ai,IT,Italy,Italy (IT),43605295,wordnet_feeling_avg,WordNet overall feeling,12.892711
+after_ai,IT,Italy,Italy (IT),43605295,lm_uncertainty_avg,LM uncertainty,7.327523
+after_ai,IT,Italy,Italy (IT),43605295,liwc_anger_avg,LIWC anger,6.328738
+after_ai,IT,Italy,Italy (IT),43605295,liwc_anxiety_avg,LIWC anxiety,3.8610404
+after_ai,IT,Italy,Italy (IT),43605295,wordnet_anger_avg,WordNet anger,2.6040244
+after_ai,IT,Italy,Italy (IT),43605295,wordnet_hope_avg,WordNet hope,2.4225192
+after_ai,IT,Italy,Italy (IT),43605295,wordnet_anxiety_avg,WordNet anxiety,2.0357685
+after_ai,IT,Italy,Italy (IT),43605295,wordnet_optimism_avg,WordNet optimism,1.7659903
+after_ai,IT,Italy,Italy (IT),43605295,wordnet_fear_avg,WordNet fear,1.5989609
+after_ai,TU,Turkey,Turkey (TU),43001700,wordnet_feeling_avg,WordNet overall feeling,16.408714
+after_ai,TU,Turkey,Turkey (TU),43001700,liwc_anger_avg,LIWC anger,11.197089
+after_ai,TU,Turkey,Turkey (TU),43001700,lm_uncertainty_avg,LM uncertainty,6.9738884
+after_ai,TU,Turkey,Turkey (TU),43001700,liwc_anxiety_avg,LIWC anxiety,4.3372493
+after_ai,TU,Turkey,Turkey (TU),43001700,wordnet_anger_avg,WordNet anger,3.6581948
+after_ai,TU,Turkey,Turkey (TU),43001700,wordnet_anxiety_avg,WordNet anxiety,3.493301
+after_ai,TU,Turkey,Turkey (TU),43001700,wordnet_hope_avg,WordNet hope,3.0130756
+after_ai,TU,Turkey,Turkey (TU),43001700,wordnet_fear_avg,WordNet fear,2.098254
+after_ai,TU,Turkey,Turkey (TU),43001700,wordnet_optimism_avg,WordNet optimism,2.073082
+after_ai,VM,Vietnam,Vietnam (VM),40485688,wordnet_feeling_avg,WordNet overall feeling,16.643038
+after_ai,VM,Vietnam,Vietnam (VM),40485688,lm_uncertainty_avg,LM uncertainty,6.7381806
+after_ai,VM,Vietnam,Vietnam (VM),40485688,liwc_anger_avg,LIWC anger,6.6132035
+after_ai,VM,Vietnam,Vietnam (VM),40485688,liwc_anxiety_avg,LIWC anxiety,3.7261217
+after_ai,VM,Vietnam,Vietnam (VM),40485688,wordnet_anger_avg,WordNet anger,2.7354271
+after_ai,VM,Vietnam,Vietnam (VM),40485688,wordnet_hope_avg,WordNet hope,2.4069362
+after_ai,VM,Vietnam,Vietnam (VM),40485688,wordnet_anxiety_avg,WordNet anxiety,2.0102592
+after_ai,VM,Vietnam,Vietnam (VM),40485688,wordnet_optimism_avg,WordNet optimism,1.8909761
+after_ai,VM,Vietnam,Vietnam (VM),40485688,wordnet_fear_avg,WordNet fear,1.8216317
+after_ai,SP,Spain,Spain (SP),37766273,wordnet_feeling_avg,WordNet overall feeling,13.69835
+after_ai,SP,Spain,Spain (SP),37766273,lm_uncertainty_avg,LM uncertainty,6.9392567
+after_ai,SP,Spain,Spain (SP),37766273,liwc_anger_avg,LIWC anger,6.66661
+after_ai,SP,Spain,Spain (SP),37766273,liwc_anxiety_avg,LIWC anxiety,3.7596574
+after_ai,SP,Spain,Spain (SP),37766273,wordnet_anger_avg,WordNet anger,2.5144854
+after_ai,SP,Spain,Spain (SP),37766273,wordnet_hope_avg,WordNet hope,2.4552166
+after_ai,SP,Spain,Spain (SP),37766273,wordnet_anxiety_avg,WordNet anxiety,2.0557714
+after_ai,SP,Spain,Spain (SP),37766273,wordnet_optimism_avg,WordNet optimism,1.9157175
+after_ai,SP,Spain,Spain (SP),37766273,wordnet_fear_avg,WordNet fear,1.7205497
+after_ai,MX,Mexico,Mexico (MX),34534988,wordnet_feeling_avg,WordNet overall feeling,15.776152
+after_ai,MX,Mexico,Mexico (MX),34534988,liwc_anger_avg,LIWC anger,8.453369
+after_ai,MX,Mexico,Mexico (MX),34534988,lm_uncertainty_avg,LM uncertainty,8.419486
+after_ai,MX,Mexico,Mexico (MX),34534988,liwc_anxiety_avg,LIWC anxiety,4.2963467
+after_ai,MX,Mexico,Mexico (MX),34534988,wordnet_hope_avg,WordNet hope,2.6536
+after_ai,MX,Mexico,Mexico (MX),34534988,wordnet_anger_avg,WordNet anger,2.572682
+after_ai,MX,Mexico,Mexico (MX),34534988,wordnet_anxiety_avg,WordNet anxiety,2.2134192
+after_ai,MX,Mexico,Mexico (MX),34534988,wordnet_optimism_avg,WordNet optimism,1.8578244
+after_ai,MX,Mexico,Mexico (MX),34534988,wordnet_fear_avg,WordNet fear,1.8217007
+after_ai,BR,Brazil,Brazil (BR),30658737,wordnet_feeling_avg,WordNet overall feeling,10.436128
+after_ai,BR,Brazil,Brazil (BR),30658737,lm_uncertainty_avg,LM uncertainty,6.8258524
+after_ai,BR,Brazil,Brazil (BR),30658737,liwc_anger_avg,LIWC anger,5.74382
+after_ai,BR,Brazil,Brazil (BR),30658737,wordnet_anger_avg,WordNet anger,3.8494446
+after_ai,BR,Brazil,Brazil (BR),30658737,liwc_anxiety_avg,LIWC anxiety,3.4747894
+after_ai,BR,Brazil,Brazil (BR),30658737,wordnet_hope_avg,WordNet hope,2.1157553
+after_ai,BR,Brazil,Brazil (BR),30658737,wordnet_anxiety_avg,WordNet anxiety,1.9367799
+after_ai,BR,Brazil,Brazil (BR),30658737,wordnet_optimism_avg,WordNet optimism,1.8641279
+after_ai,BR,Brazil,Brazil (BR),30658737,wordnet_fear_avg,WordNet fear,1.6281842
+after_ai,JA,Japan,Japan (JA),30593148,wordnet_feeling_avg,WordNet overall feeling,20.307142
+after_ai,JA,Japan,Japan (JA),30593148,lm_uncertainty_avg,LM uncertainty,9.540846
+after_ai,JA,Japan,Japan (JA),30593148,liwc_anger_avg,LIWC anger,8.787395
+after_ai,JA,Japan,Japan (JA),30593148,liwc_anxiety_avg,LIWC anxiety,4.8647985
+after_ai,JA,Japan,Japan (JA),30593148,wordnet_anger_avg,WordNet anger,3.4884274
+after_ai,JA,Japan,Japan (JA),30593148,wordnet_anxiety_avg,WordNet anxiety,3.0317032
+after_ai,JA,Japan,Japan (JA),30593148,wordnet_hope_avg,WordNet hope,2.9877079
+after_ai,JA,Japan,Japan (JA),30593148,wordnet_optimism_avg,WordNet optimism,2.174053
+after_ai,JA,Japan,Japan (JA),30593148,wordnet_fear_avg,WordNet fear,1.933146
+after_ai,GR,Greece,Greece (GR),27803360,wordnet_feeling_avg,WordNet overall feeling,14.303628
+after_ai,GR,Greece,Greece (GR),27803360,liwc_anger_avg,LIWC anger,7.348965
+after_ai,GR,Greece,Greece (GR),27803360,lm_uncertainty_avg,LM uncertainty,6.9711704
+after_ai,GR,Greece,Greece (GR),27803360,liwc_anxiety_avg,LIWC anxiety,3.797577
+after_ai,GR,Greece,Greece (GR),27803360,wordnet_anger_avg,WordNet anger,3.1785622
+after_ai,GR,Greece,Greece (GR),27803360,wordnet_hope_avg,WordNet hope,2.6816745
+after_ai,GR,Greece,Greece (GR),27803360,wordnet_optimism_avg,WordNet optimism,2.4359124
+after_ai,GR,Greece,Greece (GR),27803360,wordnet_anxiety_avg,WordNet anxiety,2.3708596
+after_ai,GR,Greece,Greece (GR),27803360,wordnet_fear_avg,WordNet fear,1.5934078
+after_ai,EG,Egypt,Egypt (EG),24710549,wordnet_feeling_avg,WordNet overall feeling,15.727559
+after_ai,EG,Egypt,Egypt (EG),24710549,liwc_anger_avg,LIWC anger,13.394614
+after_ai,EG,Egypt,Egypt (EG),24710549,lm_uncertainty_avg,LM uncertainty,8.32363
+after_ai,EG,Egypt,Egypt (EG),24710549,liwc_anxiety_avg,LIWC anxiety,5.000088
+after_ai,EG,Egypt,Egypt (EG),24710549,wordnet_anger_avg,WordNet anger,3.0687928
+after_ai,EG,Egypt,Egypt (EG),24710549,wordnet_hope_avg,WordNet hope,2.7265964
+after_ai,EG,Egypt,Egypt (EG),24710549,wordnet_anxiety_avg,WordNet anxiety,2.4029586
+after_ai,EG,Egypt,Egypt (EG),24710549,wordnet_optimism_avg,WordNet optimism,1.9541925
+after_ai,EG,Egypt,Egypt (EG),24710549,wordnet_fear_avg,WordNet fear,1.8836753
+before_ai,US,United States,United States (US),443072595,wordnet_feeling_avg,WordNet overall feeling,18.958313
+before_ai,US,United States,United States (US),443072595,lm_uncertainty_avg,LM uncertainty,9.748668
+before_ai,US,United States,United States (US),443072595,liwc_anger_avg,LIWC anger,7.544067
+before_ai,US,United States,United States (US),443072595,liwc_anxiety_avg,LIWC anxiety,4.510787
+before_ai,US,United States,United States (US),443072595,wordnet_anxiety_avg,WordNet anxiety,4.2548866
+before_ai,US,United States,United States (US),443072595,wordnet_anger_avg,WordNet anger,3.846532
+before_ai,US,United States,United States (US),443072595,wordnet_hope_avg,WordNet hope,3.4245362
+before_ai,US,United States,United States (US),443072595,wordnet_optimism_avg,WordNet optimism,2.557927
+before_ai,US,United States,United States (US),443072595,wordnet_fear_avg,WordNet fear,1.7715801
+before_ai,CH,China,China (CH),375614984,wordnet_feeling_avg,WordNet overall feeling,49.023293
+before_ai,CH,China,China (CH),375614984,lm_uncertainty_avg,LM uncertainty,33.55186
+before_ai,CH,China,China (CH),375614984,liwc_anxiety_avg,LIWC anxiety,18.149944
+before_ai,CH,China,China (CH),375614984,liwc_anger_avg,LIWC anger,13.310987
+before_ai,CH,China,China (CH),375614984,wordnet_anger_avg,WordNet anger,4.4529963
+before_ai,CH,China,China (CH),375614984,wordnet_anxiety_avg,WordNet anxiety,3.7302625
+before_ai,CH,China,China (CH),375614984,wordnet_hope_avg,WordNet hope,3.5514977
+before_ai,CH,China,China (CH),375614984,wordnet_optimism_avg,WordNet optimism,3.5392194
+before_ai,CH,China,China (CH),375614984,wordnet_fear_avg,WordNet fear,2.5557585
+before_ai,RS,Russia,Russia (RS),118898978,wordnet_feeling_avg,WordNet overall feeling,22.083965
+before_ai,RS,Russia,Russia (RS),118898978,liwc_anger_avg,LIWC anger,17.21823
+before_ai,RS,Russia,Russia (RS),118898978,lm_uncertainty_avg,LM uncertainty,12.562177
+before_ai,RS,Russia,Russia (RS),118898978,liwc_anxiety_avg,LIWC anxiety,6.1358156
+before_ai,RS,Russia,Russia (RS),118898978,wordnet_anger_avg,WordNet anger,3.494237
+before_ai,RS,Russia,Russia (RS),118898978,wordnet_hope_avg,WordNet hope,3.4898536
+before_ai,RS,Russia,Russia (RS),118898978,wordnet_optimism_avg,WordNet optimism,2.6843026
+before_ai,RS,Russia,Russia (RS),118898978,wordnet_anxiety_avg,WordNet anxiety,2.4349608
+before_ai,RS,Russia,Russia (RS),118898978,wordnet_fear_avg,WordNet fear,1.9509156
+before_ai,UK,United Kingdom,United Kingdom (UK),95703000,wordnet_feeling_avg,WordNet overall feeling,19.279388
+before_ai,UK,United Kingdom,United Kingdom (UK),95703000,lm_uncertainty_avg,LM uncertainty,10.26535
+before_ai,UK,United Kingdom,United Kingdom (UK),95703000,liwc_anger_avg,LIWC anger,9.902084
+before_ai,UK,United Kingdom,United Kingdom (UK),95703000,liwc_anxiety_avg,LIWC anxiety,5.96688
+before_ai,UK,United Kingdom,United Kingdom (UK),95703000,wordnet_anxiety_avg,WordNet anxiety,3.506132
+before_ai,UK,United Kingdom,United Kingdom (UK),95703000,wordnet_hope_avg,WordNet hope,3.3916748
+before_ai,UK,United Kingdom,United Kingdom (UK),95703000,wordnet_anger_avg,WordNet anger,3.0853603
+before_ai,UK,United Kingdom,United Kingdom (UK),95703000,wordnet_optimism_avg,WordNet optimism,2.3140213
+before_ai,UK,United Kingdom,United Kingdom (UK),95703000,wordnet_fear_avg,WordNet fear,1.9516594
+before_ai,UP,Ukraine,Ukraine (UP),93635955,liwc_anger_avg,LIWC anger,25.558086
+before_ai,UP,Ukraine,Ukraine (UP),93635955,wordnet_feeling_avg,WordNet overall feeling,22.864952
+before_ai,UP,Ukraine,Ukraine (UP),93635955,lm_uncertainty_avg,LM uncertainty,13.072623
+before_ai,UP,Ukraine,Ukraine (UP),93635955,liwc_anxiety_avg,LIWC anxiety,5.596305
+before_ai,UP,Ukraine,Ukraine (UP),93635955,wordnet_optimism_avg,WordNet optimism,4.9160438
+before_ai,UP,Ukraine,Ukraine (UP),93635955,wordnet_anger_avg,WordNet anger,4.2882633
+before_ai,UP,Ukraine,Ukraine (UP),93635955,wordnet_hope_avg,WordNet hope,3.4126065
+before_ai,UP,Ukraine,Ukraine (UP),93635955,wordnet_anxiety_avg,WordNet anxiety,2.2058268
+before_ai,UP,Ukraine,Ukraine (UP),93635955,wordnet_fear_avg,WordNet fear,1.793512
+before_ai,GM,Germany,Germany (GM),49814420,wordnet_feeling_avg,WordNet overall feeling,25.6009
+before_ai,GM,Germany,Germany (GM),49814420,lm_uncertainty_avg,LM uncertainty,16.560593
+before_ai,GM,Germany,Germany (GM),49814420,liwc_anger_avg,LIWC anger,14.447293
+before_ai,GM,Germany,Germany (GM),49814420,liwc_anxiety_avg,LIWC anxiety,6.990464
+before_ai,GM,Germany,Germany (GM),49814420,wordnet_anger_avg,WordNet anger,5.0357447
+before_ai,GM,Germany,Germany (GM),49814420,wordnet_anxiety_avg,WordNet anxiety,4.7070646
+before_ai,GM,Germany,Germany (GM),49814420,wordnet_optimism_avg,WordNet optimism,4.128659
+before_ai,GM,Germany,Germany (GM),49814420,wordnet_hope_avg,WordNet hope,3.601209
+before_ai,GM,Germany,Germany (GM),49814420,wordnet_fear_avg,WordNet fear,2.073851
+before_ai,IN,India,India (IN),47048745,wordnet_feeling_avg,WordNet overall feeling,12.414059
+before_ai,IN,India,India (IN),47048745,liwc_anger_avg,LIWC anger,7.544474
+before_ai,IN,India,India (IN),47048745,lm_uncertainty_avg,LM uncertainty,7.393042
+before_ai,IN,India,India (IN),47048745,liwc_anxiety_avg,LIWC anxiety,3.986111
+before_ai,IN,India,India (IN),47048745,wordnet_anger_avg,WordNet anger,2.5921266
+before_ai,IN,India,India (IN),47048745,wordnet_hope_avg,WordNet hope,2.4183884
+before_ai,IN,India,India (IN),47048745,wordnet_anxiety_avg,WordNet anxiety,2.1824784
+before_ai,IN,India,India (IN),47048745,wordnet_optimism_avg,WordNet optimism,2.024693
+before_ai,IN,India,India (IN),47048745,wordnet_fear_avg,WordNet fear,1.8369485
+before_ai,FR,France,France (FR),37326111,wordnet_feeling_avg,WordNet overall feeling,14.887757
+before_ai,FR,France,France (FR),37326111,lm_uncertainty_avg,LM uncertainty,8.426976
+before_ai,FR,France,France (FR),37326111,liwc_anger_avg,LIWC anger,7.829406
+before_ai,FR,France,France (FR),37326111,liwc_anxiety_avg,LIWC anxiety,4.4955516
+before_ai,FR,France,France (FR),37326111,wordnet_hope_avg,WordNet hope,2.9095328
+before_ai,FR,France,France (FR),37326111,wordnet_anger_avg,WordNet anger,2.8116777
+before_ai,FR,France,France (FR),37326111,wordnet_anxiety_avg,WordNet anxiety,2.35851
+before_ai,FR,France,France (FR),37326111,wordnet_optimism_avg,WordNet optimism,2.0461261
+before_ai,FR,France,France (FR),37326111,wordnet_fear_avg,WordNet fear,1.8322996
+before_ai,CA,Canada,Canada (CA),37004986,wordnet_feeling_avg,WordNet overall feeling,16.213993
+before_ai,CA,Canada,Canada (CA),37004986,lm_uncertainty_avg,LM uncertainty,10.835994
+before_ai,CA,Canada,Canada (CA),37004986,liwc_anger_avg,LIWC anger,6.1821156
+before_ai,CA,Canada,Canada (CA),37004986,liwc_anxiety_avg,LIWC anxiety,4.6698356
+before_ai,CA,Canada,Canada (CA),37004986,wordnet_anxiety_avg,WordNet anxiety,3.294006
+before_ai,CA,Canada,Canada (CA),37004986,wordnet_hope_avg,WordNet hope,3.0477567
+before_ai,CA,Canada,Canada (CA),37004986,wordnet_anger_avg,WordNet anger,2.9994943
+before_ai,CA,Canada,Canada (CA),37004986,wordnet_optimism_avg,WordNet optimism,2.1644022
+before_ai,CA,Canada,Canada (CA),37004986,wordnet_fear_avg,WordNet fear,1.6605228
+before_ai,TU,Turkey,Turkey (TU),33311304,wordnet_feeling_avg,WordNet overall feeling,15.469424
+before_ai,TU,Turkey,Turkey (TU),33311304,liwc_anger_avg,LIWC anger,10.438428
+before_ai,TU,Turkey,Turkey (TU),33311304,lm_uncertainty_avg,LM uncertainty,6.4894443
+before_ai,TU,Turkey,Turkey (TU),33311304,liwc_anxiety_avg,LIWC anxiety,4.284626
+before_ai,TU,Turkey,Turkey (TU),33311304,wordnet_anger_avg,WordNet anger,3.2230446
+before_ai,TU,Turkey,Turkey (TU),33311304,wordnet_hope_avg,WordNet hope,3.065716
+before_ai,TU,Turkey,Turkey (TU),33311304,wordnet_anxiety_avg,WordNet anxiety,2.3340902
+before_ai,TU,Turkey,Turkey (TU),33311304,wordnet_optimism_avg,WordNet optimism,2.098702
+before_ai,TU,Turkey,Turkey (TU),33311304,wordnet_fear_avg,WordNet fear,1.8147821
+before_ai,IT,Italy,Italy (IT),32215511,wordnet_feeling_avg,WordNet overall feeling,15.003945
+before_ai,IT,Italy,Italy (IT),32215511,lm_uncertainty_avg,LM uncertainty,9.143047
+before_ai,IT,Italy,Italy (IT),32215511,liwc_anger_avg,LIWC anger,8.1095
+before_ai,IT,Italy,Italy (IT),32215511,liwc_anxiety_avg,LIWC anxiety,5.369301
+before_ai,IT,Italy,Italy (IT),32215511,wordnet_anger_avg,WordNet anger,3.3344924
+before_ai,IT,Italy,Italy (IT),32215511,wordnet_optimism_avg,WordNet optimism,2.668133
+before_ai,IT,Italy,Italy (IT),32215511,wordnet_hope_avg,WordNet hope,2.661381
+before_ai,IT,Italy,Italy (IT),32215511,wordnet_anxiety_avg,WordNet anxiety,2.4091132
+before_ai,IT,Italy,Italy (IT),32215511,wordnet_fear_avg,WordNet fear,1.7119344
+before_ai,AS,Australia,Australia (AS),31693690,wordnet_feeling_avg,WordNet overall feeling,22.517857
+before_ai,AS,Australia,Australia (AS),31693690,lm_uncertainty_avg,LM uncertainty,12.178227
+before_ai,AS,Australia,Australia (AS),31693690,liwc_anger_avg,LIWC anger,8.618332
+before_ai,AS,Australia,Australia (AS),31693690,liwc_anxiety_avg,LIWC anxiety,6.4729214
+before_ai,AS,Australia,Australia (AS),31693690,wordnet_hope_avg,WordNet hope,3.7831745
+before_ai,AS,Australia,Australia (AS),31693690,wordnet_anxiety_avg,WordNet anxiety,3.3445766
+before_ai,AS,Australia,Australia (AS),31693690,wordnet_anger_avg,WordNet anger,3.1050012
+before_ai,AS,Australia,Australia (AS),31693690,wordnet_optimism_avg,WordNet optimism,2.5491471
+before_ai,AS,Australia,Australia (AS),31693690,wordnet_fear_avg,WordNet fear,1.9226156
+before_ai,JA,Japan,Japan (JA),26748146,wordnet_feeling_avg,WordNet overall feeling,25.1615
+before_ai,JA,Japan,Japan (JA),26748146,lm_uncertainty_avg,LM uncertainty,9.6271105
+before_ai,JA,Japan,Japan (JA),26748146,liwc_anger_avg,LIWC anger,9.019671
+before_ai,JA,Japan,Japan (JA),26748146,liwc_anxiety_avg,LIWC anxiety,5.48419
+before_ai,JA,Japan,Japan (JA),26748146,wordnet_anxiety_avg,WordNet anxiety,3.9446368
+before_ai,JA,Japan,Japan (JA),26748146,wordnet_anger_avg,WordNet anger,3.6332638
+before_ai,JA,Japan,Japan (JA),26748146,wordnet_fear_avg,WordNet fear,3.4048193
+before_ai,JA,Japan,Japan (JA),26748146,wordnet_hope_avg,WordNet hope,3.20933
+before_ai,JA,Japan,Japan (JA),26748146,wordnet_optimism_avg,WordNet optimism,2.4144263
+before_ai,BR,Brazil,Brazil (BR),26239676,wordnet_feeling_avg,WordNet overall feeling,10.175388
+before_ai,BR,Brazil,Brazil (BR),26239676,lm_uncertainty_avg,LM uncertainty,6.070626
+before_ai,BR,Brazil,Brazil (BR),26239676,liwc_anger_avg,LIWC anger,5.6489887
+before_ai,BR,Brazil,Brazil (BR),26239676,wordnet_anger_avg,WordNet anger,3.9061773
+before_ai,BR,Brazil,Brazil (BR),26239676,liwc_anxiety_avg,LIWC anxiety,3.453032
+before_ai,BR,Brazil,Brazil (BR),26239676,wordnet_hope_avg,WordNet hope,2.2370055
+before_ai,BR,Brazil,Brazil (BR),26239676,wordnet_anxiety_avg,WordNet anxiety,2.0972087
+before_ai,BR,Brazil,Brazil (BR),26239676,wordnet_optimism_avg,WordNet optimism,1.9386744
+before_ai,BR,Brazil,Brazil (BR),26239676,wordnet_fear_avg,WordNet fear,1.6788379
+before_ai,VM,Vietnam,Vietnam (VM),26191967,wordnet_feeling_avg,WordNet overall feeling,23.412548
+before_ai,VM,Vietnam,Vietnam (VM),26191967,lm_uncertainty_avg,LM uncertainty,9.852089
+before_ai,VM,Vietnam,Vietnam (VM),26191967,liwc_anger_avg,LIWC anger,7.9287524
+before_ai,VM,Vietnam,Vietnam (VM),26191967,liwc_anxiety_avg,LIWC anxiety,5.359637
+before_ai,VM,Vietnam,Vietnam (VM),26191967,wordnet_optimism_avg,WordNet optimism,3.5485537
+before_ai,VM,Vietnam,Vietnam (VM),26191967,wordnet_hope_avg,WordNet hope,3.1958416
+before_ai,VM,Vietnam,Vietnam (VM),26191967,wordnet_anger_avg,WordNet anger,3.0970635
+before_ai,VM,Vietnam,Vietnam (VM),26191967,wordnet_anxiety_avg,WordNet anxiety,2.441582
+before_ai,VM,Vietnam,Vietnam (VM),26191967,wordnet_fear_avg,WordNet fear,2.0834975
+before_ai,IS,Israel,Israel (IS),25932928,wordnet_feeling_avg,WordNet overall feeling,22.48429
+before_ai,IS,Israel,Israel (IS),25932928,liwc_anger_avg,LIWC anger,13.29188
+before_ai,IS,Israel,Israel (IS),25932928,lm_uncertainty_avg,LM uncertainty,10.698358
+before_ai,IS,Israel,Israel (IS),25932928,liwc_anxiety_avg,LIWC anxiety,5.872663
+before_ai,IS,Israel,Israel (IS),25932928,wordnet_hope_avg,WordNet hope,3.6784172
+before_ai,IS,Israel,Israel (IS),25932928,wordnet_anger_avg,WordNet anger,3.1442003
+before_ai,IS,Israel,Israel (IS),25932928,wordnet_anxiety_avg,WordNet anxiety,2.3394482
+before_ai,IS,Israel,Israel (IS),25932928,wordnet_optimism_avg,WordNet optimism,2.0631278
+before_ai,IS,Israel,Israel (IS),25932928,wordnet_fear_avg,WordNet fear,1.7409931
+before_ai,MX,Mexico,Mexico (MX),24375915,wordnet_feeling_avg,WordNet overall feeling,14.200686
+before_ai,MX,Mexico,Mexico (MX),24375915,liwc_anger_avg,LIWC anger,7.8552446
+before_ai,MX,Mexico,Mexico (MX),24375915,lm_uncertainty_avg,LM uncertainty,7.1220546
+before_ai,MX,Mexico,Mexico (MX),24375915,liwc_anxiety_avg,LIWC anxiety,3.9622998
+before_ai,MX,Mexico,Mexico (MX),24375915,wordnet_hope_avg,WordNet hope,2.7030058
+before_ai,MX,Mexico,Mexico (MX),24375915,wordnet_anger_avg,WordNet anger,2.4710615
+before_ai,MX,Mexico,Mexico (MX),24375915,wordnet_anxiety_avg,WordNet anxiety,2.2034404
+before_ai,MX,Mexico,Mexico (MX),24375915,wordnet_optimism_avg,WordNet optimism,1.9871228
+before_ai,MX,Mexico,Mexico (MX),24375915,wordnet_fear_avg,WordNet fear,1.7523199
+before_ai,SP,Spain,Spain (SP),23991997,wordnet_feeling_avg,WordNet overall feeling,13.821334
+before_ai,SP,Spain,Spain (SP),23991997,lm_uncertainty_avg,LM uncertainty,7.4914136
+before_ai,SP,Spain,Spain (SP),23991997,liwc_anger_avg,LIWC anger,6.538456
+before_ai,SP,Spain,Spain (SP),23991997,liwc_anxiety_avg,LIWC anxiety,4.229429
+before_ai,SP,Spain,Spain (SP),23991997,wordnet_hope_avg,WordNet hope,2.565661
+before_ai,SP,Spain,Spain (SP),23991997,wordnet_anxiety_avg,WordNet anxiety,2.5134432
+before_ai,SP,Spain,Spain (SP),23991997,wordnet_anger_avg,WordNet anger,2.4778955
+before_ai,SP,Spain,Spain (SP),23991997,wordnet_optimism_avg,WordNet optimism,2.3306227
+before_ai,SP,Spain,Spain (SP),23991997,wordnet_fear_avg,WordNet fear,1.7574216
+before_ai,AF,Afghanistan,Afghanistan (AF),21253458,wordnet_feeling_avg,WordNet overall feeling,27.769989
+before_ai,AF,Afghanistan,Afghanistan (AF),21253458,liwc_anger_avg,LIWC anger,25.08153
+before_ai,AF,Afghanistan,Afghanistan (AF),21253458,lm_uncertainty_avg,LM uncertainty,13.676547
+before_ai,AF,Afghanistan,Afghanistan (AF),21253458,liwc_anxiety_avg,LIWC anxiety,8.310919
+before_ai,AF,Afghanistan,Afghanistan (AF),21253458,wordnet_hope_avg,WordNet hope,3.8469465
+before_ai,AF,Afghanistan,Afghanistan (AF),21253458,wordnet_anger_avg,WordNet anger,3.1866384
+before_ai,AF,Afghanistan,Afghanistan (AF),21253458,wordnet_anxiety_avg,WordNet anxiety,2.8836644
+before_ai,AF,Afghanistan,Afghanistan (AF),21253458,wordnet_optimism_avg,WordNet optimism,2.2815716
+before_ai,AF,Afghanistan,Afghanistan (AF),21253458,wordnet_fear_avg,WordNet fear,2.1695664
+before_ai,KS,South Korea,South Korea (KS),19053701,wordnet_feeling_avg,WordNet overall feeling,18.28316
+before_ai,KS,South Korea,South Korea (KS),19053701,lm_uncertainty_avg,LM uncertainty,8.719753
+before_ai,KS,South Korea,South Korea (KS),19053701,liwc_anger_avg,LIWC anger,7.8016453
+before_ai,KS,South Korea,South Korea (KS),19053701,liwc_anxiety_avg,LIWC anxiety,5.236405
+before_ai,KS,South Korea,South Korea (KS),19053701,wordnet_hope_avg,WordNet hope,2.9529681
+before_ai,KS,South Korea,South Korea (KS),19053701,wordnet_anger_avg,WordNet anger,2.7242477
+before_ai,KS,South Korea,South Korea (KS),19053701,wordnet_anxiety_avg,WordNet anxiety,2.5239573
+before_ai,KS,South Korea,South Korea (KS),19053701,wordnet_optimism_avg,WordNet optimism,2.2650864
+before_ai,KS,South Korea,South Korea (KS),19053701,wordnet_fear_avg,WordNet fear,1.9187216

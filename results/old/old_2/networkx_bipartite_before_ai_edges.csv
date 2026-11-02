@@ -1,0 +1,181 @@
+source,target,weight,period
+Ukraine,liwc_anger,83.73876250634957,before_ai
+Ukraine,wordnet_feeling,51.468071752538954,before_ai
+Ukraine,lm_uncertainty,29.992670779827176,before_ai
+Ukraine,wordnet_anger,11.537029360759474,before_ai
+Ukraine,liwc_anxiety,9.073801103133103,before_ai
+Ukraine,wordnet_hope,6.9253855487206994,before_ai
+Ukraine,wordnet_optimism,5.596577206960234,before_ai
+Ukraine,wordnet_anxiety,4.171772988631977,before_ai
+Ukraine,wordnet_fear,2.583013679892542,before_ai
+liwc_anger,Serbia,7.954772982201625,before_ai
+liwc_anger,Germany,34.52883449763468,before_ai
+liwc_anger,China,17.580748977458732,before_ai
+liwc_anger,Israel,13.583083742475688,before_ai
+liwc_anger,Turkey,12.573341089681746,before_ai
+liwc_anger,Hong Kong,11.926810267760247,before_ai
+liwc_anger,France,11.844798984778034,before_ai
+liwc_anger,United States,10.50581093375746,before_ai
+liwc_anger,United Kingdom,9.98348388961025,before_ai
+liwc_anger,Japan,9.671615476799593,before_ai
+liwc_anger,Australia,9.45298587898207,before_ai
+liwc_anger,Italy,9.28123568296119,before_ai
+liwc_anger,India,8.383766760140839,before_ai
+liwc_anger,Viet Nam,8.153501591614285,before_ai
+liwc_anger,Korea,8.120170854796646,before_ai
+liwc_anger,Spain,7.083255371300261,before_ai
+liwc_anger,Mexico,6.970222748271335,before_ai
+liwc_anger,Canada,6.647670865525237,before_ai
+liwc_anger,Brazil,6.368697398817592,before_ai
+China,wordnet_feeling,65.93641876725417,before_ai
+China,lm_uncertainty,53.5972376947576,before_ai
+China,liwc_anxiety,27.6104798796165,before_ai
+China,wordnet_anger,5.423070319103848,before_ai
+China,wordnet_anxiety,4.858353624904072,before_ai
+China,wordnet_hope,4.5025154724974135,before_ai
+China,wordnet_optimism,4.496494007944749,before_ai
+China,wordnet_fear,2.4931427040624667,before_ai
+wordnet_feeling,Hong Kong,49.2362122306381,before_ai
+wordnet_feeling,Germany,44.102900942063386,before_ai
+wordnet_feeling,Serbia,13.019071890410961,before_ai
+wordnet_feeling,United States,35.094684177737825,before_ai
+wordnet_feeling,Australia,25.76505141511564,before_ai
+wordnet_feeling,Japan,22.584021438036753,before_ai
+wordnet_feeling,United Kingdom,21.742565638855517,before_ai
+wordnet_feeling,Viet Nam,21.164279557302915,before_ai
+wordnet_feeling,Israel,20.589954178530025,before_ai
+wordnet_feeling,Canada,20.317123376950907,before_ai
+wordnet_feeling,Korea,19.71818573127625,before_ai
+wordnet_feeling,France,18.7994937003325,before_ai
+wordnet_feeling,Italy,17.586901014269888,before_ai
+wordnet_feeling,Turkey,16.388604508467143,before_ai
+wordnet_feeling,Spain,16.24623899671437,before_ai
+wordnet_feeling,India,16.05868524808766,before_ai
+wordnet_feeling,Mexico,14.2621069670486,before_ai
+wordnet_feeling,Brazil,12.760573422452238,before_ai
+Serbia,lm_uncertainty,7.553168447803131,before_ai
+Serbia,liwc_anxiety,4.134790898518451,before_ai
+Serbia,wordnet_anger,2.726262519390989,before_ai
+Serbia,wordnet_hope,2.4744965409733464,before_ai
+Serbia,wordnet_optimism,2.107086498794348,before_ai
+Serbia,wordnet_anxiety,2.3969570459903036,before_ai
+Serbia,wordnet_fear,1.642360508755674,before_ai
+lm_uncertainty,Hong Kong,35.423168222356615,before_ai
+lm_uncertainty,Germany,30.638982283214126,before_ai
+lm_uncertainty,United States,21.896892050414486,before_ai
+lm_uncertainty,Canada,15.232931065184877,before_ai
+lm_uncertainty,United Kingdom,13.945952397726213,before_ai
+lm_uncertainty,Australia,13.578574721576054,before_ai
+lm_uncertainty,Japan,12.938647447498145,before_ai
+lm_uncertainty,Israel,12.14969515711657,before_ai
+lm_uncertainty,France,11.236235986730996,before_ai
+lm_uncertainty,Italy,10.776533423724985,before_ai
+lm_uncertainty,Viet Nam,10.713595267597837,before_ai
+lm_uncertainty,Korea,10.154360207724968,before_ai
+lm_uncertainty,Spain,10.09463095097924,before_ai
+lm_uncertainty,India,9.724987525370906,before_ai
+lm_uncertainty,Brazil,8.956955310348603,before_ai
+lm_uncertainty,Turkey,7.878382954678475,before_ai
+lm_uncertainty,Mexico,7.619925321200582,before_ai
+Hong Kong,liwc_anxiety,17.208024765961746,before_ai
+Hong Kong,wordnet_optimism,4.523976077275728,before_ai
+Hong Kong,wordnet_hope,4.268103281892698,before_ai
+Hong Kong,wordnet_anger,4.118325780532381,before_ai
+Hong Kong,wordnet_anxiety,3.7418354387502966,before_ai
+Hong Kong,wordnet_fear,2.2151898914811596,before_ai
+Germany,liwc_anxiety,9.74284421348035,before_ai
+Germany,wordnet_anxiety,7.464974476143311,before_ai
+Germany,wordnet_hope,5.577854085590741,before_ai
+Germany,wordnet_optimism,5.329197565617008,before_ai
+Germany,wordnet_anger,4.829233090992279,before_ai
+Germany,wordnet_fear,2.6073902795252306,before_ai
+United States,wordnet_anxiety,17.729695960942387,before_ai
+United States,wordnet_optimism,9.781427236684593,before_ai
+United States,liwc_anxiety,6.594269887403339,before_ai
+United States,wordnet_anger,4.409294816406844,before_ai
+United States,wordnet_hope,3.876331271166356,before_ai
+United States,wordnet_fear,1.7995815554496741,before_ai
+liwc_anxiety,Australia,7.320010428808665,before_ai
+liwc_anxiety,Japan,6.600867149351977,before_ai
+liwc_anxiety,United Kingdom,6.542730216713903,before_ai
+liwc_anxiety,Viet Nam,5.769789196451018,before_ai
+liwc_anxiety,Israel,5.614750843989311,before_ai
+liwc_anxiety,France,5.589916838816234,before_ai
+liwc_anxiety,Korea,5.58341300925849,before_ai
+liwc_anxiety,Italy,5.490073958296934,before_ai
+liwc_anxiety,Spain,5.396614861573028,before_ai
+liwc_anxiety,Canada,5.382205578825539,before_ai
+liwc_anxiety,India,5.003302715706552,before_ai
+liwc_anxiety,Turkey,4.800910753524518,before_ai
+liwc_anxiety,Brazil,4.526471864599382,before_ai
+liwc_anxiety,Mexico,4.203275615422681,before_ai
+Australia,wordnet_hope,4.5391883070714325,before_ai
+Australia,wordnet_anxiety,3.4165591564556608,before_ai
+Australia,wordnet_anger,3.035053504652478,before_ai
+Australia,wordnet_optimism,2.9702966574784706,before_ai
+Australia,wordnet_fear,1.9000211633097195,before_ai
+Japan,wordnet_hope,3.294422335149352,before_ai
+Japan,wordnet_anger,3.11418568996253,before_ai
+Japan,wordnet_anxiety,2.889805234135613,before_ai
+Japan,wordnet_optimism,2.52342769758763,before_ai
+Japan,wordnet_fear,2.072319613747931,before_ai
+United Kingdom,wordnet_hope,3.8028192359937703,before_ai
+United Kingdom,wordnet_anxiety,3.7094344498432927,before_ai
+United Kingdom,wordnet_anger,3.3492833493192946,before_ai
+United Kingdom,wordnet_optimism,2.8039721969204323,before_ai
+United Kingdom,wordnet_fear,1.946772881425213,before_ai
+Viet Nam,wordnet_anger,3.2025096041668766,before_ai
+Viet Nam,wordnet_hope,3.152653473856956,before_ai
+Viet Nam,wordnet_anxiety,2.8088317527757396,before_ai
+Viet Nam,wordnet_optimism,2.7325041563889814,before_ai
+Viet Nam,wordnet_fear,2.236959798166227,before_ai
+Israel,wordnet_hope,3.501123831557445,before_ai
+Israel,wordnet_anger,2.8274634966602723,before_ai
+Israel,wordnet_anxiety,2.6211525689132764,before_ai
+Israel,wordnet_optimism,2.2912799652132785,before_ai
+Israel,wordnet_fear,1.6491543532641504,before_ai
+Canada,wordnet_anxiety,9.115285686892857,before_ai
+Canada,wordnet_optimism,5.667972014497745,before_ai
+Canada,wordnet_anger,3.1599000715168337,before_ai
+Canada,wordnet_hope,3.015234087531586,before_ai
+Canada,wordnet_fear,1.7746556637638236,before_ai
+Korea,wordnet_hope,3.088989864297157,before_ai
+Korea,wordnet_anger,2.816419768865698,before_ai
+Korea,wordnet_optimism,2.6132120659768363,before_ai
+Korea,wordnet_anxiety,2.5485350076319473,before_ai
+Korea,wordnet_fear,1.7231869274363987,before_ai
+France,wordnet_hope,3.2836510076379044,before_ai
+France,wordnet_anger,3.1452646615454687,before_ai
+France,wordnet_anxiety,2.7614700081183106,before_ai
+France,wordnet_optimism,2.502852280541157,before_ai
+France,wordnet_fear,1.8392856311865844,before_ai
+wordnet_anxiety,Spain,3.128868070267173,before_ai
+wordnet_anxiety,Italy,3.0043143552853535,before_ai
+wordnet_anxiety,Mexico,2.876036466094953,before_ai
+wordnet_anxiety,Brazil,2.638675736317029,before_ai
+wordnet_anxiety,India,2.546017147313798,before_ai
+wordnet_anxiety,Turkey,2.230590173898258,before_ai
+Italy,wordnet_hope,3.18455368943393,before_ai
+Italy,wordnet_optimism,3.15795195826121,before_ai
+Italy,wordnet_anger,2.9697086223015376,before_ai
+Italy,wordnet_fear,1.8235663711684487,before_ai
+Turkey,wordnet_anger,3.1973376089921897,before_ai
+Turkey,wordnet_hope,3.0997274532552406,before_ai
+Turkey,wordnet_optimism,2.4137713046015907,before_ai
+Turkey,wordnet_fear,1.781267183380236,before_ai
+Spain,wordnet_optimism,2.9979822887217376,before_ai
+Spain,wordnet_hope,2.7760744240370823,before_ai
+Spain,wordnet_anger,2.348585569834756,before_ai
+Spain,wordnet_fear,1.5995633076196702,before_ai
+India,wordnet_anger,2.772498058593889,before_ai
+India,wordnet_hope,2.7363051240240854,before_ai
+India,wordnet_optimism,2.3170116613499885,before_ai
+India,wordnet_fear,1.8538492346219735,before_ai
+Mexico,wordnet_hope,2.7197765374972662,before_ai
+Mexico,wordnet_anger,2.510864753200351,before_ai
+Mexico,wordnet_optimism,2.086551347382941,before_ai
+Mexico,wordnet_fear,1.756407889632373,before_ai
+Brazil,wordnet_anger,2.6696109896458426,before_ai
+Brazil,wordnet_hope,2.6238711776904946,before_ai
+Brazil,wordnet_optimism,2.2162715059154237,before_ai
+Brazil,wordnet_fear,1.6648052109484317,before_ai

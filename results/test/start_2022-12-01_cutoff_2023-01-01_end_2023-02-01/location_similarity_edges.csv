@@ -1,0 +1,381 @@
+period,location_a_country_code,location_a_name,location_a_label,location_a_interaction_count,location_b_country_code,location_b_name,location_b_label,location_b_interaction_count,shared_feeling_count,similarity_weight
+before_ai,RS,Russia,Russia (RS),3754230,UP,Ukraine,Ukraine (UP),2806228,9,71.70603322982788
+before_ai,CH,China,China (CH),12163894,TW,Taiwan,Taiwan (TW),616343,9,67.32946681976318
+before_ai,CH,China,China (CH),12163894,UP,Ukraine,Ukraine (UP),2806228,9,66.61962246894836
+before_ai,CH,China,China (CH),12163894,RS,Russia,Russia (RS),3754230,9,66.06884443759918
+before_ai,CH,China,China (CH),12163894,GM,Germany,Germany (GM),1468952,9,65.07022559642792
+before_ai,CH,China,China (CH),12163894,UK,United Kingdom,United Kingdom (UK),3449988,9,61.91232216358185
+before_ai,RS,Russia,Russia (RS),3754230,TW,Taiwan,Taiwan (TW),616343,9,61.67130672931671
+before_ai,GM,Germany,Germany (GM),1468952,UP,Ukraine,Ukraine (UP),2806228,9,60.462340116500854
+before_ai,GM,Germany,Germany (GM),1468952,RS,Russia,Russia (RS),3754230,9,60.05818045139313
+before_ai,TW,Taiwan,Taiwan (TW),616343,UP,Ukraine,Ukraine (UP),2806228,9,59.89433145523071
+before_ai,GM,Germany,Germany (GM),1468952,UK,United Kingdom,United Kingdom (UK),3449988,9,59.80196011066437
+before_ai,RS,Russia,Russia (RS),3754230,UK,United Kingdom,United Kingdom (UK),3449988,9,59.596508860588074
+before_ai,UK,United Kingdom,United Kingdom (UK),3449988,UP,Ukraine,Ukraine (UP),2806228,9,58.98191237449646
+before_ai,CH,China,China (CH),12163894,US,United States,United States (US),10655982,9,58.86008667945862
+before_ai,GM,Germany,Germany (GM),1468952,TW,Taiwan,Taiwan (TW),616343,9,58.68203389644623
+before_ai,TW,Taiwan,Taiwan (TW),616343,US,United States,United States (US),10655982,9,58.095280170440674
+before_ai,TW,Taiwan,Taiwan (TW),616343,UK,United Kingdom,United Kingdom (UK),3449988,9,57.42250311374664
+before_ai,GM,Germany,Germany (GM),1468952,US,United States,United States (US),10655982,9,57.41369116306305
+before_ai,UK,United Kingdom,United Kingdom (UK),3449988,US,United States,United States (US),10655982,9,57.0906537771225
+before_ai,RS,Russia,Russia (RS),3754230,US,United States,United States (US),10655982,9,56.42961037158966
+before_ai,UP,Ukraine,Ukraine (UP),2806228,US,United States,United States (US),10655982,9,56.130056858062744
+before_ai,AS,Australia,Australia (AS),602574,CH,China,China (CH),12163894,9,54.598686933517456
+before_ai,AS,Australia,Australia (AS),602574,RS,Russia,Russia (RS),3754230,9,54.598686933517456
+before_ai,AS,Australia,Australia (AS),602574,GM,Germany,Germany (GM),1468952,9,54.55219602584839
+before_ai,AS,Australia,Australia (AS),602574,UK,United Kingdom,United Kingdom (UK),3449988,9,54.49500918388367
+before_ai,AS,Australia,Australia (AS),602574,UP,Ukraine,Ukraine (UP),2806228,9,54.37043213844299
+before_ai,AS,Australia,Australia (AS),602574,TW,Taiwan,Taiwan (TW),616343,9,54.04938292503357
+before_ai,CH,China,China (CH),12163894,VM,Vietnam,Vietnam (VM),1037721,9,53.56480121612549
+before_ai,TW,Taiwan,Taiwan (TW),616343,VM,Vietnam,Vietnam (VM),1037721,9,53.56480121612549
+before_ai,GM,Germany,Germany (GM),1468952,VM,Vietnam,Vietnam (VM),1037721,9,53.42640149593353
+before_ai,UK,United Kingdom,United Kingdom (UK),3449988,VM,Vietnam,Vietnam (VM),1037721,9,53.25073969364166
+before_ai,AS,Australia,Australia (AS),602574,US,United States,United States (US),10655982,9,53.243462324142456
+before_ai,RS,Russia,Russia (RS),3754230,VM,Vietnam,Vietnam (VM),1037721,9,53.16927373409271
+before_ai,UP,Ukraine,Ukraine (UP),2806228,VM,Vietnam,Vietnam (VM),1037721,9,52.96134853363037
+before_ai,US,United States,United States (US),10655982,VM,Vietnam,Vietnam (VM),1037721,9,52.882673501968384
+before_ai,AS,Australia,Australia (AS),602574,VM,Vietnam,Vietnam (VM),1037721,9,52.877869606018066
+before_ai,CA,Canada,Canada (CA),910245,CH,China,China (CH),12163894,9,51.95901548862457
+before_ai,CA,Canada,Canada (CA),910245,GM,Germany,Germany (GM),1468952,9,51.95901548862457
+before_ai,CA,Canada,Canada (CA),910245,UK,United Kingdom,United Kingdom (UK),3449988,9,51.75135695934296
+before_ai,CH,China,China (CH),12163894,JA,Japan,Japan (JA),771200,9,51.46888625621796
+before_ai,JA,Japan,Japan (JA),771200,TW,Taiwan,Taiwan (TW),616343,9,51.46888625621796
+before_ai,JA,Japan,Japan (JA),771200,UK,United Kingdom,United Kingdom (UK),3449988,9,51.42994010448456
+before_ai,GM,Germany,Germany (GM),1468952,JA,Japan,Japan (JA),771200,9,51.4024463891983
+before_ai,JA,Japan,Japan (JA),771200,US,United States,United States (US),10655982,9,51.267950654029846
+before_ai,CA,Canada,Canada (CA),910245,RS,Russia,Russia (RS),3754230,9,51.04704678058624
+before_ai,CA,Canada,Canada (CA),910245,UP,Ukraine,Ukraine (UP),2806228,9,50.80886089801788
+before_ai,CA,Canada,Canada (CA),910245,TW,Taiwan,Taiwan (TW),616343,9,50.72000181674957
+before_ai,JA,Japan,Japan (JA),771200,RS,Russia,Russia (RS),3754230,9,50.47775948047638
+before_ai,AS,Australia,Australia (AS),602574,CA,Canada,Canada (CA),910245,9,50.29580104351044
+before_ai,CA,Canada,Canada (CA),910245,US,United States,United States (US),10655982,9,50.219329953193665
+before_ai,JA,Japan,Japan (JA),771200,UP,Ukraine,Ukraine (UP),2806228,9,50.176233530044556
+before_ai,CH,China,China (CH),12163894,MX,Mexico,Mexico (MX),690783,9,50.11396014690399
+before_ai,MX,Mexico,Mexico (MX),690783,TW,Taiwan,Taiwan (TW),616343,9,50.11396014690399
+before_ai,AS,Australia,Australia (AS),602574,JA,Japan,Japan (JA),771200,9,50.091299295425415
+before_ai,MX,Mexico,Mexico (MX),690783,US,United States,United States (US),10655982,9,50.038052439689636
+before_ai,MX,Mexico,Mexico (MX),690783,UK,United Kingdom,United Kingdom (UK),3449988,9,49.86403942108154
+before_ai,GM,Germany,Germany (GM),1468952,MX,Mexico,Mexico (MX),690783,9,49.808666467666626
+before_ai,MX,Mexico,Mexico (MX),690783,RS,Russia,Russia (RS),3754230,9,49.62411880493164
+before_ai,JA,Japan,Japan (JA),771200,VM,Vietnam,Vietnam (VM),1037721,9,49.59582531452179
+before_ai,MX,Mexico,Mexico (MX),690783,UP,Ukraine,Ukraine (UP),2806228,9,49.32259285449982
+before_ai,CA,Canada,Canada (CA),910245,VM,Vietnam,Vietnam (VM),1037721,9,49.13333356380463
+before_ai,MX,Mexico,Mexico (MX),690783,VM,Vietnam,Vietnam (VM),1037721,9,48.406967759132385
+before_ai,AS,Australia,Australia (AS),602574,MX,Mexico,Mexico (MX),690783,9,48.11222159862518
+before_ai,CA,Canada,Canada (CA),910245,MX,Mexico,Mexico (MX),690783,9,46.89178657531738
+before_ai,CA,Canada,Canada (CA),910245,JA,Japan,Japan (JA),771200,9,46.79683816432953
+before_ai,JA,Japan,Japan (JA),771200,MX,Mexico,Mexico (MX),690783,9,46.23583221435547
+before_ai,CH,China,China (CH),12163894,TU,Turkey,Turkey (TU),974620,9,44.42481231689453
+before_ai,TU,Turkey,Turkey (TU),974620,UK,United Kingdom,United Kingdom (UK),3449988,9,44.42481231689453
+before_ai,TU,Turkey,Turkey (TU),974620,US,United States,United States (US),10655982,9,44.40748882293701
+before_ai,RS,Russia,Russia (RS),3754230,TU,Turkey,Turkey (TU),974620,9,44.29057478904724
+before_ai,TU,Turkey,Turkey (TU),974620,TW,Taiwan,Taiwan (TW),616343,9,44.289133071899414
+before_ai,TU,Turkey,Turkey (TU),974620,UP,Ukraine,Ukraine (UP),2806228,9,44.05238890647888
+before_ai,GM,Germany,Germany (GM),1468952,TU,Turkey,Turkey (TU),974620,9,43.94493865966797
+before_ai,MX,Mexico,Mexico (MX),690783,TU,Turkey,Turkey (TU),974620,9,43.882068157196045
+before_ai,CH,China,China (CH),12163894,FR,France,France (FR),919929,9,43.55193364620209
+before_ai,FR,France,France (FR),919929,GM,Germany,Germany (GM),1468952,9,43.55193364620209
+before_ai,FR,France,France (FR),919929,RS,Russia,Russia (RS),3754230,9,43.55193364620209
+before_ai,FR,France,France (FR),919929,TW,Taiwan,Taiwan (TW),616343,9,43.55193364620209
+before_ai,FR,France,France (FR),919929,UK,United Kingdom,United Kingdom (UK),3449988,9,43.55193364620209
+before_ai,AS,Australia,Australia (AS),602574,FR,France,France (FR),919929,9,43.538384199142456
+before_ai,FR,France,France (FR),919929,UP,Ukraine,Ukraine (UP),2806228,9,43.46785068511963
+before_ai,FR,France,France (FR),919929,VM,Vietnam,Vietnam (VM),1037721,9,43.45506775379181
+before_ai,FR,France,France (FR),919929,US,United States,United States (US),10655982,9,43.395739674568176
+before_ai,CA,Canada,Canada (CA),910245,FR,France,France (FR),919929,9,43.285934805870056
+before_ai,FR,France,France (FR),919929,MX,Mexico,Mexico (MX),690783,9,43.20331811904907
+before_ai,CH,China,China (CH),12163894,IT,Italy,Italy (IT),797298,9,43.19162583351135
+before_ai,GM,Germany,Germany (GM),1468952,IT,Italy,Italy (IT),797298,9,43.19162583351135
+before_ai,IT,Italy,Italy (IT),797298,MX,Mexico,Mexico (MX),690783,9,43.19162583351135
+before_ai,IT,Italy,Italy (IT),797298,TW,Taiwan,Taiwan (TW),616343,9,43.19162583351135
+before_ai,IT,Italy,Italy (IT),797298,UK,United Kingdom,United Kingdom (UK),3449988,9,43.19162583351135
+before_ai,IT,Italy,Italy (IT),797298,VM,Vietnam,Vietnam (VM),1037721,9,43.19162583351135
+before_ai,IT,Italy,Italy (IT),797298,US,United States,United States (US),10655982,9,43.168912172317505
+before_ai,IT,Italy,Italy (IT),797298,RS,Russia,Russia (RS),3754230,9,43.16605818271637
+before_ai,AS,Australia,Australia (AS),602574,IT,Italy,Italy (IT),797298,9,43.09700012207031
+before_ai,CA,Canada,Canada (CA),910245,IT,Italy,Italy (IT),797298,9,43.00293672084808
+before_ai,IT,Italy,Italy (IT),797298,UP,Ukraine,Ukraine (UP),2806228,9,42.989288330078125
+before_ai,AS,Australia,Australia (AS),602574,TU,Turkey,Turkey (TU),974620,9,42.52102875709534
+before_ai,TU,Turkey,Turkey (TU),974620,VM,Vietnam,Vietnam (VM),1037721,9,42.40012812614441
+before_ai,FR,France,France (FR),919929,IT,Italy,Italy (IT),797298,9,42.38594329357147
+before_ai,JA,Japan,Japan (JA),771200,TU,Turkey,Turkey (TU),974620,9,42.35047483444214
+before_ai,AS,Australia,Australia (AS),602574,KS,South Korea,South Korea (KS),696807,9,42.1465208530426
+before_ai,CH,China,China (CH),12163894,KS,South Korea,South Korea (KS),696807,9,42.1465208530426
+before_ai,GM,Germany,Germany (GM),1468952,KS,South Korea,South Korea (KS),696807,9,42.1465208530426
+before_ai,JA,Japan,Japan (JA),771200,KS,South Korea,South Korea (KS),696807,9,42.1465208530426
+before_ai,KS,South Korea,South Korea (KS),696807,RS,Russia,Russia (RS),3754230,9,42.1465208530426
+before_ai,KS,South Korea,South Korea (KS),696807,TW,Taiwan,Taiwan (TW),616343,9,42.1465208530426
+before_ai,KS,South Korea,South Korea (KS),696807,UK,United Kingdom,United Kingdom (UK),3449988,9,42.1465208530426
+before_ai,KS,South Korea,South Korea (KS),696807,VM,Vietnam,Vietnam (VM),1037721,9,42.12716603279114
+before_ai,FR,France,France (FR),919929,JA,Japan,Japan (JA),771200,9,42.054203391075134
+before_ai,KS,South Korea,South Korea (KS),696807,US,United States,United States (US),10655982,9,42.01882767677307
+before_ai,KS,South Korea,South Korea (KS),696807,UP,Ukraine,Ukraine (UP),2806228,9,41.98258090019226
+before_ai,CA,Canada,Canada (CA),910245,KS,South Korea,South Korea (KS),696807,9,41.95822060108185
+before_ai,KS,South Korea,South Korea (KS),696807,MX,Mexico,Mexico (MX),690783,9,41.625852227211
+before_ai,CA,Canada,Canada (CA),910245,TU,Turkey,Turkey (TU),974620,9,41.44799280166626
+before_ai,AS,Australia,Australia (AS),602574,EG,Egypt,Egypt (EG),533593,9,41.34748435020447
+before_ai,CH,China,China (CH),12163894,EG,Egypt,Egypt (EG),533593,9,41.34748435020447
+before_ai,EG,Egypt,Egypt (EG),533593,GM,Germany,Germany (GM),1468952,9,41.34748435020447
+before_ai,EG,Egypt,Egypt (EG),533593,JA,Japan,Japan (JA),771200,9,41.34748435020447
+before_ai,EG,Egypt,Egypt (EG),533593,RS,Russia,Russia (RS),3754230,9,41.34748435020447
+before_ai,EG,Egypt,Egypt (EG),533593,TW,Taiwan,Taiwan (TW),616343,9,41.34748435020447
+before_ai,EG,Egypt,Egypt (EG),533593,UK,United Kingdom,United Kingdom (UK),3449988,9,41.34748435020447
+before_ai,EG,Egypt,Egypt (EG),533593,US,United States,United States (US),10655982,9,41.34748435020447
+before_ai,EG,Egypt,Egypt (EG),533593,VM,Vietnam,Vietnam (VM),1037721,9,41.34748435020447
+before_ai,EG,Egypt,Egypt (EG),533593,UP,Ukraine,Ukraine (UP),2806228,9,41.22514533996582
+before_ai,EG,Egypt,Egypt (EG),533593,MX,Mexico,Mexico (MX),690783,9,41.14354693889618
+before_ai,IT,Italy,Italy (IT),797298,JA,Japan,Japan (JA),771200,9,41.00646758079529
+before_ai,CA,Canada,Canada (CA),910245,EG,Egypt,Egypt (EG),533593,9,40.482908844947815
+before_ai,FR,France,France (FR),919929,TU,Turkey,Turkey (TU),974620,9,40.47997546195984
+before_ai,EG,Egypt,Egypt (EG),533593,FR,France,France (FR),919929,9,40.28626537322998
+before_ai,EG,Egypt,Egypt (EG),533593,TU,Turkey,Turkey (TU),974620,9,40.011874198913574
+before_ai,EG,Egypt,Egypt (EG),533593,IT,Italy,Italy (IT),797298,9,39.67147660255432
+before_ai,FR,France,France (FR),919929,KS,South Korea,South Korea (KS),696807,9,39.585153102874756
+before_ai,IT,Italy,Italy (IT),797298,TU,Turkey,Turkey (TU),974620,9,39.54247462749481
+before_ai,KS,South Korea,South Korea (KS),696807,TU,Turkey,Turkey (TU),974620,9,39.379672050476074
+before_ai,EG,Egypt,Egypt (EG),533593,KS,South Korea,South Korea (KS),696807,9,39.02820873260498
+before_ai,IT,Italy,Italy (IT),797298,KS,South Korea,South Korea (KS),696807,9,38.76834440231323
+before_ai,CH,China,China (CH),12163894,IN,India,India (IN),1471654,9,35.39993679523468
+before_ai,GM,Germany,Germany (GM),1468952,IN,India,India (IN),1471654,9,35.39993679523468
+before_ai,IN,India,India (IN),1471654,JA,Japan,Japan (JA),771200,9,35.39993679523468
+before_ai,IN,India,India (IN),1471654,MX,Mexico,Mexico (MX),690783,9,35.39993679523468
+before_ai,IN,India,India (IN),1471654,TW,Taiwan,Taiwan (TW),616343,9,35.39993679523468
+before_ai,IN,India,India (IN),1471654,UK,United Kingdom,United Kingdom (UK),3449988,9,35.39993679523468
+before_ai,IN,India,India (IN),1471654,US,United States,United States (US),10655982,9,35.39993679523468
+before_ai,IN,India,India (IN),1471654,VM,Vietnam,Vietnam (VM),1037721,9,35.39993679523468
+before_ai,IN,India,India (IN),1471654,RS,Russia,Russia (RS),3754230,9,35.304699540138245
+before_ai,IN,India,India (IN),1471654,UP,Ukraine,Ukraine (UP),2806228,9,35.24135947227478
+before_ai,AS,Australia,Australia (AS),602574,IN,India,India (IN),1471654,9,35.23564147949219
+before_ai,EG,Egypt,Egypt (EG),533593,IN,India,India (IN),1471654,9,35.188700914382935
+before_ai,CA,Canada,Canada (CA),910245,IN,India,India (IN),1471654,9,35.14157807826996
+before_ai,FR,France,France (FR),919929,IN,India,India (IN),1471654,9,35.05498421192169
+before_ai,IN,India,India (IN),1471654,IT,Italy,Italy (IT),797298,9,34.89457106590271
+before_ai,IN,India,India (IN),1471654,KS,South Korea,South Korea (KS),696807,9,34.792009353637695
+before_ai,BR,Brazil,Brazil (BR),755583,CH,China,China (CH),12163894,9,34.65072739124298
+before_ai,BR,Brazil,Brazil (BR),755583,GM,Germany,Germany (GM),1468952,9,34.65072739124298
+before_ai,BR,Brazil,Brazil (BR),755583,RS,Russia,Russia (RS),3754230,9,34.65072739124298
+before_ai,BR,Brazil,Brazil (BR),755583,TW,Taiwan,Taiwan (TW),616343,9,34.65072739124298
+before_ai,BR,Brazil,Brazil (BR),755583,UP,Ukraine,Ukraine (UP),2806228,9,34.65072739124298
+before_ai,BR,Brazil,Brazil (BR),755583,US,United States,United States (US),10655982,9,34.65072739124298
+before_ai,AS,Australia,Australia (AS),602574,BR,Brazil,Brazil (BR),755583,9,34.61328685283661
+before_ai,BR,Brazil,Brazil (BR),755583,CA,Canada,Canada (CA),910245,9,34.60420501232147
+before_ai,IN,India,India (IN),1471654,TU,Turkey,Turkey (TU),974620,9,34.54834687709808
+before_ai,BR,Brazil,Brazil (BR),755583,JA,Japan,Japan (JA),771200,9,34.51884067058563
+before_ai,BR,Brazil,Brazil (BR),755583,UK,United Kingdom,United Kingdom (UK),3449988,9,34.50960910320282
+before_ai,BR,Brazil,Brazil (BR),755583,FR,France,France (FR),919929,9,34.354514479637146
+before_ai,BR,Brazil,Brazil (BR),755583,MX,Mexico,Mexico (MX),690783,9,34.34440457820892
+before_ai,BR,Brazil,Brazil (BR),755583,TU,Turkey,Turkey (TU),974620,9,34.29933440685272
+before_ai,BR,Brazil,Brazil (BR),755583,VM,Vietnam,Vietnam (VM),1037721,9,34.25764858722687
+before_ai,BR,Brazil,Brazil (BR),755583,EG,Egypt,Egypt (EG),533593,9,34.20106303691864
+before_ai,BR,Brazil,Brazil (BR),755583,IT,Italy,Italy (IT),797298,9,33.97312116622925
+before_ai,BR,Brazil,Brazil (BR),755583,KS,South Korea,South Korea (KS),696807,9,33.92547941207886
+before_ai,BR,Brazil,Brazil (BR),755583,IN,India,India (IN),1471654,9,33.52247703075409
+before_ai,AS,Australia,Australia (AS),602574,ID,Indonesia,Indonesia (ID),552386,9,30.95394790172577
+before_ai,CA,Canada,Canada (CA),910245,ID,Indonesia,Indonesia (ID),552386,9,30.95394790172577
+before_ai,CH,China,China (CH),12163894,ID,Indonesia,Indonesia (ID),552386,9,30.95394790172577
+before_ai,EG,Egypt,Egypt (EG),533593,ID,Indonesia,Indonesia (ID),552386,9,30.95394790172577
+before_ai,FR,France,France (FR),919929,ID,Indonesia,Indonesia (ID),552386,9,30.95394790172577
+before_ai,GM,Germany,Germany (GM),1468952,ID,Indonesia,Indonesia (ID),552386,9,30.95394790172577
+before_ai,ID,Indonesia,Indonesia (ID),552386,IT,Italy,Italy (IT),797298,9,30.95394790172577
+before_ai,ID,Indonesia,Indonesia (ID),552386,JA,Japan,Japan (JA),771200,9,30.95394790172577
+before_ai,ID,Indonesia,Indonesia (ID),552386,KS,South Korea,South Korea (KS),696807,9,30.95394790172577
+before_ai,ID,Indonesia,Indonesia (ID),552386,MX,Mexico,Mexico (MX),690783,9,30.95394790172577
+before_ai,ID,Indonesia,Indonesia (ID),552386,RS,Russia,Russia (RS),3754230,9,30.95394790172577
+before_ai,ID,Indonesia,Indonesia (ID),552386,TU,Turkey,Turkey (TU),974620,9,30.95394790172577
+before_ai,ID,Indonesia,Indonesia (ID),552386,TW,Taiwan,Taiwan (TW),616343,9,30.95394790172577
+before_ai,ID,Indonesia,Indonesia (ID),552386,UK,United Kingdom,United Kingdom (UK),3449988,9,30.95394790172577
+before_ai,ID,Indonesia,Indonesia (ID),552386,UP,Ukraine,Ukraine (UP),2806228,9,30.95394790172577
+before_ai,ID,Indonesia,Indonesia (ID),552386,US,United States,United States (US),10655982,9,30.95394790172577
+before_ai,ID,Indonesia,Indonesia (ID),552386,VM,Vietnam,Vietnam (VM),1037721,9,30.95394790172577
+before_ai,ID,Indonesia,Indonesia (ID),552386,IN,India,India (IN),1471654,9,30.936275362968445
+before_ai,BR,Brazil,Brazil (BR),755583,ID,Indonesia,Indonesia (ID),552386,9,30.829846262931824
+after_ai,RS,Russia,Russia (RS),20751534,UP,Ukraine,Ukraine (UP),10405129,9,301.49500370025635
+after_ai,PE,Peru,Peru (PE),2348368,RS,Russia,Russia (RS),20751534,9,217.1222324371338
+after_ai,PE,Peru,Peru (PE),2348368,UP,Ukraine,Ukraine (UP),10405129,9,175.8231122493744
+after_ai,CH,China,China (CH),14863568,RS,Russia,Russia (RS),20751534,9,79.80252289772034
+after_ai,CH,China,China (CH),14863568,UP,Ukraine,Ukraine (UP),10405129,9,79.80252289772034
+after_ai,RS,Russia,Russia (RS),20751534,TU,Turkey,Turkey (TU),1338637,9,75.92929077148438
+after_ai,TU,Turkey,Turkey (TU),1338637,UP,Ukraine,Ukraine (UP),10405129,9,75.92929077148438
+after_ai,CH,China,China (CH),14863568,PE,Peru,Peru (PE),2348368,9,75.8295328617096
+after_ai,PE,Peru,Peru (PE),2348368,TU,Turkey,Turkey (TU),1338637,9,73.86806297302246
+after_ai,IS,Israel,Israel (IS),1097623,RS,Russia,Russia (RS),20751534,9,73.72166502475739
+after_ai,IS,Israel,Israel (IS),1097623,UP,Ukraine,Ukraine (UP),10405129,9,73.72166502475739
+after_ai,IS,Israel,Israel (IS),1097623,PE,Peru,Peru (PE),2348368,9,71.73999583721161
+after_ai,IS,Israel,Israel (IS),1097623,TU,Turkey,Turkey (TU),1338637,9,70.31827461719513
+after_ai,GM,Germany,Germany (GM),2739820,RS,Russia,Russia (RS),20751534,9,69.76807808876038
+after_ai,GM,Germany,Germany (GM),2739820,UP,Ukraine,Ukraine (UP),10405129,9,69.76807808876038
+after_ai,CH,China,China (CH),14863568,IS,Israel,Israel (IS),1097623,9,67.55777251720428
+after_ai,GM,Germany,Germany (GM),2739820,PE,Peru,Peru (PE),2348368,9,67.41147971153259
+after_ai,GM,Germany,Germany (GM),2739820,TU,Turkey,Turkey (TU),1338637,9,67.24944067001343
+after_ai,AS,Australia,Australia (AS),875933,RS,Russia,Russia (RS),20751534,9,66.50494265556335
+after_ai,AS,Australia,Australia (AS),875933,UP,Ukraine,Ukraine (UP),10405129,9,66.50494265556335
+after_ai,GM,Germany,Germany (GM),2739820,IS,Israel,Israel (IS),1097623,9,66.46220266819
+after_ai,AS,Australia,Australia (AS),875933,IS,Israel,Israel (IS),1097623,9,66.10913801193237
+after_ai,AS,Australia,Australia (AS),875933,PE,Peru,Peru (PE),2348368,9,65.40272426605225
+after_ai,CH,China,China (CH),14863568,TU,Turkey,Turkey (TU),1338637,9,65.25699377059937
+after_ai,CH,China,China (CH),14863568,GM,Germany,Germany (GM),2739820,9,64.99872374534607
+after_ai,AS,Australia,Australia (AS),875933,TU,Turkey,Turkey (TU),1338637,9,64.93571376800537
+after_ai,AS,Australia,Australia (AS),875933,CH,China,China (CH),14863568,9,64.71236062049866
+after_ai,AS,Australia,Australia (AS),875933,GM,Germany,Germany (GM),2739820,9,64.25635957717896
+after_ai,CH,China,China (CH),14863568,UK,United Kingdom,United Kingdom (UK),4570023,9,58.85426187515259
+after_ai,RS,Russia,Russia (RS),20751534,UK,United Kingdom,United Kingdom (UK),4570023,9,58.85426187515259
+after_ai,UK,United Kingdom,United Kingdom (UK),4570023,UP,Ukraine,Ukraine (UP),10405129,9,58.85426187515259
+after_ai,GM,Germany,Germany (GM),2739820,UK,United Kingdom,United Kingdom (UK),4570023,9,58.82554626464844
+after_ai,TU,Turkey,Turkey (TU),1338637,UK,United Kingdom,United Kingdom (UK),4570023,9,58.69189262390137
+after_ai,IS,Israel,Israel (IS),1097623,UK,United Kingdom,United Kingdom (UK),4570023,9,58.0854070186615
+after_ai,AS,Australia,Australia (AS),875933,UK,United Kingdom,United Kingdom (UK),4570023,9,57.55258131027222
+after_ai,PE,Peru,Peru (PE),2348368,UK,United Kingdom,United Kingdom (UK),4570023,9,56.7480845451355
+after_ai,GM,Germany,Germany (GM),2739820,JA,Japan,Japan (JA),1101779,9,56.526631593704224
+after_ai,JA,Japan,Japan (JA),1101779,RS,Russia,Russia (RS),20751534,9,56.526631593704224
+after_ai,JA,Japan,Japan (JA),1101779,TU,Turkey,Turkey (TU),1338637,9,56.526631593704224
+after_ai,JA,Japan,Japan (JA),1101779,UP,Ukraine,Ukraine (UP),10405129,9,56.526631593704224
+after_ai,CH,China,China (CH),14863568,JA,Japan,Japan (JA),1101779,9,56.112656354904175
+after_ai,IS,Israel,Israel (IS),1097623,JA,Japan,Japan (JA),1101779,9,55.780816197395325
+after_ai,JA,Japan,Japan (JA),1101779,PE,Peru,Peru (PE),2348368,9,55.56169509887695
+after_ai,RS,Russia,Russia (RS),20751534,US,United States,United States (US),16045286,9,55.44317626953125
+after_ai,UP,Ukraine,Ukraine (UP),10405129,US,United States,United States (US),16045286,9,55.44317626953125
+after_ai,AS,Australia,Australia (AS),875933,JA,Japan,Japan (JA),1101779,9,55.36504673957825
+after_ai,CH,China,China (CH),14863568,US,United States,United States (US),16045286,9,55.211973667144775
+after_ai,GM,Germany,Germany (GM),2739820,US,United States,United States (US),16045286,9,55.20811414718628
+after_ai,JA,Japan,Japan (JA),1101779,UK,United Kingdom,United Kingdom (UK),4570023,9,55.16359519958496
+after_ai,TU,Turkey,Turkey (TU),1338637,US,United States,United States (US),16045286,9,55.106727838516235
+after_ai,IS,Israel,Israel (IS),1097623,US,United States,United States (US),16045286,9,54.50024223327637
+after_ai,AS,Australia,Australia (AS),875933,US,United States,United States (US),16045286,9,54.20848989486694
+after_ai,PE,Peru,Peru (PE),2348368,US,United States,United States (US),16045286,9,54.03745627403259
+after_ai,UK,United Kingdom,United Kingdom (UK),4570023,US,United States,United States (US),16045286,9,54.00304055213928
+after_ai,JA,Japan,Japan (JA),1101779,US,United States,United States (US),16045286,9,53.15040612220764
+after_ai,CH,China,China (CH),14863568,VM,Vietnam,Vietnam (VM),1035570,9,52.12194001674652
+after_ai,RS,Russia,Russia (RS),20751534,VM,Vietnam,Vietnam (VM),1035570,9,52.12194001674652
+after_ai,UP,Ukraine,Ukraine (UP),10405129,VM,Vietnam,Vietnam (VM),1035570,9,52.12194001674652
+after_ai,PE,Peru,Peru (PE),2348368,VM,Vietnam,Vietnam (VM),1035570,9,51.73506939411163
+after_ai,GM,Germany,Germany (GM),2739820,VM,Vietnam,Vietnam (VM),1035570,9,51.68365037441254
+after_ai,TU,Turkey,Turkey (TU),1338637,VM,Vietnam,Vietnam (VM),1035570,9,51.478838324546814
+after_ai,IS,Israel,Israel (IS),1097623,VM,Vietnam,Vietnam (VM),1035570,9,51.40750730037689
+after_ai,AS,Australia,Australia (AS),875933,VM,Vietnam,Vietnam (VM),1035570,9,51.38009786605835
+after_ai,CH,China,China (CH),14863568,KS,South Korea,South Korea (KS),974004,9,51.26896095275879
+after_ai,GM,Germany,Germany (GM),2739820,KS,South Korea,South Korea (KS),974004,9,51.26896095275879
+after_ai,IS,Israel,Israel (IS),1097623,KS,South Korea,South Korea (KS),974004,9,51.26896095275879
+after_ai,KS,South Korea,South Korea (KS),974004,RS,Russia,Russia (RS),20751534,9,51.26896095275879
+after_ai,KS,South Korea,South Korea (KS),974004,TU,Turkey,Turkey (TU),1338637,9,51.26896095275879
+after_ai,KS,South Korea,South Korea (KS),974004,UP,Ukraine,Ukraine (UP),10405129,9,51.26896095275879
+after_ai,JA,Japan,Japan (JA),1101779,KS,South Korea,South Korea (KS),974004,9,51.1924831867218
+after_ai,UK,United Kingdom,United Kingdom (UK),4570023,VM,Vietnam,Vietnam (VM),1035570,9,51.09232008457184
+after_ai,AS,Australia,Australia (AS),875933,KS,South Korea,South Korea (KS),974004,9,51.07767295837402
+after_ai,KS,South Korea,South Korea (KS),974004,UK,United Kingdom,United Kingdom (UK),4570023,9,51.026902198791504
+after_ai,JA,Japan,Japan (JA),1101779,VM,Vietnam,Vietnam (VM),1035570,9,51.025318026542664
+after_ai,KS,South Korea,South Korea (KS),974004,PE,Peru,Peru (PE),2348368,9,50.87112522125244
+after_ai,CH,China,China (CH),14863568,SW,Sweden,Sweden (SW),977767,9,50.719592928886414
+after_ai,GM,Germany,Germany (GM),2739820,SW,Sweden,Sweden (SW),977767,9,50.719592928886414
+after_ai,RS,Russia,Russia (RS),20751534,SW,Sweden,Sweden (SW),977767,9,50.719592928886414
+after_ai,SW,Sweden,Sweden (SW),977767,TU,Turkey,Turkey (TU),1338637,9,50.719592928886414
+after_ai,SW,Sweden,Sweden (SW),977767,UK,United Kingdom,United Kingdom (UK),4570023,9,50.719592928886414
+after_ai,SW,Sweden,Sweden (SW),977767,UP,Ukraine,Ukraine (UP),10405129,9,50.719592928886414
+after_ai,AS,Australia,Australia (AS),875933,SW,Sweden,Sweden (SW),977767,9,50.50248908996582
+after_ai,IS,Israel,Israel (IS),1097623,SW,Sweden,Sweden (SW),977767,9,50.485323548316956
+after_ai,US,United States,United States (US),16045286,VM,Vietnam,Vietnam (VM),1035570,9,50.3965904712677
+after_ai,JA,Japan,Japan (JA),1101779,SW,Sweden,Sweden (SW),977767,9,50.37384569644928
+after_ai,SW,Sweden,Sweden (SW),977767,US,United States,United States (US),16045286,9,50.18931519985199
+after_ai,PE,Peru,Peru (PE),2348368,SW,Sweden,Sweden (SW),977767,9,50.02253758907318
+after_ai,CH,China,China (CH),14863568,MX,Mexico,Mexico (MX),1058445,9,49.89266860485077
+after_ai,GM,Germany,Germany (GM),2739820,MX,Mexico,Mexico (MX),1058445,9,49.89266860485077
+after_ai,MX,Mexico,Mexico (MX),1058445,RS,Russia,Russia (RS),20751534,9,49.89266860485077
+after_ai,MX,Mexico,Mexico (MX),1058445,TU,Turkey,Turkey (TU),1338637,9,49.89266860485077
+after_ai,MX,Mexico,Mexico (MX),1058445,UP,Ukraine,Ukraine (UP),10405129,9,49.89266860485077
+after_ai,IS,Israel,Israel (IS),1097623,MX,Mexico,Mexico (MX),1058445,9,49.864803433418274
+after_ai,MX,Mexico,Mexico (MX),1058445,UK,United Kingdom,United Kingdom (UK),4570023,9,49.8397479057312
+after_ai,MX,Mexico,Mexico (MX),1058445,PE,Peru,Peru (PE),2348368,9,49.72820007801056
+after_ai,AS,Australia,Australia (AS),875933,MX,Mexico,Mexico (MX),1058445,9,49.54202628135681
+after_ai,KS,South Korea,South Korea (KS),974004,US,United States,United States (US),16045286,9,49.36157989501953
+after_ai,JA,Japan,Japan (JA),1101779,MX,Mexico,Mexico (MX),1058445,9,49.10772788524628
+after_ai,KS,South Korea,South Korea (KS),974004,SW,Sweden,Sweden (SW),977767,9,48.781142354011536
+after_ai,KS,South Korea,South Korea (KS),974004,VM,Vietnam,Vietnam (VM),1035570,9,48.61709809303284
+after_ai,MX,Mexico,Mexico (MX),1058445,US,United States,United States (US),16045286,9,48.25288009643555
+after_ai,MX,Mexico,Mexico (MX),1058445,SW,Sweden,Sweden (SW),977767,9,48.18270194530487
+after_ai,SW,Sweden,Sweden (SW),977767,VM,Vietnam,Vietnam (VM),1035570,9,47.96986520290375
+after_ai,KS,South Korea,South Korea (KS),974004,MX,Mexico,Mexico (MX),1058445,9,47.800668478012085
+after_ai,CA,Canada,Canada (CA),1488775,CH,China,China (CH),14863568,9,47.62189245223999
+after_ai,CA,Canada,Canada (CA),1488775,GM,Germany,Germany (GM),2739820,9,47.62189245223999
+after_ai,CA,Canada,Canada (CA),1488775,RS,Russia,Russia (RS),20751534,9,47.62189245223999
+after_ai,CA,Canada,Canada (CA),1488775,TU,Turkey,Turkey (TU),1338637,9,47.62189245223999
+after_ai,CA,Canada,Canada (CA),1488775,UP,Ukraine,Ukraine (UP),10405129,9,47.62189245223999
+after_ai,CA,Canada,Canada (CA),1488775,US,United States,United States (US),16045286,9,47.56728410720825
+after_ai,AS,Australia,Australia (AS),875933,CA,Canada,Canada (CA),1488775,9,47.204339027404785
+after_ai,CA,Canada,Canada (CA),1488775,IS,Israel,Israel (IS),1097623,9,47.12603425979614
+after_ai,CA,Canada,Canada (CA),1488775,UK,United Kingdom,United Kingdom (UK),4570023,9,47.12362337112427
+after_ai,CA,Canada,Canada (CA),1488775,PE,Peru,Peru (PE),2348368,9,46.66324830055237
+after_ai,CA,Canada,Canada (CA),1488775,JA,Japan,Japan (JA),1101779,9,46.13469648361206
+after_ai,CA,Canada,Canada (CA),1488775,SW,Sweden,Sweden (SW),977767,9,46.05867552757263
+after_ai,MX,Mexico,Mexico (MX),1058445,VM,Vietnam,Vietnam (VM),1035570,9,46.00008690357208
+after_ai,CA,Canada,Canada (CA),1488775,MX,Mexico,Mexico (MX),1058445,9,45.78287076950073
+after_ai,CA,Canada,Canada (CA),1488775,VM,Vietnam,Vietnam (VM),1035570,9,44.94377279281616
+after_ai,CH,China,China (CH),14863568,IT,Italy,Italy (IT),1138130,9,44.560041666030884
+after_ai,GM,Germany,Germany (GM),2739820,IT,Italy,Italy (IT),1138130,9,44.560041666030884
+after_ai,IS,Israel,Israel (IS),1097623,IT,Italy,Italy (IT),1138130,9,44.560041666030884
+after_ai,IT,Italy,Italy (IT),1138130,JA,Japan,Japan (JA),1101779,9,44.560041666030884
+after_ai,IT,Italy,Italy (IT),1138130,RS,Russia,Russia (RS),20751534,9,44.560041666030884
+after_ai,IT,Italy,Italy (IT),1138130,TU,Turkey,Turkey (TU),1338637,9,44.560041666030884
+after_ai,IT,Italy,Italy (IT),1138130,UK,United Kingdom,United Kingdom (UK),4570023,9,44.560041666030884
+after_ai,IT,Italy,Italy (IT),1138130,UP,Ukraine,Ukraine (UP),10405129,9,44.560041666030884
+after_ai,IT,Italy,Italy (IT),1138130,US,United States,United States (US),16045286,9,44.560041666030884
+after_ai,CA,Canada,Canada (CA),1488775,KS,South Korea,South Korea (KS),974004,9,44.554239988327026
+after_ai,IT,Italy,Italy (IT),1138130,SW,Sweden,Sweden (SW),977767,9,44.538824915885925
+after_ai,AS,Australia,Australia (AS),875933,IT,Italy,Italy (IT),1138130,9,44.443039655685425
+after_ai,IT,Italy,Italy (IT),1138130,VM,Vietnam,Vietnam (VM),1035570,9,44.24329614639282
+after_ai,IT,Italy,Italy (IT),1138130,PE,Peru,Peru (PE),2348368,9,44.13002276420593
+after_ai,IT,Italy,Italy (IT),1138130,KS,South Korea,South Korea (KS),974004,9,44.129695653915405
+after_ai,IT,Italy,Italy (IT),1138130,MX,Mexico,Mexico (MX),1058445,9,44.00900053977966
+after_ai,CH,China,China (CH),14863568,FR,France,France (FR),2020695,9,43.93092930316925
+after_ai,FR,France,France (FR),2020695,GM,Germany,Germany (GM),2739820,9,43.93092930316925
+after_ai,FR,France,France (FR),2020695,IS,Israel,Israel (IS),1097623,9,43.93092930316925
+after_ai,FR,France,France (FR),2020695,JA,Japan,Japan (JA),1101779,9,43.93092930316925
+after_ai,FR,France,France (FR),2020695,RS,Russia,Russia (RS),20751534,9,43.93092930316925
+after_ai,FR,France,France (FR),2020695,SW,Sweden,Sweden (SW),977767,9,43.93092930316925
+after_ai,FR,France,France (FR),2020695,TU,Turkey,Turkey (TU),1338637,9,43.93092930316925
+after_ai,FR,France,France (FR),2020695,UK,United Kingdom,United Kingdom (UK),4570023,9,43.93092930316925
+after_ai,FR,France,France (FR),2020695,UP,Ukraine,Ukraine (UP),10405129,9,43.93092930316925
+after_ai,FR,France,France (FR),2020695,US,United States,United States (US),16045286,9,43.93092930316925
+after_ai,AS,Australia,Australia (AS),875933,FR,France,France (FR),2020695,9,43.90887272357941
+after_ai,FR,France,France (FR),2020695,KS,South Korea,South Korea (KS),974004,9,43.86658823490143
+after_ai,FR,France,France (FR),2020695,PE,Peru,Peru (PE),2348368,9,43.837944865226746
+after_ai,FR,France,France (FR),2020695,MX,Mexico,Mexico (MX),1058445,9,43.55214703083038
+after_ai,FR,France,France (FR),2020695,IT,Italy,Italy (IT),1138130,9,43.21362102031708
+after_ai,CA,Canada,Canada (CA),1488775,IT,Italy,Italy (IT),1138130,9,43.17571187019348
+after_ai,FR,France,France (FR),2020695,VM,Vietnam,Vietnam (VM),1035570,9,43.139087319374084
+after_ai,CA,Canada,Canada (CA),1488775,FR,France,France (FR),2020695,9,42.10823738574982
+after_ai,BR,Brazil,Brazil (BR),1304561,GM,Germany,Germany (GM),2739820,9,40.90478312969208
+after_ai,BR,Brazil,Brazil (BR),1304561,RS,Russia,Russia (RS),20751534,9,40.90478312969208
+after_ai,BR,Brazil,Brazil (BR),1304561,TU,Turkey,Turkey (TU),1338637,9,40.90478312969208
+after_ai,BR,Brazil,Brazil (BR),1304561,UP,Ukraine,Ukraine (UP),10405129,9,40.90478312969208
+after_ai,BR,Brazil,Brazil (BR),1304561,PE,Peru,Peru (PE),2348368,9,40.86033070087433
+after_ai,BR,Brazil,Brazil (BR),1304561,JA,Japan,Japan (JA),1101779,9,40.46651113033295
+after_ai,BR,Brazil,Brazil (BR),1304561,IS,Israel,Israel (IS),1097623,9,40.32656800746918
+after_ai,BR,Brazil,Brazil (BR),1304561,US,United States,United States (US),16045286,9,40.28128468990326
+after_ai,BR,Brazil,Brazil (BR),1304561,CH,China,China (CH),14863568,9,40.0525358915329
+after_ai,AS,Australia,Australia (AS),875933,BR,Brazil,Brazil (BR),1304561,9,39.98912489414215
+after_ai,BR,Brazil,Brazil (BR),1304561,UK,United Kingdom,United Kingdom (UK),4570023,9,39.667689204216
+after_ai,BR,Brazil,Brazil (BR),1304561,SW,Sweden,Sweden (SW),977767,9,39.453073382377625
+after_ai,CH,China,China (CH),14863568,IN,India,India (IN),2162515,9,39.27604925632477
+after_ai,GM,Germany,Germany (GM),2739820,IN,India,India (IN),2162515,9,39.27604925632477
+after_ai,IN,India,India (IN),2162515,IS,Israel,Israel (IS),1097623,9,39.27604925632477
+after_ai,IN,India,India (IN),2162515,JA,Japan,Japan (JA),1101779,9,39.27604925632477
+after_ai,IN,India,India (IN),2162515,MX,Mexico,Mexico (MX),1058445,9,39.27604925632477
+after_ai,IN,India,India (IN),2162515,RS,Russia,Russia (RS),20751534,9,39.27604925632477
+after_ai,IN,India,India (IN),2162515,TU,Turkey,Turkey (TU),1338637,9,39.27604925632477
+after_ai,IN,India,India (IN),2162515,UK,United Kingdom,United Kingdom (UK),4570023,9,39.27604925632477
+after_ai,IN,India,India (IN),2162515,UP,Ukraine,Ukraine (UP),10405129,9,39.27604925632477
+after_ai,IN,India,India (IN),2162515,PE,Peru,Peru (PE),2348368,9,39.26471650600433
+after_ai,IN,India,India (IN),2162515,KS,South Korea,South Korea (KS),974004,9,39.24421429634094
+after_ai,BR,Brazil,Brazil (BR),1304561,KS,South Korea,South Korea (KS),974004,9,39.21214401721954
+after_ai,IN,India,India (IN),2162515,US,United States,United States (US),16045286,9,39.18197250366211
+after_ai,IN,India,India (IN),2162515,SW,Sweden,Sweden (SW),977767,9,39.14871156215668
+after_ai,FR,France,France (FR),2020695,IN,India,India (IN),2162515,9,39.07498288154602
+after_ai,AS,Australia,Australia (AS),875933,IN,India,India (IN),2162515,9,39.05292630195618
+after_ai,BR,Brazil,Brazil (BR),1304561,FR,France,France (FR),2020695,9,38.99884378910065
+after_ai,BR,Brazil,Brazil (BR),1304561,IT,Italy,Italy (IT),1138130,9,38.98971152305603
+after_ai,BR,Brazil,Brazil (BR),1304561,VM,Vietnam,Vietnam (VM),1035570,9,38.98937952518463
+after_ai,BR,Brazil,Brazil (BR),1304561,MX,Mexico,Mexico (MX),1058445,9,38.84716057777405
+after_ai,IN,India,India (IN),2162515,IT,Italy,Italy (IT),1138130,9,38.73799967765808
+after_ai,IN,India,India (IN),2162515,VM,Vietnam,Vietnam (VM),1035570,9,38.570523381233215
+after_ai,BR,Brazil,Brazil (BR),1304561,IN,India,India (IN),2162515,9,38.42409920692444
+after_ai,BR,Brazil,Brazil (BR),1304561,CA,Canada,Canada (CA),1488775,9,37.63030385971069
+after_ai,CA,Canada,Canada (CA),1488775,IN,India,India (IN),2162515,9,37.4195659160614

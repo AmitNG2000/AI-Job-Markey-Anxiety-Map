@@ -1,0 +1,121 @@
+source,target,weight,shared_emotions,period
+Syrian Arab Republic,Yemen,0.9999073131410428,9,after_ai
+Syrian Arab Republic,West Bank,0.9997454493416582,9,after_ai
+Syrian Arab Republic,Saudi Arabia,0.9996896278465246,9,after_ai
+Syrian Arab Republic,Lebanon,0.9996363415320385,9,after_ai
+Syrian Arab Republic,Qatar,0.999623218572421,9,after_ai
+Syrian Arab Republic,Israel,0.9995796111520744,9,after_ai
+Syrian Arab Republic,Djibouti,0.9995107148321352,9,after_ai
+Syrian Arab Republic,"Iran, Islamic Republic of",0.9991776493368602,9,after_ai
+Yemen,West Bank,0.9997440195190328,9,after_ai
+Yemen,Lebanon,0.9996665953438506,9,after_ai
+Yemen,Qatar,0.9996261156397025,9,after_ai
+Yemen,Saudi Arabia,0.9995864148018272,9,after_ai
+Yemen,Djibouti,0.9992745309726063,9,after_ai
+Yemen,Israel,0.9992487930537225,9,after_ai
+Djibouti,Israel,0.999846423509099,9,after_ai
+Djibouti,Qatar,0.999331860537023,9,after_ai
+Djibouti,"Iran, Islamic Republic of",0.9992130343558844,9,after_ai
+Djibouti,West Bank,0.9992027358371298,9,after_ai
+Israel,"Iran, Islamic Republic of",0.9997275485067819,9,after_ai
+Israel,West Bank,0.9993941430192335,9,after_ai
+Israel,Egypt,0.9993910195228889,9,after_ai
+Israel,Saudi Arabia,0.9992286067152291,9,after_ai
+Lebanon,West Bank,0.9998389256424397,9,after_ai
+Lebanon,Qatar,0.9995469362658495,9,after_ai
+West Bank,Qatar,0.9992490117780758,9,after_ai
+New Zealand,Peru,0.9997978873217104,9,after_ai
+New Zealand,Japan,0.9991842146346639,9,after_ai
+Peru,Kazakhstan,0.9991686272508908,9,after_ai
+"Iran, Islamic Republic of",Egypt,0.9996564867975618,9,after_ai
+"Iran, Islamic Republic of",Saudi Arabia,0.9991527045524676,9,after_ai
+Liberia,Malta,0.9997266538918925,9,after_ai
+Liberia,Kosovo,0.9992839893998707,9,after_ai
+Liberia,Hungary,0.9991957435032357,9,after_ai
+Malta,United Arab Emirates,0.9996447515178991,9,after_ai
+Malta,Hungary,0.9993495999383274,9,after_ai
+Malta,Paraguay,0.999301624506763,9,after_ai
+Malta,Bulgaria,0.9991924817704398,9,after_ai
+Malta,Kosovo,0.9991633255818231,9,after_ai
+Dominica,"Taiwan, Province of China",0.999719799573105,9,after_ai
+Denmark,"Tanzania, United Republic of",0.9997024588852266,9,after_ai
+"Tanzania, United Republic of",Japan,0.9994846072250325,9,after_ai
+"Tanzania, United Republic of",United States,0.999331771068547,9,after_ai
+Croatia,Italy,0.999668954804713,9,after_ai
+Croatia,Greece,0.9991974268810463,9,after_ai
+Croatia,Austria,0.9991939142722281,9,after_ai
+Croatia,Sweden,0.9991602848814266,9,after_ai
+Italy,Honduras,0.9996033116164681,9,after_ai
+Italy,Finland,0.9995576686204366,9,after_ai
+Italy,Greece,0.9995043905710881,9,after_ai
+Italy,Spain,0.9994154739361135,9,after_ai
+Italy,Sweden,0.9993334603648664,9,after_ai
+Italy,Slovenia,0.9992347399224503,9,after_ai
+Italy,"Micronesia, Federated States of",0.9992129942678398,9,after_ai
+Italy,Dominican Republic,0.9991712711135076,9,after_ai
+Belize,Kosovo,0.9996652331087335,9,after_ai
+Belize,Latvia,0.9994333131575553,9,after_ai
+Kosovo,Hungary,0.999304702501103,9,after_ai
+Kosovo,Latvia,0.9992608311241714,9,after_ai
+Guyana,Lithuania,0.9996545707779161,9,after_ai
+Lithuania,Czech,0.9992369855786268,9,after_ai
+Finland,Montserrat,0.9996456971739391,9,after_ai
+Finland,Dominican Republic,0.9995900687586633,9,after_ai
+Finland,Greece,0.9994037115457459,9,after_ai
+Finland,Sweden,0.9993845496534844,9,after_ai
+Finland,Kazakhstan,0.9992238093505696,9,after_ai
+Montserrat,Dominican Republic,0.9993536349418862,9,after_ai
+United Arab Emirates,Bulgaria,0.9992981267762998,9,after_ai
+United Arab Emirates,Paraguay,0.9992281283799591,9,after_ai
+Albania,Armenia,0.9996107983645179,9,after_ai
+Albania,OC,0.9994689074409518,9,after_ai
+Albania,"Bolivia, Plurinational State of",0.9993738944701113,9,after_ai
+Armenia,"Bolivia, Plurinational State of",0.9996084376307891,9,after_ai
+"Bolivia, Plurinational State of",Philippines,0.9993008411981468,9,after_ai
+Belgium,Germany,0.9996047168084194,9,after_ai
+Honduras,Spain,0.9995791566882954,9,after_ai
+Honduras,Morocco,0.9993066770672892,9,after_ai
+Honduras,Kenya,0.9991413472669142,9,after_ai
+Guatemala,Mexico,0.9995913396833055,9,after_ai
+Guatemala,Sri Lanka,0.9995155241422613,9,after_ai
+Guatemala,Australia,0.9994221115450501,9,after_ai
+Mexico,Malaysia,0.9994972227306798,9,after_ai
+Mexico,Dominican Republic,0.9994575668652227,9,after_ai
+Mexico,Thailand,0.9992790554646818,9,after_ai
+Mexico,Australia,0.9991357415809579,9,after_ai
+Dominican Republic,Sweden,0.9995779347766129,9,after_ai
+Dominican Republic,Kazakhstan,0.9992022473671986,9,after_ai
+Dominican Republic,Panama,0.999155234740821,9,after_ai
+Colombia,Korea,0.9995896318697334,9,after_ai
+Burundi,South Sudan,0.99958926057876,9,after_ai
+Spain,Malaysia,0.9995518666535128,9,after_ai
+Spain,Uruguay,0.999253280905749,9,after_ai
+Spain,"Venezuela, Bolivarian Republic of",0.9992283819129062,9,after_ai
+Sweden,Grenada,0.999165528544065,9,after_ai
+Uruguay,"Venezuela, Bolivarian Republic of",0.9995713270202177,9,after_ai
+"Venezuela, Bolivarian Republic of",Kuwait,0.9993862102264619,9,after_ai
+Iraq,Jordan,0.9995545968683803,9,after_ai
+Malaysia,Greece,0.9992072303187598,9,after_ai
+Malaysia,Thailand,0.9991897137058968,9,after_ai
+Malaysia,Australia,0.999138683183054,9,after_ai
+Cambodia,Morocco,0.9995362969788705,9,after_ai
+Morocco,Bulgaria,0.999214319740881,9,after_ai
+Morocco,Benin,0.9991748707963761,9,after_ai
+Ghana,Senegal,0.999531413779553,9,after_ai
+Ghana,Ivory Coast,0.999390710761257,9,after_ai
+Ghana,Suriname,0.999320451936947,9,after_ai
+Bhutan,Zimbabwe,0.999516085946764,9,after_ai
+France,Portugal,0.9995005727561702,9,after_ai
+Ireland,Netherlands,0.9994722624939826,9,after_ai
+Chile,Nauru,0.9994602482424333,9,after_ai
+Estonia,Slovak,0.9994297950797854,9,after_ai
+Estonia,Czech,0.9993098493656881,9,after_ai
+Australia,Malawi,0.9992229378743068,9,after_ai
+Ivory Coast,Suriname,0.9993361412623375,9,after_ai
+Mozambique,Tunisia,0.9993051342605485,9,after_ai
+Philippines,Bulgaria,0.999140969637739,9,after_ai
+Saint Martin,Tuvalu,0.999265694766225,9,after_ai
+Pakistan,Uzbekistan,0.9992437183055509,9,after_ai
+Benin,Uganda,0.9991791058367759,9,after_ai
+Ecuador,Isle of Man,0.9991589987409637,9,after_ai
+Mauritania,South Africa,0.9991422623358057,9,after_ai

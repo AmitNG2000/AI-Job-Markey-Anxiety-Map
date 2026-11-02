@@ -1,0 +1,3 @@
+period,article_count,locations,mean_anxiety_score,mean_opportunity_score,mean_feeling_score,period_label
+before_ai,20632020,256,5.363523483276367,2.58162784576416,3.546964168548584,Before AI
+after_ai,30104139,251,6.427282333374023,2.8381009101867676,4.631119728088379,After AI

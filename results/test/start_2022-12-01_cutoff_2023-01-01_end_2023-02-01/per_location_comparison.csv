@@ -1,0 +1,5 @@
+period,article_count,locations,mean_anxiety_score,mean_opportunity_score,mean_feeling_score,period_label,location_type,location_name,location_country_code,location_admin1_code
+before_ai,41624,1,5.479719,2.744412,2.7631693,Before AI,1,Israel,IS,IS
+after_ai,76605,1,8.728078,3.1716673,5.9378786,After AI,1,Israel,IS,IS
+before_ai,1182178,1,6.8676295,3.20238,3.6884189,Before AI,1,United States,US,US
+after_ai,1708991,1,7.1626916,3.0416172,4.1527395,After AI,1,United States,US,US

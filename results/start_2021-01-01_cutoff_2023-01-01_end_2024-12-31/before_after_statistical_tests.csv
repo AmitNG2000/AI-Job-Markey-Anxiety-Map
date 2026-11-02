@@ -1,0 +1,4 @@
+score,before_mean,after_mean,t_statistic,p_value,significant_at_0.05
+Anxiety,6.3405743,5.901528,-88.44148,0.0,True
+Opportunity,2.7846138,2.5919337,-124.403915,0.0,True
+Feeling,4.6167297,4.2249722,-64.04211,0.0,True

@@ -1,0 +1,5 @@
+period,article_count,locations,mean_anxiety_score,mean_opportunity_score,mean_feeling_score
+after_ai,"818,785,904",265,5.902,2.592,4.225
+before_ai,"718,910,372",265,6.341,2.785,4.617
+after_ai - before_ai,"99,875,532",0,-0.439,-0.193,-0.392
+after_ai - before_ai (%),14,0,-6.924,-6.919,-8.486

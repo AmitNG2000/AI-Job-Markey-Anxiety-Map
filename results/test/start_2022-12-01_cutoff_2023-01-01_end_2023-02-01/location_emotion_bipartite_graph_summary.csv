@@ -1,0 +1,3 @@
+period,locations,emotions,nodes,edges,bipartite_density
+before_ai,20,8,28,120,0.75
+after_ai,20,9,29,120,0.6666666666666666

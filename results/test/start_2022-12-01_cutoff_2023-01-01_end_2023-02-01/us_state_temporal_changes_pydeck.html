@@ -1,0 +1,2094 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <title>pydeck</title>
+        <script src="https://api.tiles.mapbox.com/mapbox-gl-js/v1.13.0/mapbox-gl.js"></script>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="https://unpkg.com/maplibre-gl@5.14.0/dist/maplibre-gl.css" />
+    <script src='https://cdn.jsdelivr.net/npm/@deck.gl/jupyter-widget@~9.3.*/dist/index.js'></script>
+    <link rel="stylesheet" href=https://cdn.jsdelivr.net/npm/@deck.gl/widgets@~9.3.*/dist/stylesheet.css />
+    <style>
+    body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+#deck-container {
+  width: 100vw;
+  height: 100vh;
+}
+
+#deck-container canvas {
+  z-index: 1;
+  background: none;
+}
+
+#deck-container .error_text {
+  color: red;
+  background: none;
+  position: absolute;
+  z-index: 100;
+}
+    </style>
+  </head>
+  <body>
+    <div id="deck-container">
+    </div>
+  </body>
+  <script>
+    const container = document.getElementById('deck-container');
+    const jsonInput = {
+  "initialViewState": {
+    "latitude": 38,
+    "longitude": -98,
+    "maxZoom": 8,
+    "minZoom": 1,
+    "zoom": 2.5
+  },
+  "layers": [
+    {
+      "@@type": "ScatterplotLayer",
+      "autoHighlight": true,
+      "data": [
+        {
+          "article_count": 57274,
+          "article_count_label": "57,274",
+          "fill_color": [
+            209,
+            73,
+            91,
+            190
+          ],
+          "latitude": 32.318231,
+          "location_country_code": "AL",
+          "location_name": "Alabama",
+          "longitude": -86.902298,
+          "longitude_plot": -87.202298,
+          "radius_m": 65247.18359375,
+          "score": "anxiety_change",
+          "score_change": 2.4698691368103027,
+          "score_change_label": "+2.470",
+          "score_type": "Anxiety"
+        },
+        {
+          "article_count": 45586,
+          "article_count_label": "45,586",
+          "fill_color": [
+            76,
+            120,
+            168,
+            190
+          ],
+          "latitude": 63.588753,
+          "location_country_code": "AK",
+          "location_name": "Alaska",
+          "longitude": -154.493062,
+          "longitude_plot": -154.79306200000002,
+          "radius_m": 39243.875,
+          "score": "anxiety_change",
+          "score_change": -1.0504488945007324,
+          "score_change_label": "-1.050",
+          "score_type": "Anxiety"
+        },
+        {
+          "article_count": 104618,
+          "article_count_label": "104,618",
+          "fill_color": [
+            76,
+            120,
+            168,
+            190
+          ],
+          "latitude": 34.048928,
+          "location_country_code": "AZ",
+          "location_name": "Arizona",
+          "longitude": -111.093731,
+          "longitude_plot": -111.393731,
+          "radius_m": 20568.41015625,
+          "score": "anxiety_change",
+          "score_change": -0.03102731704711914,
+          "score_change_label": "-0.031",
+          "score_type": "Anxiety"
+        },
+        {
+          "article_count": 38330,
+          "article_count_label": "38,330",
+          "fill_color": [
+            76,
+            120,
+            168,
+            190
+          ],
+          "latitude": 35.20105,
+          "location_country_code": "AR",
+          "location_name": "Arkansas",
+          "longitude": -91.831833,
+          "longitude_plot": -92.131833,
+          "radius_m": 36202.53125,
+          "score": "anxiety_change",
+          "score_change": -0.8844337463378906,
+          "score_change_label": "-0.884",
+          "score_type": "Anxiety"
+        },
+        {
+          "article_count": 419673,
+          "article_count_label": "419,673",
+          "fill_color": [
+            76,
+            120,
+            168,
+            190
+          ],
+          "latitude": 36.778261,
+          "location_country_code": "CA",
+          "location_name": "California",
+          "longitude": -119.417932,
+          "longitude_plot": -119.71793199999999,
+          "radius_m": 31549.83984375,
+          "score": "anxiety_change",
+          "score_change": -0.6304612159729004,
+          "score_change_label": "-0.630",
+          "score_type": "Anxiety"
+        },
+        {
+          "article_count": 94946,
+          "article_count_label": "94,946",
+          "fill_color": [
+            209,
+            73,
+            91,
+            190
+          ],
+          "latitude": 39.550051,
+          "location_country_code": "CO",
+          "location_name": "Colorado",
+          "longitude": -105.782067,
+          "longitude_plot": -106.082067,
+          "radius_m": 34245.328125,
+          "score": "anxiety_change",
+          "score_change": 0.7775974273681641,
+          "score_change_label": "+0.778",
+          "score_type": "Anxiety"
+        },
+        {
+          "article_count": 49556,
+          "article_count_label": "49,556",
+          "fill_color": [
+            76,
+            120,
+            168,
+            190
+          ],
+          "latitude": 41.603221,
+          "location_country_code": "CT",
+          "location_name": "Connecticut",
+          "longitude": -73.087749,
+          "longitude_plot": -73.387749,
+          "radius_m": 38595.796875,
+          "score": "anxiety_change",
+          "score_change": -1.0150728225708008,
+          "score_change_label": "-1.015",
+          "score_type": "Anxiety"
+        },
+        {
+          "article_count": 38599,
+          "article_count_label": "38,599",
+          "fill_color": [
+            209,
+            73,
+            91,
+            190
+          ],
+          "latitude": 38.910832,
+          "location_country_code": "DE",
+          "location_name": "Delaware",
+          "longitude": -75.52767,
+          "longitude_plot": -75.82767,
+          "radius_m": 41975.7890625,
+          "score": "anxiety_change",
+          "score_change": 1.1995735168457031,
+          "score_change_label": "+1.200",
+          "score_type": "Anxiety"
+        },
+        {
+          "article_count": 211429,
+          "article_count_label": "211,429",
+          "fill_color": [
+            76,
+            120,
+            168,
+            190
+          ],
+          "latitude": 27.664827,
+          "location_country_code": "FL",
+          "location_name": "Florida",
+          "longitude": -81.515754,
+          "longitude_plot": -81.815754,
+          "radius_m": 23407.927734375,
+          "score": "anxiety_change",
+          "score_change": -0.18602561950683594,
+          "score_change_label": "-0.186",
+          "score_type": "Anxiety"
+        },
+        {
+          "article_count": 132218,
+          "article_count_label": "132,218",
+          "fill_color": [
+            209,
+            73,
+            91,
+            190
+          ],
+          "latitude": 32.157435,
+          "location_country_code": "GA",
+          "location_name": "Georgia",
+          "longitude": -82.907123,
+          "longitude_plot": -83.207123,
+          "radius_m": 88974.625,
+          "score": "anxiety_change",
+          "score_change": 3.7650585174560547,
+          "score_change_label": "+3.765",
+          "score_type": "Anxiety"
+        },
+        {
+          "article_count": 48099,
+          "article_count_label": "48,099",
+          "fill_color": [
+            76,
+            120,
+            168,
+            190
+          ],
+          "latitude": 19.898682,
+          "location_country_code": "HI",
+          "location_name": "Hawaii",
+          "longitude": -155.665857,
+          "longitude_plot": -155.965857,
+          "radius_m": 54952.5546875,
+          "score": "anxiety_change",
+          "score_change": -1.9079251289367676,
+          "score_change_label": "-1.908",
+          "score_type": "Anxiety"
+        },
+        {
+          "article_count": 36555,
+          "article_count_label": "36,555",
+          "fill_color": [
+            76,
+            120,
+            168,
+            190
+          ],
+          "latitude": 44.068202,
+          "location_country_code": "ID",
+          "location_name": "Idaho",
+          "longitude": -114.742041,
+          "longitude_plot": -115.042041,
+          "radius_m": 27738.751953125,
+          "score": "anxiety_change",
+          "score_change": -0.42242860794067383,
+          "score_change_label": "-0.422",
+          "score_type": "Anxiety"
+        },
+        {
+          "article_count": 87638,
+          "article_count_label": "87,638",
+          "fill_color": [
+            76,
+            120,
+            168,
+            190
+          ],
+          "latitude": 40.633125,
+          "location_country_code": "IL",
+          "location_name": "Illinois",
+          "longitude": -89.398528,
+          "longitude_plot": -89.698528,
+          "radius_m": 69801.6953125,
+          "score": "anxiety_change",
+          "score_change": -2.718482494354248,
+          "score_change_label": "-2.718",
+          "score_type": "Anxiety"
+        },
+        {
+          "article_count": 54084,
+          "article_count_label": "54,084",
+          "fill_color": [
+            76,
+            120,
+            168,
+            190
+          ],
+          "latitude": 40.551217,
+          "location_country_code": "IN",
+          "location_name": "Indiana",
+          "longitude": -85.602364,
+          "longitude_plot": -85.90236399999999,
+          "radius_m": 38815.1640625,
+          "score": "anxiety_change",
+          "score_change": -1.0270471572875977,
+          "score_change_label": "-1.027",
+          "score_type": "Anxiety"
+        },
+        {
+          "article_count": 59558,
+          "article_count_label": "59,558",
+          "fill_color": [
+            76,
+            120,
+            168,
+            190
+          ],
+          "latitude": 41.878003,
+          "location_country_code": "IA",
+          "location_name": "Iowa",
+          "longitude": -93.097702,
+          "longitude_plot": -93.397702,
+          "radius_m": 29691.51171875,
+          "score": "anxiety_change",
+          "score_change": -0.529022216796875,
+          "score_change_label": "-0.529",
+          "score_type": "Anxiety"
+        },
+        {
+          "article_count": 47212,
+          "article_count_label": "47,212",
+          "fill_color": [
+            76,
+            120,
+            168,
+            190
+          ],
+          "latitude": 39.011902,
+          "location_country_code": "KS",
+          "location_name": "Kansas",
+          "longitude": -98.484246,
+          "longitude_plot": -98.784246,
+          "radius_m": 39368.8984375,
+          "score": "anxiety_change",
+          "score_change": -1.0572733879089355,
+          "score_change_label": "-1.057",
+          "score_type": "Anxiety"
+        },
+        {
+          "article_count": 60561,
+          "article_count_label": "60,561",
+          "fill_color": [
+            209,
+            73,
+            91,
+            190
+          ],
+          "latitude": 37.839333,
+          "location_country_code": "KY",
+          "location_name": "Kentucky",
+          "longitude": -84.270018,
+          "longitude_plot": -84.57001799999999,
+          "radius_m": 51612.4140625,
+          "score": "anxiety_change",
+          "score_change": 1.725599765777588,
+          "score_change_label": "+1.726",
+          "score_type": "Anxiety"
+        },
+        {
+          "article_count": 50353,
+          "article_count_label": "50,353",
+          "fill_color": [
+            76,
+            120,
+            168,
+            190
+          ],
+          "latitude": 31.244823,
+          "location_country_code": "LA",
+          "location_name": "Louisiana",
+          "longitude": -92.145024,
+          "longitude_plot": -92.445024,
+          "radius_m": 109837.6640625,
+          "score": "anxiety_change",
+          "score_change": -4.903891086578369,
+          "score_change_label": "-4.904",
+          "score_type": "Anxiety"
+        },
+        {
+          "article_count": 45484,
+          "article_count_label": "45,484",
+          "fill_color": [
+            76,
+            120,
+            168,
+            190
+          ],
+          "latitude": 45.253783,
+          "location_country_code": "ME",
+          "location_name": "Maine",
+          "longitude": -69.445469,
+          "longitude_plot": -69.745469,
+          "radius_m": 25136.09765625,
+          "score": "anxiety_change",
+          "score_change": -0.28035974502563477,
+          "score_change_label": "-0.280",
+          "score_type": "Anxiety"
+        },
+        {
+          "article_count": 77980,
+          "article_count_label": "77,980",
+          "fill_color": [
+            76,
+            120,
+            168,
+            190
+          ],
+          "latitude": 39.045755,
+          "location_country_code": "MD",
+          "location_name": "Maryland",
+          "longitude": -76.641271,
+          "longitude_plot": -76.941271,
+          "radius_m": 21790.5859375,
+          "score": "anxiety_change",
+          "score_change": -0.09774112701416016,
+          "score_change_label": "-0.098",
+          "score_type": "Anxiety"
+        },
+        {
+          "article_count": 79578,
+          "article_count_label": "79,578",
+          "fill_color": [
+            209,
+            73,
+            91,
+            190
+          ],
+          "latitude": 42.407211,
+          "location_country_code": "MA",
+          "location_name": "Massachusetts",
+          "longitude": -71.382437,
+          "longitude_plot": -71.682437,
+          "radius_m": 200000.0,
+          "score": "anxiety_change",
+          "score_change": 9.825505256652832,
+          "score_change_label": "+9.826",
+          "score_type": "Anxiety"
+        },
+        {
+          "article_count": 101588,
+          "article_count_label": "101,588",
+          "fill_color": [
+            76,
+            120,
+            168,
+            190
+          ],
+          "latitude": 44.314844,
+          "location_country_code": "MI",
+          "location_name": "Michigan",
+          "longitude": -85.602364,
+          "longitude_plot": -85.90236399999999,
+          "radius_m": 27519.54296875,
+          "score": "anxiety_change",
+          "score_change": -0.4104628562927246,
+          "score_change_label": "-0.410",
+          "score_type": "Anxiety"
+        },
+        {
+          "article_count": 76570,
+          "article_count_label": "76,570",
+          "fill_color": [
+            209,
+            73,
+            91,
+            190
+          ],
+          "latitude": 46.729553,
+          "location_country_code": "MN",
+          "location_name": "Minnesota",
+          "longitude": -94.6859,
+          "longitude_plot": -94.9859,
+          "radius_m": 31076.09765625,
+          "score": "anxiety_change",
+          "score_change": 0.6046013832092285,
+          "score_change_label": "+0.605",
+          "score_type": "Anxiety"
+        },
+        {
+          "article_count": 41579,
+          "article_count_label": "41,579",
+          "fill_color": [
+            209,
+            73,
+            91,
+            190
+          ],
+          "latitude": 32.354668,
+          "location_country_code": "MS",
+          "location_name": "Mississippi",
+          "longitude": -89.398528,
+          "longitude_plot": -89.698528,
+          "radius_m": 34421.53125,
+          "score": "anxiety_change",
+          "score_change": 0.7872157096862793,
+          "score_change_label": "+0.787",
+          "score_type": "Anxiety"
+        },
+        {
+          "article_count": 55352,
+          "article_count_label": "55,352",
+          "fill_color": [
+            209,
+            73,
+            91,
+            190
+          ],
+          "latitude": 37.964253,
+          "location_country_code": "MO",
+          "location_name": "Missouri",
+          "longitude": -91.831833,
+          "longitude_plot": -92.131833,
+          "radius_m": 27702.359375,
+          "score": "anxiety_change",
+          "score_change": 0.4204421043395996,
+          "score_change_label": "+0.420",
+          "score_type": "Anxiety"
+        },
+        {
+          "article_count": 50207,
+          "article_count_label": "50,207",
+          "fill_color": [
+            76,
+            120,
+            168,
+            190
+          ],
+          "latitude": 46.879682,
+          "location_country_code": "MT",
+          "location_name": "Montana",
+          "longitude": -110.362566,
+          "longitude_plot": -110.662566,
+          "radius_m": 30829.171875,
+          "score": "anxiety_change",
+          "score_change": -0.5911226272583008,
+          "score_change_label": "-0.591",
+          "score_type": "Anxiety"
+        },
+        {
+          "article_count": 41129,
+          "article_count_label": "41,129",
+          "fill_color": [
+            209,
+            73,
+            91,
+            190
+          ],
+          "latitude": 41.492537,
+          "location_country_code": "NE",
+          "location_name": "Nebraska",
+          "longitude": -99.901813,
+          "longitude_plot": -100.201813,
+          "radius_m": 46967.4453125,
+          "score": "anxiety_change",
+          "score_change": 1.4720487594604492,
+          "score_change_label": "+1.472",
+          "score_type": "Anxiety"
+        },
+        {
+          "article_count": 50677,
+          "article_count_label": "50,677",
+          "fill_color": [
+            76,
+            120,
+            168,
+            190
+          ],
+          "latitude": 38.80261,
+          "location_country_code": "NV",
+          "location_name": "Nevada",
+          "longitude": -116.419389,
+          "longitude_plot": -116.71938899999999,
+          "radius_m": 86125.0625,
+          "score": "anxiety_change",
+          "score_change": -3.6095118522644043,
+          "score_change_label": "-3.610",
+          "score_type": "Anxiety"
+        },
+        {
+          "article_count": 32232,
+          "article_count_label": "32,232",
+          "fill_color": [
+            209,
+            73,
+            91,
+            190
+          ],
+          "latitude": 43.193852,
+          "location_country_code": "NH",
+          "location_name": "New Hampshire",
+          "longitude": -71.572395,
+          "longitude_plot": -71.872395,
+          "radius_m": 25943.912109375,
+          "score": "anxiety_change",
+          "score_change": 0.32445526123046875,
+          "score_change_label": "+0.324",
+          "score_type": "Anxiety"
+        },
+        {
+          "article_count": 71258,
+          "article_count_label": "71,258",
+          "fill_color": [
+            209,
+            73,
+            91,
+            190
+          ],
+          "latitude": 40.058324,
+          "location_country_code": "NJ",
+          "location_name": "New Jersey",
+          "longitude": -74.405661,
+          "longitude_plot": -74.70566099999999,
+          "radius_m": 22419.26953125,
+          "score": "anxiety_change",
+          "score_change": 0.13205862045288086,
+          "score_change_label": "+0.132",
+          "score_type": "Anxiety"
+        },
+        {
+          "article_count": 48225,
+          "article_count_label": "48,225",
+          "fill_color": [
+            209,
+            73,
+            91,
+            190
+          ],
+          "latitude": 34.97273,
+          "location_country_code": "NM",
+          "location_name": "New Mexico",
+          "longitude": -105.032363,
+          "longitude_plot": -105.332363,
+          "radius_m": 37415.1796875,
+          "score": "anxiety_change",
+          "score_change": 0.950627326965332,
+          "score_change_label": "+0.951",
+          "score_type": "Anxiety"
+        },
+        {
+          "article_count": 588183,
+          "article_count_label": "588,183",
+          "fill_color": [
+            76,
+            120,
+            168,
+            190
+          ],
+          "latitude": 43.299428,
+          "location_country_code": "NY",
+          "location_name": "New York",
+          "longitude": -74.217933,
+          "longitude_plot": -74.517933,
+          "radius_m": 31558.986328125,
+          "score": "anxiety_change",
+          "score_change": -0.6309604644775391,
+          "score_change_label": "-0.631",
+          "score_type": "Anxiety"
+        },
+        {
+          "article_count": 65443,
+          "article_count_label": "65,443",
+          "fill_color": [
+            209,
+            73,
+            91,
+            190
+          ],
+          "latitude": 35.759573,
+          "location_country_code": "NC",
+          "location_name": "North Carolina",
+          "longitude": -79.0193,
+          "longitude_plot": -79.3193,
+          "radius_m": 20767.859375,
+          "score": "anxiety_change",
+          "score_change": 0.04191446304321289,
+          "score_change_label": "+0.042",
+          "score_type": "Anxiety"
+        },
+        {
+          "article_count": 24730,
+          "article_count_label": "24,730",
+          "fill_color": [
+            209,
+            73,
+            91,
+            190
+          ],
+          "latitude": 47.551493,
+          "location_country_code": "ND",
+          "location_name": "North Dakota",
+          "longitude": -101.002012,
+          "longitude_plot": -101.30201199999999,
+          "radius_m": 57428.1015625,
+          "score": "anxiety_change",
+          "score_change": 2.043055534362793,
+          "score_change_label": "+2.043",
+          "score_type": "Anxiety"
+        },
+        {
+          "article_count": 90438,
+          "article_count_label": "90,438",
+          "fill_color": [
+            76,
+            120,
+            168,
+            190
+          ],
+          "latitude": 40.417287,
+          "location_country_code": "OH",
+          "location_name": "Ohio",
+          "longitude": -82.907123,
+          "longitude_plot": -83.207123,
+          "radius_m": 24027.16015625,
+          "score": "anxiety_change",
+          "score_change": -0.21982717514038086,
+          "score_change_label": "-0.220",
+          "score_type": "Anxiety"
+        },
+        {
+          "article_count": 50548,
+          "article_count_label": "50,548",
+          "fill_color": [
+            76,
+            120,
+            168,
+            190
+          ],
+          "latitude": 35.007752,
+          "location_country_code": "OK",
+          "location_name": "Oklahoma",
+          "longitude": -97.092877,
+          "longitude_plot": -97.392877,
+          "radius_m": 29031.1875,
+          "score": "anxiety_change",
+          "score_change": -0.4929776191711426,
+          "score_change_label": "-0.493",
+          "score_type": "Anxiety"
+        },
+        {
+          "article_count": 58990,
+          "article_count_label": "58,990",
+          "fill_color": [
+            76,
+            120,
+            168,
+            190
+          ],
+          "latitude": 43.804133,
+          "location_country_code": "OR",
+          "location_name": "Oregon",
+          "longitude": -120.554201,
+          "longitude_plot": -120.854201,
+          "radius_m": 35044.44140625,
+          "score": "anxiety_change",
+          "score_change": -0.8212180137634277,
+          "score_change_label": "-0.821",
+          "score_type": "Anxiety"
+        },
+        {
+          "article_count": 97368,
+          "article_count_label": "97,368",
+          "fill_color": [
+            209,
+            73,
+            91,
+            190
+          ],
+          "latitude": 41.203322,
+          "location_country_code": "PA",
+          "location_name": "Pennsylvania",
+          "longitude": -77.194525,
+          "longitude_plot": -77.494525,
+          "radius_m": 36195.31640625,
+          "score": "anxiety_change",
+          "score_change": 0.8840398788452148,
+          "score_change_label": "+0.884",
+          "score_type": "Anxiety"
+        },
+        {
+          "article_count": 20085,
+          "article_count_label": "20,085",
+          "fill_color": [
+            209,
+            73,
+            91,
+            190
+          ],
+          "latitude": 41.580095,
+          "location_country_code": "RI",
+          "location_name": "Rhode Island",
+          "longitude": -71.477429,
+          "longitude_plot": -71.777429,
+          "radius_m": 28835.642578125,
+          "score": "anxiety_change",
+          "score_change": 0.4823036193847656,
+          "score_change_label": "+0.482",
+          "score_type": "Anxiety"
+        },
+        {
+          "article_count": 56462,
+          "article_count_label": "56,462",
+          "fill_color": [
+            76,
+            120,
+            168,
+            190
+          ],
+          "latitude": 33.836081,
+          "location_country_code": "SC",
+          "location_name": "South Carolina",
+          "longitude": -81.163725,
+          "longitude_plot": -81.463725,
+          "radius_m": 25551.48046875,
+          "score": "anxiety_change",
+          "score_change": -0.30303382873535156,
+          "score_change_label": "-0.303",
+          "score_type": "Anxiety"
+        },
+        {
+          "article_count": 28031,
+          "article_count_label": "28,031",
+          "fill_color": [
+            209,
+            73,
+            91,
+            190
+          ],
+          "latitude": 43.969515,
+          "location_country_code": "SD",
+          "location_name": "South Dakota",
+          "longitude": -99.901813,
+          "longitude_plot": -100.201813,
+          "radius_m": 43836.58203125,
+          "score": "anxiety_change",
+          "score_change": 1.3011469841003418,
+          "score_change_label": "+1.301",
+          "score_type": "Anxiety"
+        },
+        {
+          "article_count": 73883,
+          "article_count_label": "73,883",
+          "fill_color": [
+            76,
+            120,
+            168,
+            190
+          ],
+          "latitude": 35.517491,
+          "location_country_code": "TN",
+          "location_name": "Tennessee",
+          "longitude": -86.580447,
+          "longitude_plot": -86.880447,
+          "radius_m": 41989.59375,
+          "score": "anxiety_change",
+          "score_change": -1.200326919555664,
+          "score_change_label": "-1.200",
+          "score_type": "Anxiety"
+        },
+        {
+          "article_count": 235849,
+          "article_count_label": "235,849",
+          "fill_color": [
+            209,
+            73,
+            91,
+            190
+          ],
+          "latitude": 31.968599,
+          "location_country_code": "TX",
+          "location_name": "Texas",
+          "longitude": -99.901813,
+          "longitude_plot": -100.201813,
+          "radius_m": 35204.1171875,
+          "score": "anxiety_change",
+          "score_change": 0.8299341201782227,
+          "score_change_label": "+0.830",
+          "score_type": "Anxiety"
+        },
+        {
+          "article_count": 42243,
+          "article_count_label": "42,243",
+          "fill_color": [
+            76,
+            120,
+            168,
+            190
+          ],
+          "latitude": 39.32098,
+          "location_country_code": "UT",
+          "location_name": "Utah",
+          "longitude": -111.093731,
+          "longitude_plot": -111.393731,
+          "radius_m": 28942.0859375,
+          "score": "anxiety_change",
+          "score_change": -0.4881138801574707,
+          "score_change_label": "-0.488",
+          "score_type": "Anxiety"
+        },
+        {
+          "article_count": 37885,
+          "article_count_label": "37,885",
+          "fill_color": [
+            76,
+            120,
+            168,
+            190
+          ],
+          "latitude": 44.558803,
+          "location_country_code": "VT",
+          "location_name": "Vermont",
+          "longitude": -72.577841,
+          "longitude_plot": -72.877841,
+          "radius_m": 27560.669921875,
+          "score": "anxiety_change",
+          "score_change": -0.4127078056335449,
+          "score_change_label": "-0.413",
+          "score_type": "Anxiety"
+        },
+        {
+          "article_count": 102243,
+          "article_count_label": "102,243",
+          "fill_color": [
+            76,
+            120,
+            168,
+            190
+          ],
+          "latitude": 37.431573,
+          "location_country_code": "VA",
+          "location_name": "Virginia",
+          "longitude": -78.656894,
+          "longitude_plot": -78.95689399999999,
+          "radius_m": 43054.546875,
+          "score": "anxiety_change",
+          "score_change": -1.2584586143493652,
+          "score_change_label": "-1.258",
+          "score_type": "Anxiety"
+        },
+        {
+          "article_count": 49087,
+          "article_count_label": "49,087",
+          "fill_color": [
+            209,
+            73,
+            91,
+            190
+          ],
+          "latitude": 47.751074,
+          "location_country_code": "WA",
+          "location_name": "Washington",
+          "longitude": -120.740139,
+          "longitude_plot": -121.040139,
+          "radius_m": 54514.390625,
+          "score": "anxiety_change",
+          "score_change": 1.884007453918457,
+          "score_change_label": "+1.884",
+          "score_type": "Anxiety"
+        },
+        {
+          "article_count": 45449,
+          "article_count_label": "45,449",
+          "fill_color": [
+            76,
+            120,
+            168,
+            190
+          ],
+          "latitude": 38.597626,
+          "location_country_code": "WV",
+          "location_name": "West Virginia",
+          "longitude": -80.454903,
+          "longitude_plot": -80.754903,
+          "radius_m": 55647.4921875,
+          "score": "anxiety_change",
+          "score_change": -1.9458589553833008,
+          "score_change_label": "-1.946",
+          "score_type": "Anxiety"
+        },
+        {
+          "article_count": 62634,
+          "article_count_label": "62,634",
+          "fill_color": [
+            76,
+            120,
+            168,
+            190
+          ],
+          "latitude": 43.78444,
+          "location_country_code": "WI",
+          "location_name": "Wisconsin",
+          "longitude": -88.787868,
+          "longitude_plot": -89.087868,
+          "radius_m": 20194.71484375,
+          "score": "anxiety_change",
+          "score_change": -0.010628700256347656,
+          "score_change_label": "-0.011",
+          "score_type": "Anxiety"
+        },
+        {
+          "article_count": 29595,
+          "article_count_label": "29,595",
+          "fill_color": [
+            209,
+            73,
+            91,
+            190
+          ],
+          "latitude": 43.075968,
+          "location_country_code": "WY",
+          "location_name": "Wyoming",
+          "longitude": -107.290284,
+          "longitude_plot": -107.590284,
+          "radius_m": 79460.8984375,
+          "score": "anxiety_change",
+          "score_change": 3.2457408905029297,
+          "score_change_label": "+3.246",
+          "score_type": "Anxiety"
+        },
+        {
+          "article_count": 57274,
+          "article_count_label": "57,274",
+          "fill_color": [
+            42,
+            157,
+            143,
+            190
+          ],
+          "latitude": 32.318231,
+          "location_country_code": "AL",
+          "location_name": "Alabama",
+          "longitude": -86.902298,
+          "longitude_plot": -86.602298,
+          "radius_m": 37232.1328125,
+          "score": "opportunity_change",
+          "score_change": 0.9406356811523438,
+          "score_change_label": "+0.941",
+          "score_type": "Opportunity"
+        },
+        {
+          "article_count": 45586,
+          "article_count_label": "45,586",
+          "fill_color": [
+            242,
+            142,
+            43,
+            190
+          ],
+          "latitude": 63.588753,
+          "location_country_code": "AK",
+          "location_name": "Alaska",
+          "longitude": -154.493062,
+          "longitude_plot": -154.193062,
+          "radius_m": 30341.66015625,
+          "score": "opportunity_change",
+          "score_change": -0.5645112991333008,
+          "score_change_label": "-0.565",
+          "score_type": "Opportunity"
+        },
+        {
+          "article_count": 104618,
+          "article_count_label": "104,618",
+          "fill_color": [
+            242,
+            142,
+            43,
+            190
+          ],
+          "latitude": 34.048928,
+          "location_country_code": "AZ",
+          "location_name": "Arizona",
+          "longitude": -111.093731,
+          "longitude_plot": -110.79373100000001,
+          "radius_m": 25053.0,
+          "score": "opportunity_change",
+          "score_change": -0.27582383155822754,
+          "score_change_label": "-0.276",
+          "score_type": "Opportunity"
+        },
+        {
+          "article_count": 38330,
+          "article_count_label": "38,330",
+          "fill_color": [
+            242,
+            142,
+            43,
+            190
+          ],
+          "latitude": 35.20105,
+          "location_country_code": "AR",
+          "location_name": "Arkansas",
+          "longitude": -91.831833,
+          "longitude_plot": -91.531833,
+          "radius_m": 23109.26953125,
+          "score": "opportunity_change",
+          "score_change": -0.1697230339050293,
+          "score_change_label": "-0.170",
+          "score_type": "Opportunity"
+        },
+        {
+          "article_count": 419673,
+          "article_count_label": "419,673",
+          "fill_color": [
+            242,
+            142,
+            43,
+            190
+          ],
+          "latitude": 36.778261,
+          "location_country_code": "CA",
+          "location_name": "California",
+          "longitude": -119.417932,
+          "longitude_plot": -119.117932,
+          "radius_m": 24593.08203125,
+          "score": "opportunity_change",
+          "score_change": -0.2507185935974121,
+          "score_change_label": "-0.251",
+          "score_type": "Opportunity"
+        },
+        {
+          "article_count": 94946,
+          "article_count_label": "94,946",
+          "fill_color": [
+            42,
+            157,
+            143,
+            190
+          ],
+          "latitude": 39.550051,
+          "location_country_code": "CO",
+          "location_name": "Colorado",
+          "longitude": -105.782067,
+          "longitude_plot": -105.482067,
+          "radius_m": 21737.625,
+          "score": "opportunity_change",
+          "score_change": 0.09485030174255371,
+          "score_change_label": "+0.095",
+          "score_type": "Opportunity"
+        },
+        {
+          "article_count": 49556,
+          "article_count_label": "49,556",
+          "fill_color": [
+            242,
+            142,
+            43,
+            190
+          ],
+          "latitude": 41.603221,
+          "location_country_code": "CT",
+          "location_name": "Connecticut",
+          "longitude": -73.087749,
+          "longitude_plot": -72.787749,
+          "radius_m": 32863.55859375,
+          "score": "opportunity_change",
+          "score_change": -0.702172040939331,
+          "score_change_label": "-0.702",
+          "score_type": "Opportunity"
+        },
+        {
+          "article_count": 38599,
+          "article_count_label": "38,599",
+          "fill_color": [
+            242,
+            142,
+            43,
+            190
+          ],
+          "latitude": 38.910832,
+          "location_country_code": "DE",
+          "location_name": "Delaware",
+          "longitude": -75.52767,
+          "longitude_plot": -75.22767,
+          "radius_m": 23363.041015625,
+          "score": "opportunity_change",
+          "score_change": -0.18357539176940918,
+          "score_change_label": "-0.184",
+          "score_type": "Opportunity"
+        },
+        {
+          "article_count": 211429,
+          "article_count_label": "211,429",
+          "fill_color": [
+            242,
+            142,
+            43,
+            190
+          ],
+          "latitude": 27.664827,
+          "location_country_code": "FL",
+          "location_name": "Florida",
+          "longitude": -81.515754,
+          "longitude_plot": -81.215754,
+          "radius_m": 42158.953125,
+          "score": "opportunity_change",
+          "score_change": -1.2095715999603271,
+          "score_change_label": "-1.210",
+          "score_type": "Opportunity"
+        },
+        {
+          "article_count": 132218,
+          "article_count_label": "132,218",
+          "fill_color": [
+            42,
+            157,
+            143,
+            190
+          ],
+          "latitude": 32.157435,
+          "location_country_code": "GA",
+          "location_name": "Georgia",
+          "longitude": -82.907123,
+          "longitude_plot": -82.607123,
+          "radius_m": 31684.52734375,
+          "score": "opportunity_change",
+          "score_change": 0.6378133296966553,
+          "score_change_label": "+0.638",
+          "score_type": "Opportunity"
+        },
+        {
+          "article_count": 48099,
+          "article_count_label": "48,099",
+          "fill_color": [
+            242,
+            142,
+            43,
+            190
+          ],
+          "latitude": 19.898682,
+          "location_country_code": "HI",
+          "location_name": "Hawaii",
+          "longitude": -155.665857,
+          "longitude_plot": -155.36585699999998,
+          "radius_m": 45186.34375,
+          "score": "opportunity_change",
+          "score_change": -1.3748252391815186,
+          "score_change_label": "-1.375",
+          "score_type": "Opportunity"
+        },
+        {
+          "article_count": 36555,
+          "article_count_label": "36,555",
+          "fill_color": [
+            242,
+            142,
+            43,
+            190
+          ],
+          "latitude": 44.068202,
+          "location_country_code": "ID",
+          "location_name": "Idaho",
+          "longitude": -114.742041,
+          "longitude_plot": -114.442041,
+          "radius_m": 23896.744140625,
+          "score": "opportunity_change",
+          "score_change": -0.2127082347869873,
+          "score_change_label": "-0.213",
+          "score_type": "Opportunity"
+        },
+        {
+          "article_count": 87638,
+          "article_count_label": "87,638",
+          "fill_color": [
+            42,
+            157,
+            143,
+            190
+          ],
+          "latitude": 40.633125,
+          "location_country_code": "IL",
+          "location_name": "Illinois",
+          "longitude": -89.398528,
+          "longitude_plot": -89.098528,
+          "radius_m": 24219.54296875,
+          "score": "opportunity_change",
+          "score_change": 0.23032855987548828,
+          "score_change_label": "+0.230",
+          "score_type": "Opportunity"
+        },
+        {
+          "article_count": 54084,
+          "article_count_label": "54,084",
+          "fill_color": [
+            242,
+            142,
+            43,
+            190
+          ],
+          "latitude": 40.551217,
+          "location_country_code": "IN",
+          "location_name": "Indiana",
+          "longitude": -85.602364,
+          "longitude_plot": -85.302364,
+          "radius_m": 23394.322265625,
+          "score": "opportunity_change",
+          "score_change": -0.18528294563293457,
+          "score_change_label": "-0.185",
+          "score_type": "Opportunity"
+        },
+        {
+          "article_count": 59558,
+          "article_count_label": "59,558",
+          "fill_color": [
+            242,
+            142,
+            43,
+            190
+          ],
+          "latitude": 41.878003,
+          "location_country_code": "IA",
+          "location_name": "Iowa",
+          "longitude": -93.097702,
+          "longitude_plot": -92.797702,
+          "radius_m": 28381.9375,
+          "score": "opportunity_change",
+          "score_change": -0.4575376510620117,
+          "score_change_label": "-0.458",
+          "score_type": "Opportunity"
+        },
+        {
+          "article_count": 47212,
+          "article_count_label": "47,212",
+          "fill_color": [
+            242,
+            142,
+            43,
+            190
+          ],
+          "latitude": 39.011902,
+          "location_country_code": "KS",
+          "location_name": "Kansas",
+          "longitude": -98.484246,
+          "longitude_plot": -98.184246,
+          "radius_m": 30649.791015625,
+          "score": "opportunity_change",
+          "score_change": -0.5813310146331787,
+          "score_change_label": "-0.581",
+          "score_type": "Opportunity"
+        },
+        {
+          "article_count": 60561,
+          "article_count_label": "60,561",
+          "fill_color": [
+            242,
+            142,
+            43,
+            190
+          ],
+          "latitude": 37.839333,
+          "location_country_code": "KY",
+          "location_name": "Kentucky",
+          "longitude": -84.270018,
+          "longitude_plot": -83.970018,
+          "radius_m": 23245.57421875,
+          "score": "opportunity_change",
+          "score_change": -0.17716336250305176,
+          "score_change_label": "-0.177",
+          "score_type": "Opportunity"
+        },
+        {
+          "article_count": 50353,
+          "article_count_label": "50,353",
+          "fill_color": [
+            242,
+            142,
+            43,
+            190
+          ],
+          "latitude": 31.244823,
+          "location_country_code": "LA",
+          "location_name": "Louisiana",
+          "longitude": -92.145024,
+          "longitude_plot": -91.84502400000001,
+          "radius_m": 59450.0625,
+          "score": "opportunity_change",
+          "score_change": -2.1534266471862793,
+          "score_change_label": "-2.153",
+          "score_type": "Opportunity"
+        },
+        {
+          "article_count": 45484,
+          "article_count_label": "45,484",
+          "fill_color": [
+            42,
+            157,
+            143,
+            190
+          ],
+          "latitude": 45.253783,
+          "location_country_code": "ME",
+          "location_name": "Maine",
+          "longitude": -69.445469,
+          "longitude_plot": -69.145469,
+          "radius_m": 24939.70703125,
+          "score": "opportunity_change",
+          "score_change": 0.2696394920349121,
+          "score_change_label": "+0.270",
+          "score_type": "Opportunity"
+        },
+        {
+          "article_count": 77980,
+          "article_count_label": "77,980",
+          "fill_color": [
+            42,
+            157,
+            143,
+            190
+          ],
+          "latitude": 39.045755,
+          "location_country_code": "MD",
+          "location_name": "Maryland",
+          "longitude": -76.641271,
+          "longitude_plot": -76.341271,
+          "radius_m": 29286.1328125,
+          "score": "opportunity_change",
+          "score_change": 0.5068941116333008,
+          "score_change_label": "+0.507",
+          "score_type": "Opportunity"
+        },
+        {
+          "article_count": 79578,
+          "article_count_label": "79,578",
+          "fill_color": [
+            242,
+            142,
+            43,
+            190
+          ],
+          "latitude": 42.407211,
+          "location_country_code": "MA",
+          "location_name": "Massachusetts",
+          "longitude": -71.382437,
+          "longitude_plot": -71.082437,
+          "radius_m": 31240.5078125,
+          "score": "opportunity_change",
+          "score_change": -0.6135759353637695,
+          "score_change_label": "-0.614",
+          "score_type": "Opportunity"
+        },
+        {
+          "article_count": 101588,
+          "article_count_label": "101,588",
+          "fill_color": [
+            242,
+            142,
+            43,
+            190
+          ],
+          "latitude": 44.314844,
+          "location_country_code": "MI",
+          "location_name": "Michigan",
+          "longitude": -85.602364,
+          "longitude_plot": -85.302364,
+          "radius_m": 25767.765625,
+          "score": "opportunity_change",
+          "score_change": -0.31484007835388184,
+          "score_change_label": "-0.315",
+          "score_type": "Opportunity"
+        },
+        {
+          "article_count": 76570,
+          "article_count_label": "76,570",
+          "fill_color": [
+            242,
+            142,
+            43,
+            190
+          ],
+          "latitude": 46.729553,
+          "location_country_code": "MN",
+          "location_name": "Minnesota",
+          "longitude": -94.6859,
+          "longitude_plot": -94.3859,
+          "radius_m": 20520.287109375,
+          "score": "opportunity_change",
+          "score_change": -0.028400421142578125,
+          "score_change_label": "-0.028",
+          "score_type": "Opportunity"
+        },
+        {
+          "article_count": 41579,
+          "article_count_label": "41,579",
+          "fill_color": [
+            242,
+            142,
+            43,
+            190
+          ],
+          "latitude": 32.354668,
+          "location_country_code": "MS",
+          "location_name": "Mississippi",
+          "longitude": -89.398528,
+          "longitude_plot": -89.098528,
+          "radius_m": 32013.40625,
+          "score": "opportunity_change",
+          "score_change": -0.6557655334472656,
+          "score_change_label": "-0.656",
+          "score_type": "Opportunity"
+        },
+        {
+          "article_count": 55352,
+          "article_count_label": "55,352",
+          "fill_color": [
+            242,
+            142,
+            43,
+            190
+          ],
+          "latitude": 37.964253,
+          "location_country_code": "MO",
+          "location_name": "Missouri",
+          "longitude": -91.831833,
+          "longitude_plot": -91.531833,
+          "radius_m": 20341.912109375,
+          "score": "opportunity_change",
+          "score_change": -0.018663644790649414,
+          "score_change_label": "-0.019",
+          "score_type": "Opportunity"
+        },
+        {
+          "article_count": 50207,
+          "article_count_label": "50,207",
+          "fill_color": [
+            42,
+            157,
+            143,
+            190
+          ],
+          "latitude": 46.879682,
+          "location_country_code": "MT",
+          "location_name": "Montana",
+          "longitude": -110.362566,
+          "longitude_plot": -110.062566,
+          "radius_m": 38770.84765625,
+          "score": "opportunity_change",
+          "score_change": 1.0246281623840332,
+          "score_change_label": "+1.025",
+          "score_type": "Opportunity"
+        },
+        {
+          "article_count": 41129,
+          "article_count_label": "41,129",
+          "fill_color": [
+            42,
+            157,
+            143,
+            190
+          ],
+          "latitude": 41.492537,
+          "location_country_code": "NE",
+          "location_name": "Nebraska",
+          "longitude": -99.901813,
+          "longitude_plot": -99.601813,
+          "radius_m": 41463.40625,
+          "score": "opportunity_change",
+          "score_change": 1.1716046333312988,
+          "score_change_label": "+1.172",
+          "score_type": "Opportunity"
+        },
+        {
+          "article_count": 50677,
+          "article_count_label": "50,677",
+          "fill_color": [
+            242,
+            142,
+            43,
+            190
+          ],
+          "latitude": 38.80261,
+          "location_country_code": "NV",
+          "location_name": "Nevada",
+          "longitude": -116.419389,
+          "longitude_plot": -116.119389,
+          "radius_m": 39027.12109375,
+          "score": "opportunity_change",
+          "score_change": -1.0386171340942383,
+          "score_change_label": "-1.039",
+          "score_type": "Opportunity"
+        },
+        {
+          "article_count": 32232,
+          "article_count_label": "32,232",
+          "fill_color": [
+            42,
+            157,
+            143,
+            190
+          ],
+          "latitude": 43.193852,
+          "location_country_code": "NH",
+          "location_name": "New Hampshire",
+          "longitude": -71.572395,
+          "longitude_plot": -71.272395,
+          "radius_m": 23427.54296875,
+          "score": "opportunity_change",
+          "score_change": 0.18709635734558105,
+          "score_change_label": "+0.187",
+          "score_type": "Opportunity"
+        },
+        {
+          "article_count": 71258,
+          "article_count_label": "71,258",
+          "fill_color": [
+            242,
+            142,
+            43,
+            190
+          ],
+          "latitude": 40.058324,
+          "location_country_code": "NJ",
+          "location_name": "New Jersey",
+          "longitude": -74.405661,
+          "longitude_plot": -74.105661,
+          "radius_m": 20789.205078125,
+          "score": "opportunity_change",
+          "score_change": -0.04307961463928223,
+          "score_change_label": "-0.043",
+          "score_type": "Opportunity"
+        },
+        {
+          "article_count": 48225,
+          "article_count_label": "48,225",
+          "fill_color": [
+            42,
+            157,
+            143,
+            190
+          ],
+          "latitude": 34.97273,
+          "location_country_code": "NM",
+          "location_name": "New Mexico",
+          "longitude": -105.032363,
+          "longitude_plot": -104.732363,
+          "radius_m": 26026.98828125,
+          "score": "opportunity_change",
+          "score_change": 0.32898998260498047,
+          "score_change_label": "+0.329",
+          "score_type": "Opportunity"
+        },
+        {
+          "article_count": 588183,
+          "article_count_label": "588,183",
+          "fill_color": [
+            242,
+            142,
+            43,
+            190
+          ],
+          "latitude": 43.299428,
+          "location_country_code": "NY",
+          "location_name": "New York",
+          "longitude": -74.217933,
+          "longitude_plot": -73.917933,
+          "radius_m": 27977.056640625,
+          "score": "opportunity_change",
+          "score_change": -0.4354367256164551,
+          "score_change_label": "-0.435",
+          "score_type": "Opportunity"
+        },
+        {
+          "article_count": 65443,
+          "article_count_label": "65,443",
+          "fill_color": [
+            242,
+            142,
+            43,
+            190
+          ],
+          "latitude": 35.759573,
+          "location_country_code": "NC",
+          "location_name": "North Carolina",
+          "longitude": -79.0193,
+          "longitude_plot": -78.7193,
+          "radius_m": 23618.41015625,
+          "score": "opportunity_change",
+          "score_change": -0.19751501083374023,
+          "score_change_label": "-0.198",
+          "score_type": "Opportunity"
+        },
+        {
+          "article_count": 24730,
+          "article_count_label": "24,730",
+          "fill_color": [
+            242,
+            142,
+            43,
+            190
+          ],
+          "latitude": 47.551493,
+          "location_country_code": "ND",
+          "location_name": "North Dakota",
+          "longitude": -101.002012,
+          "longitude_plot": -100.702012,
+          "radius_m": 29313.39453125,
+          "score": "opportunity_change",
+          "score_change": -0.5083823204040527,
+          "score_change_label": "-0.508",
+          "score_type": "Opportunity"
+        },
+        {
+          "article_count": 90438,
+          "article_count_label": "90,438",
+          "fill_color": [
+            242,
+            142,
+            43,
+            190
+          ],
+          "latitude": 40.417287,
+          "location_country_code": "OH",
+          "location_name": "Ohio",
+          "longitude": -82.907123,
+          "longitude_plot": -82.607123,
+          "radius_m": 32213.37109375,
+          "score": "opportunity_change",
+          "score_change": -0.6666808128356934,
+          "score_change_label": "-0.667",
+          "score_type": "Opportunity"
+        },
+        {
+          "article_count": 50548,
+          "article_count_label": "50,548",
+          "fill_color": [
+            242,
+            142,
+            43,
+            190
+          ],
+          "latitude": 35.007752,
+          "location_country_code": "OK",
+          "location_name": "Oklahoma",
+          "longitude": -97.092877,
+          "longitude_plot": -96.792877,
+          "radius_m": 30487.744140625,
+          "score": "opportunity_change",
+          "score_change": -0.5724854469299316,
+          "score_change_label": "-0.572",
+          "score_type": "Opportunity"
+        },
+        {
+          "article_count": 58990,
+          "article_count_label": "58,990",
+          "fill_color": [
+            42,
+            157,
+            143,
+            190
+          ],
+          "latitude": 43.804133,
+          "location_country_code": "OR",
+          "location_name": "Oregon",
+          "longitude": -120.554201,
+          "longitude_plot": -120.25420100000001,
+          "radius_m": 22374.986328125,
+          "score": "opportunity_change",
+          "score_change": 0.12964129447937012,
+          "score_change_label": "+0.130",
+          "score_type": "Opportunity"
+        },
+        {
+          "article_count": 97368,
+          "article_count_label": "97,368",
+          "fill_color": [
+            42,
+            157,
+            143,
+            190
+          ],
+          "latitude": 41.203322,
+          "location_country_code": "PA",
+          "location_name": "Pennsylvania",
+          "longitude": -77.194525,
+          "longitude_plot": -76.894525,
+          "radius_m": 34183.56640625,
+          "score": "opportunity_change",
+          "score_change": 0.774226188659668,
+          "score_change_label": "+0.774",
+          "score_type": "Opportunity"
+        },
+        {
+          "article_count": 20085,
+          "article_count_label": "20,085",
+          "fill_color": [
+            42,
+            157,
+            143,
+            190
+          ],
+          "latitude": 41.580095,
+          "location_country_code": "RI",
+          "location_name": "Rhode Island",
+          "longitude": -71.477429,
+          "longitude_plot": -71.177429,
+          "radius_m": 30607.62109375,
+          "score": "opportunity_change",
+          "score_change": 0.5790290832519531,
+          "score_change_label": "+0.579",
+          "score_type": "Opportunity"
+        },
+        {
+          "article_count": 56462,
+          "article_count_label": "56,462",
+          "fill_color": [
+            242,
+            142,
+            43,
+            190
+          ],
+          "latitude": 33.836081,
+          "location_country_code": "SC",
+          "location_name": "South Carolina",
+          "longitude": -81.163725,
+          "longitude_plot": -80.863725,
+          "radius_m": 23261.755859375,
+          "score": "opportunity_change",
+          "score_change": -0.17804670333862305,
+          "score_change_label": "-0.178",
+          "score_type": "Opportunity"
+        },
+        {
+          "article_count": 28031,
+          "article_count_label": "28,031",
+          "fill_color": [
+            242,
+            142,
+            43,
+            190
+          ],
+          "latitude": 43.969515,
+          "location_country_code": "SD",
+          "location_name": "South Dakota",
+          "longitude": -99.901813,
+          "longitude_plot": -99.601813,
+          "radius_m": 29048.27734375,
+          "score": "opportunity_change",
+          "score_change": -0.493910551071167,
+          "score_change_label": "-0.494",
+          "score_type": "Opportunity"
+        },
+        {
+          "article_count": 73883,
+          "article_count_label": "73,883",
+          "fill_color": [
+            42,
+            157,
+            143,
+            190
+          ],
+          "latitude": 35.517491,
+          "location_country_code": "TN",
+          "location_name": "Tennessee",
+          "longitude": -86.580447,
+          "longitude_plot": -86.28044700000001,
+          "radius_m": 20309.673828125,
+          "score": "opportunity_change",
+          "score_change": 0.01690387725830078,
+          "score_change_label": "+0.017",
+          "score_type": "Opportunity"
+        },
+        {
+          "article_count": 235849,
+          "article_count_label": "235,849",
+          "fill_color": [
+            42,
+            157,
+            143,
+            190
+          ],
+          "latitude": 31.968599,
+          "location_country_code": "TX",
+          "location_name": "Texas",
+          "longitude": -99.901813,
+          "longitude_plot": -99.601813,
+          "radius_m": 23731.625,
+          "score": "opportunity_change",
+          "score_change": 0.20369505882263184,
+          "score_change_label": "+0.204",
+          "score_type": "Opportunity"
+        },
+        {
+          "article_count": 42243,
+          "article_count_label": "42,243",
+          "fill_color": [
+            242,
+            142,
+            43,
+            190
+          ],
+          "latitude": 39.32098,
+          "location_country_code": "UT",
+          "location_name": "Utah",
+          "longitude": -111.093731,
+          "longitude_plot": -110.79373100000001,
+          "radius_m": 26771.93359375,
+          "score": "opportunity_change",
+          "score_change": -0.36965370178222656,
+          "score_change_label": "-0.370",
+          "score_type": "Opportunity"
+        },
+        {
+          "article_count": 37885,
+          "article_count_label": "37,885",
+          "fill_color": [
+            242,
+            142,
+            43,
+            190
+          ],
+          "latitude": 44.558803,
+          "location_country_code": "VT",
+          "location_name": "Vermont",
+          "longitude": -72.577841,
+          "longitude_plot": -72.27784100000001,
+          "radius_m": 48727.640625,
+          "score": "opportunity_change",
+          "score_change": -1.5681309700012207,
+          "score_change_label": "-1.568",
+          "score_type": "Opportunity"
+        },
+        {
+          "article_count": 102243,
+          "article_count_label": "102,243",
+          "fill_color": [
+            42,
+            157,
+            143,
+            190
+          ],
+          "latitude": 37.431573,
+          "location_country_code": "VA",
+          "location_name": "Virginia",
+          "longitude": -78.656894,
+          "longitude_plot": -78.356894,
+          "radius_m": 30604.91796875,
+          "score": "opportunity_change",
+          "score_change": 0.5788815021514893,
+          "score_change_label": "+0.579",
+          "score_type": "Opportunity"
+        },
+        {
+          "article_count": 49087,
+          "article_count_label": "49,087",
+          "fill_color": [
+            42,
+            157,
+            143,
+            190
+          ],
+          "latitude": 47.751074,
+          "location_country_code": "WA",
+          "location_name": "Washington",
+          "longitude": -120.740139,
+          "longitude_plot": -120.440139,
+          "radius_m": 22802.689453125,
+          "score": "opportunity_change",
+          "score_change": 0.15298795700073242,
+          "score_change_label": "+0.153",
+          "score_type": "Opportunity"
+        },
+        {
+          "article_count": 45449,
+          "article_count_label": "45,449",
+          "fill_color": [
+            42,
+            157,
+            143,
+            190
+          ],
+          "latitude": 38.597626,
+          "location_country_code": "WV",
+          "location_name": "West Virginia",
+          "longitude": -80.454903,
+          "longitude_plot": -80.154903,
+          "radius_m": 37110.3984375,
+          "score": "opportunity_change",
+          "score_change": 0.9339905977249146,
+          "score_change_label": "+0.934",
+          "score_type": "Opportunity"
+        },
+        {
+          "article_count": 62634,
+          "article_count_label": "62,634",
+          "fill_color": [
+            42,
+            157,
+            143,
+            190
+          ],
+          "latitude": 43.78444,
+          "location_country_code": "WI",
+          "location_name": "Wisconsin",
+          "longitude": -88.787868,
+          "longitude_plot": -88.487868,
+          "radius_m": 20815.830078125,
+          "score": "opportunity_change",
+          "score_change": 0.04453301429748535,
+          "score_change_label": "+0.045",
+          "score_type": "Opportunity"
+        },
+        {
+          "article_count": 29595,
+          "article_count_label": "29,595",
+          "fill_color": [
+            242,
+            142,
+            43,
+            190
+          ],
+          "latitude": 43.075968,
+          "location_country_code": "WY",
+          "location_name": "Wyoming",
+          "longitude": -107.290284,
+          "longitude_plot": -106.990284,
+          "radius_m": 41929.2578125,
+          "score": "opportunity_change",
+          "score_change": -1.1970336437225342,
+          "score_change_label": "-1.197",
+          "score_type": "Opportunity"
+        }
+      ],
+      "getFillColor": "@@=fill_color",
+      "getLineColor": [
+        255,
+        255,
+        255,
+        220
+      ],
+      "getPosition": "@@=[longitude_plot, latitude]",
+      "getRadius": "@@=radius_m",
+      "id": "73fdc2da-6837-4d64-9d78-bf6e8bc2ecde",
+      "lineWidthMinPixels": 1,
+      "pickable": true,
+      "stroked": true
+    }
+  ],
+  "mapProvider": "carto",
+  "mapStyle": "https://basemaps.cartocdn.com/gl/positron-gl-style/style.json",
+  "views": [
+    {
+      "@@type": "MapView",
+      "controller": true
+    }
+  ]
+};
+    const tooltip = {'html': '<b>{location_name} ({location_country_code})</b><br/>{score_type} change: {score_change_label}<br/>Articles: {article_count_label}', 'style': {'backgroundColor': '#243447', 'color': 'white'}};
+    const customLibraries = null;
+    const configuration = null;
+
+    const deckInstance = createDeck({
+                  container,
+      jsonInput,
+      tooltip,
+      customLibraries,
+      configuration,
+          });
+
+  </script>
+</html>
